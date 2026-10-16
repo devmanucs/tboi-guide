@@ -1,0 +1,110 @@
+@import "@fontsource/silkscreen/400.css";
+@import "@fontsource/silkscreen/700.css";
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+
+  --oracle-bg: #171a19;
+  --oracle-sidebar: #1c201e;
+  --oracle-surface: #252a27;
+  --oracle-surface-raised: #303631;
+  --oracle-ink: #e9e9dc;
+  --oracle-muted: #9ca69b;
+  --oracle-quiet: #69756c;
+  --oracle-paper: #e9d9b7;
+  --oracle-paper-shadow: #d4c29e;
+  --oracle-paper-ink: #24221d;
+  --oracle-paper-muted: #564b37;
+  --oracle-blood: #a13d34;
+  --oracle-blood-light: #d9816d;
+  --oracle-danger: #ff8b76;
+  --oracle-positive: #96b273;
+  --oracle-special: #c3a56c;
+  --oracle-soul: #9fbdd2;
+  --oracle-shadow: #090b0a;
+
+  --oracle-font-display: "Silkscreen", "Cascadia Code", monospace;
+  --oracle-font-body: "Segoe UI", "Arial", sans-serif;
+  --oracle-font-mono: "Cascadia Code", Consolas, monospace;
+}
+
+@theme inline {
+  --color-oracle-bg: var(--oracle-bg);
+  --color-oracle-sidebar: var(--oracle-sidebar);
+  --color-oracle-surface: var(--oracle-surface);
+  --color-oracle-surface-raised: var(--oracle-surface-raised);
+  --color-oracle-ink: var(--oracle-ink);
+  --color-oracle-muted: var(--oracle-muted);
+  --color-oracle-quiet: var(--oracle-quiet);
+  --color-oracle-paper: var(--oracle-paper);
+  --color-oracle-paper-shadow: var(--oracle-paper-shadow);
+  --color-oracle-paper-ink: var(--oracle-paper-ink);
+  --color-oracle-paper-muted: var(--oracle-paper-muted);
+  --color-oracle-blood: var(--oracle-blood);
+  --color-oracle-blood-light: var(--oracle-blood-light);
+  --color-oracle-danger: var(--oracle-danger);
+  --color-oracle-positive: var(--oracle-positive);
+  --color-oracle-special: var(--oracle-special);
+  --color-oracle-soul: var(--oracle-soul);
+  --color-oracle-shadow: var(--oracle-shadow);
+  --font-display: var(--oracle-font-display);
+  --font-sans: var(--oracle-font-body);
+  --font-mono: var(--oracle-font-mono);
+}
+
+* {
+  scrollbar-color: #575c56 transparent;
+  scrollbar-width: thin;
+}
+
+html,
+body,
+#root {
+  min-width: 920px;
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--oracle-bg);
+  color: var(--oracle-ink);
+  font-family: var(--oracle-font-body);
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.oracle-paper-floor {
+  position: relative;
+  isolation: isolate;
+  background-color: var(--oracle-bg);
+}
+
+.oracle-paper-floor::before {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  background-image: url("/assets/isaac-paper.png");
+  background-size: 560px 560px;
+  background-repeat: repeat;
+  opacity: 0.14;
+  filter: grayscale(1) contrast(0.8) brightness(0.75);
+  mix-blend-mode: screen;
+  content: "";
+  pointer-events: none;
+}
+
+.oracle-paper-floor > * {
+  position: relative;
+  z-index: 1;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+::selection {
+  color: #fff9ec;
+  background: var(--oracle-blood);
+}

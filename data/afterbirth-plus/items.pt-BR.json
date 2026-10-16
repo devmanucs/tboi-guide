@@ -1,0 +1,4170 @@
+[
+  {
+    "id": 245,
+    "localizedName": "20/20",
+    "localizedDescription": "Isaac dispara duas lágrimas ao mesmo tempo, uma de cada olho.",
+    "localizedTags": [
+      "Peitos",
+      "O dobro.",
+      "Óculos",
+      "Fio"
+    ]
+  },
+  {
+    "id": 191,
+    "localizedName": "Bill de 3 Dólares",
+    "localizedDescription": "Dá ao Isaac um efeito lágrima aleatório em cada sala.\nDá ao Isaac um efeito de lágrima aleatório a cada segundo.",
+    "localizedTags": [
+      "3",
+      "?",
+      "Bill",
+      "Papel",
+      "aleatório.",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 359,
+    "localizedName": "Unhas de 8 polegadas",
+    "localizedDescription": "Substituem as lágrimas de Isaac com pregos, que aumentaram o repulsão.",
+    "localizedTags": [
+      "Para baixo.",
+      "metal",
+      "Afiado.",
+      "Para cima."
+    ]
+  },
+  {
+    "id": 116,
+    "localizedName": "9 volts",
+    "localizedDescription": "Reduz a carga de qualquer item ativado em 1.",
+    "localizedTags": [
+      "bateria",
+      "Cubo",
+      "Nove."
+    ]
+  },
+  {
+    "id": 18,
+    "localizedName": "Dólar",
+    "localizedDescription": "Dá ao Isaac 99 moedas.",
+    "localizedTags": [
+      "$",
+      "99",
+      "Buck.",
+      "Dinheiro",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 132,
+    "localizedName": "Um monte de carvão",
+    "localizedDescription": "Quanto mais distância, mais dano causarão.",
+    "localizedTags": [
+      "Rock",
+      "round"
+    ]
+  },
+  {
+    "id": 130,
+    "localizedName": "Um pônei",
+    "localizedDescription": "Quando usado, Isaac carrega na direção que o pônei está enfrentando, dando invencibilidade durante a carga e causando 40 danos.",
+    "localizedTags": [
+      "Demônio.",
+      "vôo",
+      "Voar",
+      "Cabeça.",
+      "Cavalo."
+    ]
+  },
+  {
+    "id": 74,
+    "localizedName": "Moeda de 25 centavos",
+    "localizedDescription": "Adiciona 25 para a contagem de moedas de Isaac, chegando a 99.",
+    "localizedTags": [
+      "25",
+      "centavos.",
+      "Moeda",
+      "round"
+    ]
+  },
+  {
+    "id": 346,
+    "localizedName": "Um lanche",
+    "localizedDescription": "Concede um recipiente cheio de coração vermelho.",
+    "localizedTags": [
+      "Biscoito",
+      "Cachorro.",
+      "Traduzido por:"
+    ]
+  },
+  {
+    "id": 230,
+    "localizedName": "Abaddon",
+    "localizedDescription": "Remove todos os recipientes do Coração Vermelho, concede seis Corações Negros, e acrescenta uma chance de atirar em lágrimas de medo.\nDá dois Black Hearts, converte todos os recipientes de Red Heart em Black Hearts, e adiciona uma chance de atirar lágrimas de medo.",
+    "localizedTags": [
+      "Maligno.",
+      "pentagrama",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 465,
+    "localizedName": "Vara Analógica",
+    "localizedDescription": "Permite que Isaac dispare lágrimas na diagonal.",
+    "localizedTags": [
+      "cadeira",
+      "Controle",
+      "controlador",
+      "assento",
+      "banco",
+      "polegar"
+    ]
+  },
+  {
+    "id": 65,
+    "localizedName": "Livro de culinária anarquista",
+    "localizedDescription": "gera seis bombas Troll ao redor da sala.",
+    "localizedTags": [
+      "livro",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 214,
+    "localizedName": "Anêmico",
+    "localizedDescription": "Depois que Isaac for danificado, uma trilha de verme vermelho será deixada para trás até ele sair da sala atual.",
+    "localizedTags": [
+      "Sangue.",
+      "Deixe cair."
+    ]
+  },
+  {
+    "id": 161,
+    "localizedName": "Ankh",
+    "localizedDescription": "Após a morte, o jogador ressurge como três almas.",
+    "localizedTags": [
+      "Você está bem?",
+      "cruz",
+      "Santo"
+    ]
+  },
+  {
+    "id": 222,
+    "localizedName": "Anti-gravidade",
+    "localizedDescription": "Lágrimas flutuam em posição até cessar o disparo, depois disso elas voarão na direção em que foram baleadas.",
+    "localizedTags": [
+      "Atômica",
+      "Deixe cair."
+    ]
+  },
+  {
+    "id": 443,
+    "localizedName": "Maçã!",
+    "localizedDescription": "Aumenta as lágrimas e aumenta a chance de disparar uma lâmina de barbear.",
+    "localizedTags": [
+      "Fruta",
+      "metal",
+      "Navalha."
+    ]
+  },
+  {
+    "id": 308,
+    "localizedName": "Aquário",
+    "localizedDescription": "Uma trilha de canalha azul é deixada atrás de Isaac, que danifica inimigos.",
+    "localizedTags": [
+      "relâmpago",
+      "Dois.",
+      "ondas",
+      "Zig."
+    ]
+  },
+  {
+    "id": 300,
+    "localizedName": "Áries",
+    "localizedDescription": "Velocidade +0,25, esbarrar em inimigos enquanto em alta velocidade causará danos.",
+    "localizedTags": [
+      "chifres",
+      "ram",
+      "Sim."
+    ]
+  },
+  {
+    "id": 408,
+    "localizedName": "Athame",
+    "localizedDescription": "Quando Isaac sofre danos, um anel negro aparece brevemente ao seu redor, causando dano a todos os inimigos próximos.",
+    "localizedTags": [
+      "Garra",
+      "Diabo.",
+      "metal",
+      "Afiado.",
+      "Spike",
+      "stick",
+      "Chave inglesa."
+    ]
+  },
+  {
+    "id": 506,
+    "localizedName": "Traidor",
+    "localizedDescription": "As lágrimas de Isaac causam duplos danos e infligem sangramentos aos inimigos se estiverem longe de Isaac.",
+    "localizedTags": [
+      "Coração",
+      "Faca",
+      "metal",
+      "Apunhalar"
+    ]
+  },
+  {
+    "id": 231,
+    "localizedName": "Bola de Tar",
+    "localizedDescription": "Isaac deixa um rastro de rastejante lento enquanto se move, impedindo a velocidade dos inimigos.",
+    "localizedTags": [
+      "Bola",
+      "Brilho"
+    ]
+  },
+  {
+    "id": 458,
+    "localizedName": "Botão da barriga",
+    "localizedDescription": "Dá uma segunda oportunidade.",
+    "localizedTags": [
+      "Orelha",
+      "Buraco",
+      "orifício",
+      "Pucker.",
+      "round",
+      "Esfíncter"
+    ]
+  },
+  {
+    "id": 136,
+    "localizedName": "Melhor Amigo",
+    "localizedDescription": "gera um isca Isaac que eventualmente explode com um raio de explosão aumentado.",
+    "localizedTags": [
+      "Querida.",
+      "Bomba!",
+      "Morto",
+      "Engodo",
+      "Boneca."
+    ]
+  },
+  {
+    "id": 391,
+    "localizedName": "Traição",
+    "localizedDescription": "Toda vez que Isaac sofre dano, um efeito de charme é aplicado a cada inimigo na sala, fazendo com que eles ataquem uns aos outros em vez de Isaac.",
+    "localizedTags": [
+      "Sangue.",
+      "Faca",
+      "metal",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 247,
+    "localizedName": "BFFS!",
+    "localizedDescription": "Aumenta o tamanho e a eficácia dos familiares.",
+    "localizedTags": [
+      "Seta",
+      "familiar",
+      "Coração",
+      "texto"
+    ]
+  },
+  {
+    "id": 438,
+    "localizedName": "Binky",
+    "localizedDescription": "Concede um Coração de Alma, +0,75 lágrimas e diminui o tamanho de Isaac.",
+    "localizedTags": [
+      "Querida.",
+      "Plástico",
+      "Sopa",
+      "Toy"
+    ]
+  },
+  {
+    "id": 260,
+    "localizedName": "Vela Negra",
+    "localizedDescription": "Evita maldições, concede um Coração Negro, aumenta a chance de um Diabo ou um Anjo aparecer.",
+    "localizedTags": [
+      "Vela",
+      "maldição.",
+      "luz"
+    ]
+  },
+  {
+    "id": 226,
+    "localizedName": "Lotus Negra",
+    "localizedDescription": "Concede um Coração Vermelho, um Coração de Alma e um Coração Negro.",
+    "localizedTags": [
+      "Flor",
+      "Rosa"
+    ]
+  },
+  {
+    "id": 420,
+    "localizedName": "Pó preto",
+    "localizedDescription": "Isaac deixa um rastro de pó negro no chão, andando em círculo, vai gerar um símbolo de pentagrama no chão, que causa 10 danos por carrapato a qualquer inimigo dentro dele.",
+    "localizedTags": [
+      "Bolsa.",
+      "Maligno.",
+      "Almoço"
+    ]
+  },
+  {
+    "id": 286,
+    "localizedName": "Cartão em branco",
+    "localizedDescription": "Tem o mesmo efeito do cartão ou runa atualmente mantido por Isaac.\nTem o mesmo efeito do cartão de Isaac.",
+    "localizedTags": [
+      "Cartão",
+      "Retângulo",
+      "Runa."
+    ]
+  },
+  {
+    "id": 119,
+    "localizedName": "Saco de Sangue",
+    "localizedDescription": "Concede um recipiente de coração vermelho, restaura 5 corações vermelhos, e aumenta a velocidade em 0,3.",
+    "localizedTags": [
+      "Bolsa.",
+      "iv",
+      "molhado"
+    ]
+  },
+  {
+    "id": 254,
+    "localizedName": "Clot de sangue",
+    "localizedDescription": "Lágrimas disparadas do olho esquerdo têm +1 dano plano, +5 alcance, e +0,5 altura do lágrima.",
+    "localizedTags": [
+      "Sangue.",
+      "Nojento.",
+      "Brilhante."
+    ]
+  },
+  {
+    "id": 7,
+    "localizedName": "Sangue do Mártir",
+    "localizedDescription": "Aumenta os danos em 1, e transforma as lágrimas de Isaac em lágrimas de sangue.",
+    "localizedTags": [
+      "Coroa",
+      "halo",
+      "espinhoso",
+      "Anel",
+      "Espinhos"
+    ]
+  },
+  {
+    "id": 186,
+    "localizedName": "Direitos do Sangue",
+    "localizedDescription": "Quando usado, leva um coração cheio de saúde e causa 40 danos a todos os inimigos na sala.",
+    "localizedTags": [
+      "Lâmina",
+      "Sangue.",
+      "Corta.",
+      "metal",
+      "Navalha.",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 157,
+    "localizedName": "Maldita luxúria",
+    "localizedDescription": "Aumenta o dano de Isaac quando ele sofre danos, até seis vezes.",
+    "localizedTags": [
+      "Deixe cair."
+    ]
+  },
+  {
+    "id": 342,
+    "localizedName": "Cap azul",
+    "localizedDescription": "Dá um recipiente cheio de coração vermelho, +0,7 lágrimas e -0,16 velocidade de tiro.\nDá um recipiente de coração vermelho, 2 corações de saúde, +0,7 lágrimas e -0,16 velocidade de tiro.",
+    "localizedTags": [
+      "Cogumelo"
+    ]
+  },
+  {
+    "id": 246,
+    "localizedName": "Mapa Azul",
+    "localizedDescription": "Mostra locais secretos e super secretos no mapa.",
+    "localizedTags": [
+      "Página",
+      "Papel",
+      "Segredo",
+      "rasgado",
+      "Trilha",
+      "x"
+    ]
+  },
+  {
+    "id": 140,
+    "localizedName": "A Maldição do Bob",
+    "localizedDescription": "Dá 5 bombas e concede às bombas de Isaac um efeito venenoso.",
+    "localizedTags": [
+      "Bomba!",
+      "Rosto",
+      "doente."
+    ]
+  },
+  {
+    "id": 42,
+    "localizedName": "Bob's Rotten Head",
+    "localizedDescription": "Quando usado, Isaac segura uma bomba venenosa que pode ser jogada nas direções cardinais e explode no impacto.",
+    "localizedTags": [
+      "Bomba!",
+      "Morto",
+      "Cabeça."
+    ]
+  },
+  {
+    "id": 125,
+    "localizedName": "Bobby-Bomb",
+    "localizedDescription": "Bombas ganham um efeito de localização, indo lentamente em direção ao inimigo mais próximo.",
+    "localizedTags": [
+      "Bomba!",
+      "Rosto"
+    ]
+  },
+  {
+    "id": 250,
+    "localizedName": "Bombas Bogo",
+    "localizedDescription": "Todas as bombas se tornam bombas duplas.",
+    "localizedTags": [
+      "Bomba!",
+      "Papel"
+    ]
+  },
+  {
+    "id": 353,
+    "localizedName": "Bomber Boy",
+    "localizedDescription": "As bombas de Isaac explodirão em um grande padrão em forma de cruz (cerca de 5 explosões de bombas de largura).",
+    "localizedTags": [
+      "Rosto",
+      "Cabeça.",
+      "round",
+      "TNT"
+    ]
+  },
+  {
+    "id": 78,
+    "localizedName": "Livro das Revelações",
+    "localizedDescription": "Dá um Coração de Alma, aumenta a chance de um quarto de diabo ou anjo, e muda o chefe do andar atual para um Harbinger, se possível.",
+    "localizedTags": [
+      "Bíblia",
+      "livro",
+      "cruz"
+    ]
+  },
+  {
+    "id": 287,
+    "localizedName": "Livro dos Segredos",
+    "localizedDescription": "Dá o efeito do Mapa do Tesouro, A Bússola, ou Mapa Azul durante a duração do andar atual.",
+    "localizedTags": [
+      "?",
+      "livro",
+      "mapa",
+      "Segredo"
+    ]
+  },
+  {
+    "id": 58,
+    "localizedName": "Livro das Sombras",
+    "localizedDescription": "Cria um escudo protetor, anulando todos os danos por 10 segundos.",
+    "localizedTags": [
+      "livro",
+      "Escudo.",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 19,
+    "localizedName": "Boom!",
+    "localizedDescription": "Concede 10 bombas.",
+    "localizedTags": [
+      "10",
+      "##",
+      "Bomba!",
+      "Rosto",
+      "X10"
+    ]
+  },
+  {
+    "id": 198,
+    "localizedName": "Caixa",
+    "localizedDescription": "Uma moeda, uma chave, uma bomba, um coração vermelho, uma carta / runa, uma pílula e uma bugiganga.",
+    "localizedTags": [
+      "Caixa",
+      "Papelão",
+      "Caixa."
+    ]
+  },
+  {
+    "id": 357,
+    "localizedName": "Caixa de Amigos",
+    "localizedDescription": "Se Isaac não tem familiares, cria um bebê demônio para o quarto.",
+    "localizedTags": [
+      "Caixa.",
+      "familiar",
+      "metal"
+    ]
+  },
+  {
+    "id": 288,
+    "localizedName": "Caixa de Aranhas",
+    "localizedDescription": "gera 1-4 Blue Spiders que causam danos 2,5x aos inimigos.\ngera 4-8 Blue Spiders que causam danos 2x aos inimigos.",
+    "localizedTags": [
+      "Caixa",
+      "Papel",
+      "Aranha"
+    ]
+  },
+  {
+    "id": 25,
+    "localizedName": "Café da manhã",
+    "localizedDescription": "Concede um recipiente cheio de coração vermelho.",
+    "localizedTags": [
+      "Caixa",
+      "Voar",
+      "Leite",
+      "podre.",
+      "Azedo"
+    ]
+  },
+  {
+    "id": 326,
+    "localizedName": "Respiração da vida",
+    "localizedDescription": "Concede um breve momento de invencibilidade quando a barra de carga atingir zero.",
+    "localizedTags": [
+      "ar",
+      "Bola",
+      "Puff",
+      "Girar",
+      "Emaranhar",
+      "Fio"
+    ]
+  },
+  {
+    "id": 118,
+    "localizedName": "Brimstone",
+    "localizedDescription": "Lágrimas são substituídas por um raio laser que atravessa todos os inimigos e obstáculos em seu caminho e causa altos danos.",
+    "localizedTags": [
+      "8",
+      "Maligno.",
+      "laser",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 337,
+    "localizedName": "Relógio quebrado",
+    "localizedDescription": "A chance de entrar em uma sala para desacelerar ou acelerar cada inimigo e seus ataques.",
+    "localizedTags": [
+      "dispositivo",
+      "Devagar."
+    ]
+  },
+  {
+    "id": 504,
+    "localizedName": "Nugget Castanho",
+    "localizedDescription": "Espalha uma torre estacionária que dispara lágrimas em inimigos próximos.",
+    "localizedTags": [
+      "peito",
+      "Cubo"
+    ]
+  },
+  {
+    "id": 129,
+    "localizedName": "Balde de Banha",
+    "localizedDescription": "Concede dois recipientes vazios de Coração Vermelho e cura Isaac por meio Coração Vermelho, mas diminui a velocidade em 0,2.",
+    "localizedTags": [
+      "Contêiner",
+      "texto",
+      "Tubulação"
+    ]
+  },
+  {
+    "id": 377,
+    "localizedName": "Estourando Sack",
+    "localizedDescription": "Inimigos Aranhas não têm mais contato com Isaac.",
+    "localizedTags": [
+      "Bolsa.",
+      "Voar",
+      "Aranha",
+      "Web"
+    ]
+  },
+  {
+    "id": 209,
+    "localizedName": "Bombas de Bunda",
+    "localizedDescription": "Bombas agora nublam a tela, brevemente danificando e confundindo todos os inimigos.",
+    "localizedTags": [
+      "Rosto",
+      "Cocô."
+    ]
+  },
+  {
+    "id": 294,
+    "localizedName": "Feijão de manteiga",
+    "localizedDescription": "Ao usar, Isaac peida e derruba inimigos e projéteis próximos.",
+    "localizedTags": [
+      "Feijão",
+      "peidar",
+      "Grub"
+    ]
+  },
+  {
+    "id": 340,
+    "localizedName": "Pílula de cafeína",
+    "localizedDescription": "Concede +0,3 de velocidade, reduz o tamanho do caráter e dá uma pílula aleatória.",
+    "localizedTags": [
+      "Cápsula",
+      "Oval"
+    ]
+  },
+  {
+    "id": 412,
+    "localizedName": "Concepção de Cambion",
+    "localizedDescription": "Depois de tomar danos uma certa quantidade de vezes, um demoníaco permanente desova familiar.",
+    "localizedTags": [
+      "Nojento.",
+      "Grub",
+      "Larva"
+    ]
+  },
+  {
+    "id": 497,
+    "localizedName": "Camisas",
+    "localizedDescription": "Isaac fica camuflado no início de cada quarto, até que ele atire, todos os inimigos não-chefes ficarão confusos.",
+    "localizedTags": [
+      "Roupas",
+      "Calças.",
+      "shorts",
+      "Cueca."
+    ]
+  },
+  {
+    "id": 301,
+    "localizedName": "Câncer",
+    "localizedDescription": "Dá o efeito Wafer para a sala atual ao sofrer danos.",
+    "localizedTags": [
+      "69",
+      "Glyph.",
+      "wafer",
+      "yang",
+      "Ying.",
+      "Zodíaco"
+    ]
+  },
+  {
+    "id": 307,
+    "localizedName": "Capricórnio",
+    "localizedDescription": "Aumenta a saúde, danos, velocidade e alcance, diminui o atraso de lágrimas, e dá uma moeda, bomba e chave.",
+    "localizedTags": [
+      "Glyph.",
+      "Carta",
+      "n",
+      "Zodíaco"
+    ]
+  },
+  {
+    "id": 356,
+    "localizedName": "Bateria do carro",
+    "localizedDescription": "Causa o item ativado de Isaac para ativar duas vezes em cada uso.",
+    "localizedTags": [
+      "Carregar",
+      "Cubo",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 165,
+    "localizedName": "Gato-O-Nove-Tails",
+    "localizedDescription": "+1 dano, +0.23 velocidade de tiro.",
+    "localizedTags": [
+      "Cabelo",
+      "Fio",
+      "chicote",
+      "peruca"
+    ]
+  },
+  {
+    "id": 162,
+    "localizedName": "Cruz Celta",
+    "localizedDescription": "Dá a chance de desencadear o efeito do Livro das Sombras ao causar danos, criando um escudo que anula todos os tipos de danos por 7 segundos.",
+    "localizedTags": [
+      "+",
+      "cruz",
+      "Santo"
+    ]
+  },
+  {
+    "id": 216,
+    "localizedName": "Robes cerimoniais",
+    "localizedDescription": "Dá 3 Black Hearts e +1.",
+    "localizedTags": [
+      "Capa.",
+      "Roupas",
+      "Agasalho"
+    ]
+  },
+  {
+    "id": 208,
+    "localizedName": "Campeão Cinto",
+    "localizedDescription": "Aumenta os danos, mas também aumenta a chance de inimigos campeões aparecerem.",
+    "localizedTags": [
+      "Cinto",
+      "curva",
+      "Anel",
+      "round",
+      "Verme."
+    ]
+  },
+  {
+    "id": 402,
+    "localizedName": "Caos",
+    "localizedDescription": "Derruba 1-6 captadores aleatórios no chão.",
+    "localizedTags": [
+      "+",
+      "cruz",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 62,
+    "localizedName": "O encanto do vampiro",
+    "localizedDescription": "Cura Isaac para metade de um Coração Vermelho para cada 13 inimigos mortos.",
+    "localizedTags": [
+      "bat",
+      "Maligno.",
+      "Asa"
+    ]
+  },
+  {
+    "id": 154,
+    "localizedName": "Peel químico",
+    "localizedDescription": "Lágrimas disparadas do olho esquerdo têm +2 danos.",
+    "localizedTags": [
+      "Garrafa",
+      "Veneno"
+    ]
+  },
+  {
+    "id": 69,
+    "localizedName": "Leite de Chocolate",
+    "localizedDescription": "Grants carregava lágrimas que causavam maiores danos quando carregadas.",
+    "localizedTags": [
+      "Copo",
+      "Beba.",
+      "vidro"
+    ]
+  },
+  {
+    "id": 423,
+    "localizedName": "Círculo de Proteção",
+    "localizedDescription": "Cerca Isaac com uma grande auréola branca que ocasionalmente causa dano aos inimigos dentro dela, e pode converter tiros inimigos em lágrimas amigáveis.",
+    "localizedTags": [
+      "loop",
+      "Anel",
+      "round"
+    ]
+  },
+  {
+    "id": 482,
+    "localizedName": "Clicker",
+    "localizedDescription": "Transforma Isaac em um personagem aleatório e remove o último item coletado.",
+    "localizedTags": [
+      "Caixa",
+      "Botão",
+      "Remoto",
+      "Quadrado.",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 480,
+    "localizedName": "Compost",
+    "localizedDescription": "Dobra moscas azuis de Isaac e aranhas azuis, ou cria uma se Isaac não tem nenhuma.",
+    "localizedTags": [
+      "Voar",
+      "Lixo.",
+      "caroço",
+      "Apodreça.",
+      "Aranha"
+    ]
+  },
+  {
+    "id": 453,
+    "localizedName": "Fratura composta",
+    "localizedDescription": "Lágrimas se transformam em ossos, que se quebram em 1-3 fragmentos de osso ao atingir um inimigo ou obstáculo.",
+    "localizedTags": [
+      "Osso",
+      "Quebre",
+      "Quebrado.",
+      "Batatas fritas",
+      "peças",
+      "Quebrou."
+    ]
+  },
+  {
+    "id": 457,
+    "localizedName": "Cabeça de Cone",
+    "localizedDescription": "Dá ao Isaac a chance de ignorar qualquer dano causado.",
+    "localizedTags": [
+      "ovo",
+      "Northernlion",
+      "round"
+    ]
+  },
+  {
+    "id": 466,
+    "localizedName": "Contagion",
+    "localizedDescription": "O primeiro inimigo morto em uma sala explode e envenena inimigos próximos.",
+    "localizedTags": [
+      "Maligno.",
+      "Glyph.",
+      "radioativo",
+      "tóxico",
+      "Aviso."
+    ]
+  },
+  {
+    "id": 369,
+    "localizedName": "Continuum",
+    "localizedDescription": "As lágrimas viajam através das paredes e aparecem no lado oposto da sala.",
+    "localizedTags": [
+      "infinito",
+      "Anel",
+      "Forma",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 241,
+    "localizedName": "Contrato de Abaixo",
+    "localizedDescription": "Duplica o número da maioria dos prêmios, mas reduz a chance de conseguir um por 1/3.",
+    "localizedTags": [
+      "Isaac.",
+      "Página",
+      "Papel",
+      "texto"
+    ]
+  },
+  {
+    "id": 296,
+    "localizedName": "Conversor",
+    "localizedDescription": "Quando usado, converte duas almas em um recipiente cheio de coração.\nApós o uso, converte uma alma ou coração negro em um recipiente cheio de coração.",
+    "localizedTags": [
+      "cilindro",
+      "Buraco",
+      "round",
+      "string",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 354,
+    "localizedName": "Crack Jacks",
+    "localizedDescription": "Concede um recipiente cheio de Red Heart e deixa cair uma bugiganga aleatória.",
+    "localizedTags": [
+      "Caixa",
+      "texto",
+      "Trinket"
+    ]
+  },
+  {
+    "id": 160,
+    "localizedName": "Quebre o céu",
+    "localizedDescription": "Invoca 5 feixes de luz em locais aleatórios no chão, causando grandes danos a qualquer inimigo que os toque.",
+    "localizedTags": [
+      "Seta",
+      "Pena"
+    ]
+  },
+  {
+    "id": 224,
+    "localizedName": "Corpo de Críquete",
+    "localizedDescription": "Quando as lágrimas atingem um objeto ou esgotam seu alcance, elas geram 4 lágrimas menores, cujo alcance e escala de danos com Isaac.",
+    "localizedTags": [
+      "animal",
+      "Gato.",
+      "Morto",
+      "Cachorro.",
+      "pele"
+    ]
+  },
+  {
+    "id": 4,
+    "localizedName": "Cabeça de Grilo",
+    "localizedDescription": "Aumenta os danos em 0,5 e multiplica por 1,5x.",
+    "localizedTags": [
+      "animal",
+      "Gato.",
+      "Chihuahua",
+      "Morto",
+      "Cachorro.",
+      "Cabeça.",
+      "Gatinho.",
+      "Bichano."
+    ]
+  },
+  {
+    "id": 485,
+    "localizedName": "Penny Torta",
+    "localizedDescription": "Se o efeito falhar, os itens e captadores desaparecem.",
+    "localizedTags": [
+      "Curto.",
+      "Cem.",
+      "Moeda",
+      "Dinheiro"
+    ]
+  },
+  {
+    "id": 415,
+    "localizedName": "Coroa da Luz",
+    "localizedDescription": "Apesar de Isaac não ter corações vermelhos vazios, dá dano de 2x, alcance de 5,25 e velocidade de tiro de 0,3.",
+    "localizedTags": [
+      "Cap.",
+      "Diamante",
+      "Tiara."
+    ]
+  },
+  {
+    "id": 158,
+    "localizedName": "Bola de Cristal",
+    "localizedDescription": "Ao usar, revela o mapa (exceto o Quarto Super Secreto) e deixa cair um Coração de Alma ou um card/rune aleatório.",
+    "localizedTags": [
+      "Bola",
+      "vidro",
+      "Orb.",
+      "round"
+    ]
+  },
+  {
+    "id": 48,
+    "localizedName": "Flecha de Cupido",
+    "localizedDescription": "Dá a Isaac lágrimas penetrantes que viajam através de inimigos (mas não obstáculos) em vez de quebrar o impacto com eles.",
+    "localizedTags": [
+      "Seta",
+      "Curvem-se.",
+      "Pierce.",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 371,
+    "localizedName": "Maldição da Torre",
+    "localizedDescription": "Ao sofrer danos, gera seis bombas Troll ao redor da sala semelhante ao XVI - A Torre.",
+    "localizedTags": [
+      "Bomba!",
+      "Bota",
+      "Página"
+    ]
+  },
+  {
+    "id": 316,
+    "localizedName": "Maldito Olho",
+    "localizedDescription": "Grants carregou lágrimas que podem ser disparadas em uma explosão forte.",
+    "localizedTags": [
+      "Carregar",
+      "Pérola.",
+      "round",
+      "É uma droga."
+    ]
+  },
+  {
+    "id": 489,
+    "localizedName": "D Infinito",
+    "localizedDescription": "Concede um dado aleatório que muda cada uso.\nAtua como qualquer dado, e pode por pedalar pressionando a tecla drop.",
+    "localizedTags": [
+      "8",
+      "Cubo",
+      "Dados",
+      "Quadrado."
+    ]
+  },
+  {
+    "id": 476,
+    "localizedName": "D1",
+    "localizedDescription": "Duplica uma pickup aleatória na sala.",
+    "localizedTags": [
+      "Cubo",
+      "Dados"
+    ]
+  },
+  {
+    "id": 285,
+    "localizedName": "D10",
+    "localizedDescription": "Só rebobina monstros que ainda estão vivos (não gera novos inimigos).",
+    "localizedTags": [
+      "Cubo",
+      "Dados",
+      "Inimigo",
+      "Mob",
+      "polígono"
+    ]
+  },
+  {
+    "id": 283,
+    "localizedName": "D100",
+    "localizedDescription": "Combina os efeitos de D4, D6 e D20.\nCombina os efeitos de D1, D4, D6, D7, D8, D10, D12 e D20.",
+    "localizedTags": [
+      "Bola",
+      "Dados",
+      "Orb.",
+      "polígono"
+    ]
+  },
+  {
+    "id": 386,
+    "localizedName": "D12",
+    "localizedDescription": "Re-rola todas as rochas na sala atual em outros objetos aleatórios, como pedras de bomba, blocos de metal, TNT, ou cocôs.",
+    "localizedTags": [
+      "12",
+      "Cubo",
+      "Dados",
+      "polígono"
+    ]
+  },
+  {
+    "id": 166,
+    "localizedName": "D20",
+    "localizedDescription": "Repete todas as coletas na sala atual.",
+    "localizedTags": [
+      "Dados",
+      "item",
+      "Pickup",
+      "polígono"
+    ]
+  },
+  {
+    "id": 284,
+    "localizedName": "D4",
+    "localizedDescription": "Rebole todos os itens passivos de Isaac.",
+    "localizedTags": [
+      "Dados",
+      "pirâmide",
+      "Triângulo"
+    ]
+  },
+  {
+    "id": 437,
+    "localizedName": "D7",
+    "localizedDescription": "Reinicia a sala atual e traz de volta todos os inimigos, permitindo que mais recompensas sejam adquiridas completando a sala.",
+    "localizedTags": [
+      "7",
+      "Dados",
+      "metal",
+      "polígono"
+    ]
+  },
+  {
+    "id": 406,
+    "localizedName": "D8",
+    "localizedDescription": "Re-rola os danos de Isaac, lágrimas, alcance e velocidade.",
+    "localizedTags": [
+      "8",
+      "Dados",
+      "Prisma",
+      "pirâmide",
+      "Triângulo"
+    ]
+  },
+  {
+    "id": 175,
+    "localizedName": "A Chave do Papai",
+    "localizedDescription": "Abre todas as portas da sala atual quando ativadas, incluindo portas que requerem uma chave para abrir e entradas para quartos secretos.",
+    "localizedTags": [
+      "metal"
+    ]
+  },
+  {
+    "id": 455,
+    "localizedName": "A Moeda Perdida do Papai",
+    "localizedDescription": "Alcance de 1.5, Derruba um Lucky Penny.",
+    "localizedTags": [
+      "Moeda",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 259,
+    "localizedName": "Matéria Escura",
+    "localizedDescription": "+1 dano, acrescenta uma chance de atirar lágrimas de medo.",
+    "localizedTags": [
+      "Bola",
+      "Blob",
+      "Medo",
+      "Voar",
+      "Nojento.",
+      "caroço"
+    ]
+  },
+  {
+    "id": 442,
+    "localizedName": "Coroa do Príncipe das Trevas",
+    "localizedDescription": "Quando em exatamente um Coração Vermelho, concede +0,75 lágrimas, +1,5 alcance, +1 altura de lágrima, +0,2 velocidade de tiro.",
+    "localizedTags": [
+      "Cap.",
+      "Coroa",
+      "Folha",
+      "pata",
+      "Tiara."
+    ]
+  },
+  {
+    "id": 481,
+    "localizedName": "Dataminer",
+    "localizedDescription": "Desloca as imagens inimigas para a sala atual, aumenta aleatoriamente uma e diminui outra.",
+    "localizedTags": [
+      "machado",
+      "Escolha.",
+      "Pickaxe",
+      "ferramenta"
+    ]
+  },
+  {
+    "id": 117,
+    "localizedName": "Pássaro Morto",
+    "localizedDescription": "Depois que Isaac sofre danos, gera um vôo familiar que persegue inimigos para a sala atual, lidando com 5 danos por segundo.",
+    "localizedTags": [
+      "animal",
+      "pássaro",
+      "Morto"
+    ]
+  },
+  {
+    "id": 185,
+    "localizedName": "Pomba morta",
+    "localizedDescription": "Concede lágrimas espectrais e fuga.",
+    "localizedTags": [
+      "pássaro",
+      "vôo",
+      "Voar",
+      "metal",
+      "estátua"
+    ]
+  },
+  {
+    "id": 373,
+    "localizedName": "Olho Morto",
+    "localizedDescription": "Os danos de Isaac aumentam cada vez que um inimigo é atingido.",
+    "localizedTags": [
+      "Sangue.",
+      "Bullseye.",
+      "round",
+      "Alvo",
+      "molhado"
+    ]
+  },
+  {
+    "id": 336,
+    "localizedName": "Cebola morta",
+    "localizedDescription": "Aumenta o tamanho da lágrima (sem danos crescentes) enquanto reduz o alcance e a velocidade do tiro.",
+    "localizedTags": [
+      "Lâmpada",
+      "Rosto",
+      "Alho.",
+      "vegetal"
+    ]
+  },
+  {
+    "id": 124,
+    "localizedName": "Pergaminhos do Mar Morto",
+    "localizedDescription": "Aciona o efeito de um item ativado aleatório de uma lista de opções possíveis (nem cada item ativado está incluído).",
+    "localizedTags": [
+      "2",
+      "Papel",
+      "Rolo",
+      "rolagem"
+    ]
+  },
+  {
+    "id": 446,
+    "localizedName": "Dente Morto",
+    "localizedDescription": "Enquanto dispara, Isaac ganha uma aura verde que envenena inimigos próximos.",
+    "localizedTags": [
+      "Morto",
+      "Dental",
+      "Rosto",
+      "Dentes"
+    ]
+  },
+  {
+    "id": 237,
+    "localizedName": "Toque da Morte",
+    "localizedDescription": "Lágrimas são substituídas por grandes foices perfurantes.",
+    "localizedTags": [
+      "Lâmina",
+      "Faca",
+      "metal",
+      "Pierce.",
+      "Foice"
+    ]
+  },
+  {
+    "id": 85,
+    "localizedName": "Deck of Cards",
+    "localizedDescription": "Dá ao Isaac um cartão aleatório.",
+    "localizedTags": [
+      "Caixa",
+      "Cartão",
+      "Tarô"
+    ]
+  },
+  {
+    "id": 416,
+    "localizedName": "Deep Pockets",
+    "localizedDescription": "Permite que Isaac carregue duas cartas ou pílulas (ou uma combinação de ambas) ao mesmo tempo.\nSe uma sala não render recompensa, 1-3 moedas gerarão.",
+    "localizedTags": [
+      "Quebrado.",
+      "ovo",
+      "vazio",
+      "pílula"
+    ]
+  },
+  {
+    "id": 510,
+    "localizedName": "Delirante",
+    "localizedDescription": "gera Delirium como um chefe amigável que luta por Isaac.",
+    "localizedTags": [
+      "Rosto",
+      "Fantasma.",
+      "Assustador."
+    ]
+  },
+  {
+    "id": 24,
+    "localizedName": "Sobremesa",
+    "localizedDescription": "Concede um recipiente cheio de coração vermelho.",
+    "localizedTags": [
+      "Bolsa.",
+      "Cachorro.",
+      "Comida",
+      "texto"
+    ]
+  },
+  {
+    "id": 23,
+    "localizedName": "Jantar",
+    "localizedDescription": "Concede um recipiente cheio de coração vermelho.",
+    "localizedTags": [
+      "Pode",
+      "cilindro",
+      "Cachorro.",
+      "Comida"
+    ]
+  },
+  {
+    "id": 347,
+    "localizedName": "Diplopia",
+    "localizedDescription": "Duplica todas as coletas e pedestais de itens na sala.",
+    "localizedTags": [
+      "Dupe.",
+      "Olho",
+      "round",
+      "Shakey"
+    ]
+  },
+  {
+    "id": 47,
+    "localizedName": "Doctor's Remote",
+    "localizedDescription": "Um míssil atinge o local após 2 segundos, criando uma explosão de danos.",
+    "localizedTags": [
+      "Bomba!",
+      "Botão",
+      "Remoto",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 445,
+    "localizedName": "Dente de cachorro",
+    "localizedDescription": "Reproduz um som de uivo ou latido ao entrar em uma sala com quartos secretos não descobertos ou Crawl Spaces.",
+    "localizedTags": [
+      "Dental",
+      "pontiagudo",
+      "Dentes"
+    ]
+  },
+  {
+    "id": 52,
+    "localizedName": "Dr. Fetus",
+    "localizedDescription": "Lágrimas são substituídas por bombas que se beneficiam de efeitos que aumentam a bomba e deslizam por um tempo fixo após serem disparadas.",
+    "localizedTags": [
+      "Querida.",
+      "Bomba!",
+      "vidro",
+      "Jarro."
+    ]
+  },
+  {
+    "id": 498,
+    "localizedName": "Duplaidade",
+    "localizedDescription": "Sempre que um quarto de diabo ou anjo desova depois de derrotar um chefe, ambos os quartos desova.",
+    "localizedTags": [
+      "metade",
+      "Lua",
+      "round",
+      "semi"
+    ]
+  },
+  {
+    "id": 486,
+    "localizedName": "Dull Razor",
+    "localizedDescription": "Machuca Isaac sem esgotar a saúde, ativando itens que desencadeiam danos.",
+    "localizedTags": [
+      "metal",
+      "Afiado.",
+      "Quadrado.",
+      "Bilhete"
+    ]
+  },
+  {
+    "id": 236,
+    "localizedName": "E Coli",
+    "localizedDescription": "Inimigos que tocam Isaac são transformados em cocô.",
+    "localizedTags": [
+      "germe",
+      "Cocô.",
+      "esperma",
+      "cauda"
+    ]
+  },
+  {
+    "id": 381,
+    "localizedName": "Bênção do Éden",
+    "localizedDescription": "Dá um item aleatório no início da próxima corrida.",
+    "localizedTags": [
+      "florescer",
+      "Flor",
+      "Flor",
+      "Lotus."
+    ]
+  },
+  {
+    "id": 490,
+    "localizedName": "A Alma do Éden",
+    "localizedDescription": "gera dois pedestais de itens então são consumidos.",
+    "localizedTags": [
+      "Brilhante.",
+      "Círculo",
+      "Brilhar"
+    ]
+  },
+  {
+    "id": 409,
+    "localizedName": "Vazio",
+    "localizedDescription": "Enquanto Isaac não tem corações vermelhos, concede vôo e periodicamente concede um escudo de invencibilidade por alguns segundos.",
+    "localizedTags": [
+      "Bolsa.",
+      "bolsa",
+      "round",
+      "string"
+    ]
+  },
+  {
+    "id": 168,
+    "localizedName": "Feto épico",
+    "localizedDescription": "As lágrimas de Isaac são substituídas por mísseis guiados, como os usados pelo Doctor's Remote.",
+    "localizedTags": [
+      "Querida.",
+      "Bomba!",
+      "vidro",
+      "Chapéu",
+      "Jarro."
+    ]
+  },
+  {
+    "id": 368,
+    "localizedName": "Epífora",
+    "localizedDescription": "Atirar em uma direção aumenta a taxa de fogo de Isaac até que o boné seja atingido.",
+    "localizedTags": [
+      "Gotejamento",
+      "Três",
+      "Água",
+      "molhado"
+    ]
+  },
+  {
+    "id": 499,
+    "localizedName": "Eucaristia",
+    "localizedDescription": "Uma porta Angel Room sempre vai gerar depois de cada briga de chefe, excluindo o primeiro andar e pisos após Womb II / Utero II.",
+    "localizedTags": [
+      "Creme",
+      "cruz",
+      "Copo",
+      "prato",
+      "Gelo",
+      "wafer"
+    ]
+  },
+  {
+    "id": 496,
+    "localizedName": "Eutanásia",
+    "localizedDescription": "Se uma agulha mata um inimigo, ela explode em mais lágrimas e agulhas.",
+    "localizedTags": [
+      "Agulha.",
+      "foguete",
+      "seringa"
+    ]
+  },
+  {
+    "id": 310,
+    "localizedName": "Mascara de Eva",
+    "localizedDescription": "Danos duplos, metades de lágrimas e reduz a velocidade do tiro.",
+    "localizedTags": [
+      "Olho",
+      "Cílios",
+      "chicotear",
+      "maquiagem",
+      "pedaço",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 410,
+    "localizedName": "Olho Maligno",
+    "localizedDescription": "Enquanto dispara lágrimas, Isaac tem a chance de disparar um olho através da tela com uma velocidade de tiro muito lenta, que disparará lágrimas próprias na mesma direção que Isaac.",
+    "localizedTags": [
+      "Olho",
+      "Brilhar"
+    ]
+  },
+  {
+    "id": 240,
+    "localizedName": "Tratamento Experimental",
+    "localizedDescription": "Aumenta aleatoriamente e diminui algumas estatísticas do personagem.",
+    "localizedTags": [
+      "Agulha."
+    ]
+  },
+  {
+    "id": 401,
+    "localizedName": "Explosivo",
+    "localizedDescription": "As lágrimas de Isaac têm a chance de ficar com inimigos e explodir.",
+    "localizedTags": [
+      "Bomba!",
+      "Olho",
+      "round"
+    ]
+  },
+  {
+    "id": 462,
+    "localizedName": "Olho de Belial",
+    "localizedDescription": "Depois de perfurar um inimigo, as lágrimas começam a procurar e causam danos duplos.",
+    "localizedTags": [
+      "Corta.",
+      "Orb.",
+      "Pacman.",
+      "round",
+      "cortar"
+    ]
+  },
+  {
+    "id": 450,
+    "localizedName": "Olho da Ganância",
+    "localizedDescription": "A cada 20 lágrimas, Isaac perde 1 moeda e dispara uma lágrima de ouro adicional que petrifica inimigos e os transforma em ouro.",
+    "localizedTags": [
+      "Cem.",
+      "Moeda",
+      "Dinheiro"
+    ]
+  },
+  {
+    "id": 204,
+    "localizedName": "Fanny Pack",
+    "localizedDescription": "Tem a chance de largar uma picape aleatória quando Isaac se machuca.",
+    "localizedTags": [
+      "Bolsa.",
+      "Pickup"
+    ]
+  },
+  {
+    "id": 179,
+    "localizedName": "Destino",
+    "localizedDescription": "Concede vôo e um Coração Eterno.",
+    "localizedTags": [
+      "Morto",
+      "Eterna",
+      "vôo",
+      "Voar",
+      "Cabeça.",
+      "Coração"
+    ]
+  },
+  {
+    "id": 257,
+    "localizedName": "Mente de Fogo",
+    "localizedDescription": "As lágrimas têm a chance de explodir no impacto com um inimigo, o que cria um incêndio no local da explosão.",
+    "localizedTags": [
+      "Bola",
+      "Bomba!",
+      "Chama"
+    ]
+  },
+  {
+    "id": 291,
+    "localizedName": "Flush!",
+    "localizedDescription": "Torna todos os monstros não-chefes na sala em cocô.",
+    "localizedTags": [
+      "pega",
+      "metal",
+      "Cocô.",
+      "colher",
+      "utensílio"
+    ]
+  },
+  {
+    "id": 127,
+    "localizedName": "Esqueça-me agora",
+    "localizedDescription": "Isaac perde Me Esqueça Agora, mas mantém outros itens e consumíveis no chão original.",
+    "localizedTags": [
+      "Cap.",
+      "cilindro",
+      "pílula",
+      "Reroll"
+    ]
+  },
+  {
+    "id": 382,
+    "localizedName": "Bola amigável",
+    "localizedDescription": "Jogando a bola em um monstro imediatamente mata e captura-a.",
+    "localizedTags": [
+      "Bola",
+      "Capturar",
+      "metal",
+      "Pikachu.",
+      "Pokemon."
+    ]
+  },
+  {
+    "id": 418,
+    "localizedName": "Bolo de Fruta",
+    "localizedDescription": "As lágrimas de Isaac ganham um efeito aleatório que muda cada tiro.",
+    "localizedTags": [
+      "Pão",
+      "Bolo.",
+      "Comida",
+      "Buraco",
+      "round"
+    ]
+  },
+  {
+    "id": 495,
+    "localizedName": "Pimenta Fantasma",
+    "localizedDescription": "Dá a chance de atirar fogos ao lado de lágrimas que bloqueiam tiros inimigos e causam danos aos inimigos que os tocam.\nDá a chance de atirar fogos azuis ao lado de lágrimas que ficam menores à medida que viajam.",
+    "localizedTags": [
+      "Chili.",
+      "Rosto",
+      "Fantasma.",
+      "Pimenta"
+    ]
+  },
+  {
+    "id": 225,
+    "localizedName": "Gimpy",
+    "localizedDescription": "Inimigos têm a chance de soltar um Meio Coração Vermelho depois de serem mortos.",
+    "localizedTags": [
+      "Bsdm",
+      "Rosto",
+      "Cabeça.",
+      "Couro",
+      "round"
+    ]
+  },
+  {
+    "id": 352,
+    "localizedName": "Canhão de Vidro",
+    "localizedDescription": "Dispara uma lágrima espectral penetrante, mas reduz a saúde de Isaac a meio coração.\nSe Isaac sofrer danos enquanto segura o Canhão de Vidro, ele sofre danos extras e se torna o Canhão de Vidro Quebrado.",
+    "localizedTags": [
+      "cilindro",
+      "metal"
+    ]
+  },
+  {
+    "id": 460,
+    "localizedName": "Glaucoma",
+    "localizedDescription": "Adiciona uma chance de atirar em lágrimas que confundem inimigos por muito tempo.",
+    "localizedTags": [
+      "Olho",
+      "round"
+    ]
+  },
+  {
+    "id": 432,
+    "localizedName": "Bombas Glitter",
+    "localizedDescription": "Bombas têm a chance de derrubar captadores aleatórios ou encantar inimigos quando explodem.",
+    "localizedTags": [
+      "Brilho",
+      "Brilhar",
+      "TNT"
+    ]
+  },
+  {
+    "id": 422,
+    "localizedName": "Vidro da hora brilhante",
+    "localizedDescription": "Quando usado, este item vai voltar o tempo, colocar Isaac de volta na sala anterior, e desfazer tudo o que aconteceu na sala atual.",
+    "localizedTags": [
+      "8",
+      "ampulheta"
+    ]
+  },
+  {
+    "id": 464,
+    "localizedName": "Glyph of Balance",
+    "localizedDescription": "Concede 2 Almas e modifica as gotas de monstros campeões com base em certas condições.",
+    "localizedTags": [
+      "Glyph."
+    ]
+  },
+  {
+    "id": 210,
+    "localizedName": "Folha Desfeita",
+    "localizedDescription": "Depois de ficar parado e não atirar por pouco tempo, Isaac se torna invencível até se mover ou atirar.",
+    "localizedTags": [
+      "Morda.",
+      "Nintendo.",
+      "Pétala"
+    ]
+  },
+  {
+    "id": 215,
+    "localizedName": "Cabeça de Cabra",
+    "localizedDescription": "Uma Sala do Diabo / Sala do Anjo sempre vai gerar depois de cada briga de chefe, excluindo o primeiro andar e pisos após o Capítulo 4.",
+    "localizedTags": [
+      "Maligno.",
+      "Rosto",
+      "Pele",
+      "chifres",
+      "Sacrifício"
+    ]
+  },
+  {
+    "id": 398,
+    "localizedName": "Carne de Deus",
+    "localizedDescription": "Lágrimas têm a chance de encolher inimigos, fazê-los fugir de Isaac.",
+    "localizedTags": [
+      "Curto.",
+      "Cogumelo"
+    ]
+  },
+  {
+    "id": 331,
+    "localizedName": "Divindade",
+    "localizedDescription": "Dá lágrimas com um halo prejudicial.",
+    "localizedTags": [
+      "Homing",
+      "Três",
+      "Triângulo"
+    ]
+  },
+  {
+    "id": 501,
+    "localizedName": "Gullet da Ganância",
+    "localizedDescription": "Concede um recipiente para cada 25 moedas que Isaac tem.",
+    "localizedTags": [
+      "$",
+      "Dinheiro"
+    ]
+  },
+  {
+    "id": 70,
+    "localizedName": "Hormônios de crescimento",
+    "localizedDescription": "+1 dano, +0,4 velocidade, +0,2 velocidade.",
+    "localizedTags": [
+      "Dano"
+    ]
+  },
+  {
+    "id": 212,
+    "localizedName": "Colar de Guppy",
+    "localizedDescription": "Dá uma chance permanente de 50% de reabastecer com meio coração vermelho após a morte.",
+    "localizedTags": [
+      "Coração",
+      "Respawn",
+      "Anel",
+      "round"
+    ]
+  },
+  {
+    "id": 145,
+    "localizedName": "Cabeça de Guppy",
+    "localizedDescription": "gera 2-4 Friendly Blue Flies que danificam inimigos.",
+    "localizedTags": [
+      "Gato.",
+      "Rosto",
+      "Voar",
+      "Cabeça."
+    ]
+  },
+  {
+    "id": 133,
+    "localizedName": "Pata de Guppy",
+    "localizedDescription": "Quando usado, converte um recipiente de coração em três corações de alma.",
+    "localizedTags": [
+      "Gato.",
+      "pé",
+      "pata"
+    ]
+  },
+  {
+    "id": 134,
+    "localizedName": "Cauda de Guppy",
+    "localizedDescription": "Os prêmios têm 1/3 de chance de serem substituídos por um peito e 1/3 de chance de serem substituídos por nada.",
+    "localizedTags": [
+      "Gato.",
+      "Cordão",
+      "Morto"
+    ]
+  },
+  {
+    "id": 156,
+    "localizedName": "Hábito",
+    "localizedDescription": "Quando Isaac é atingido, seu item ativo ganha 1 quarto de carga.",
+    "localizedTags": [
+      "Chapéu",
+      "Hood.",
+      "Listra"
+    ]
+  },
+  {
+    "id": 293,
+    "localizedName": "Chefe de Krampus",
+    "localizedDescription": "Dispara um poderoso raio de enxofre em quatro direções cardinais, assim como Krampus dispara.\nDispara um poderoso raio de enxofre em quatro direções cardinais, como Krampus dispara com 50% de chance de girar todas as vigas em torno de Isaac 90 graus.",
+    "localizedTags": [
+      "Morto",
+      "Demônio.",
+      "língua"
+    ]
+  },
+  {
+    "id": 429,
+    "localizedName": "Chefe do Guardião",
+    "localizedDescription": "As lágrimas de Isaac se transformam em moedas e agora têm a chance de jogar moedas no chão com sucesso atingindo um inimigo.",
+    "localizedTags": [
+      "Querida.",
+      "Moeda",
+      "Morto",
+      "Rosto",
+      "ganância",
+      "round",
+      "ultra"
+    ]
+  },
+  {
+    "id": 248,
+    "localizedName": "Mente Colmeia",
+    "localizedDescription": "Aumenta o tamanho de aranhas azuis e moscas azuis e dobra a quantidade de danos que eles lidam.",
+    "localizedTags": [
+      "Voar",
+      "Aranha"
+    ]
+  },
+  {
+    "id": 184,
+    "localizedName": "Santo Graal",
+    "localizedDescription": "Concede vôo e um contêiner do Coração Vermelho.",
+    "localizedTags": [
+      "Cálice",
+      "Copo",
+      "vôo",
+      "Voar"
+    ]
+  },
+  {
+    "id": 374,
+    "localizedName": "Santa Luz",
+    "localizedDescription": "Adiciona uma chance de disparar lágrimas sagradas, o que criará um raio de luz prejudicial na área se atingirem um inimigo.",
+    "localizedTags": [
+      "Brilhante.",
+      "Brilhar",
+      "round"
+    ]
+  },
+  {
+    "id": 313,
+    "localizedName": "Santo Mantle",
+    "localizedDescription": "Ao entrar em uma sala, concede um escudo que nega o primeiro dano.",
+    "localizedTags": [
+      "cruz",
+      "Brilhar",
+      "Escudo."
+    ]
+  },
+  {
+    "id": 375,
+    "localizedName": "Chapéu de anfitrião",
+    "localizedDescription": "Um hospedeiro familiar que senta na cabeça de Isaac e tem uma chance aleatória de bloquear tiros inimigos e retaliar com 3 lágrimas.",
+    "localizedTags": [
+      "Osso",
+      "Cabeça.",
+      "Crânio"
+    ]
+  },
+  {
+    "id": 256,
+    "localizedName": "Bombas Quentes",
+    "localizedDescription": "As bombas de Isaac deixam para trás fogo que danifica inimigos no contato.",
+    "localizedTags": [
+      "Bomba!",
+      "Rosto",
+      "Fogo!"
+    ]
+  },
+  {
+    "id": 282,
+    "localizedName": "Como pular",
+    "localizedDescription": "Em uso, Isaac pula na direção em que está se movendo, permitindo viajar sobre obstáculos e inimigos.",
+    "localizedTags": [
+      "texto"
+    ]
+  },
+  {
+    "id": 413,
+    "localizedName": "Imaculada Conceição",
+    "localizedDescription": "Ao pegar uma certa quantidade de saúde, crie um familiar angélico permanente.",
+    "localizedTags": [
+      "Anjo.",
+      "Grub",
+      "halo"
+    ]
+  },
+  {
+    "id": 242,
+    "localizedName": "Infâmia",
+    "localizedDescription": "Chance de bloquear projéteis vindo de qualquer direção.",
+    "localizedTags": [
+      "Rosto",
+      "Máscara"
+    ]
+  },
+  {
+    "id": 148,
+    "localizedName": "Infestação",
+    "localizedDescription": "1-3 Blue Flies desova aleatoriamente toda vez que Isaac é atingido.\n2-6 Blue Flies desova aleatoriamente toda vez que Isaac é atingido.",
+    "localizedTags": [
+      "Voar",
+      "Grub",
+      "Verme."
+    ]
+  },
+  {
+    "id": 234,
+    "localizedName": "Infestação 2",
+    "localizedDescription": "gera aliados Blue Spiders de inimigos mortos.",
+    "localizedTags": [
+      "Aranha"
+    ]
+  },
+  {
+    "id": 149,
+    "localizedName": "Ipecac",
+    "localizedDescription": "Substitui lágrimas por projéteis explosivos e envenenamentos disparados em um arco da boca.",
+    "localizedTags": [
+      "Explosivo",
+      "Jarro."
+    ]
+  },
+  {
+    "id": 201,
+    "localizedName": "Barra de Ferro",
+    "localizedDescription": "Aumenta os danos em 0,3 e adiciona uma chance de atirar lágrimas concussivas, fazendo inimigos andarem aleatoriamente.",
+    "localizedTags": [
+      "metal",
+      "Brilhar"
+    ]
+  },
+  {
+    "id": 323,
+    "localizedName": "Lágrimas de Isaac",
+    "localizedDescription": "Cada lágrima de Isaac aumenta a carga do item por um.",
+    "localizedTags": [
+      "Copo",
+      "vidro",
+      "Água"
+    ]
+  },
+  {
+    "id": 135,
+    "localizedName": "Bolsa IV",
+    "localizedDescription": "Após o uso, Isaac perde meio coração de saúde (um em Womb para frente) por uma quantidade aleatória de moedas, semelhante a uma máquina de doação de sangue.",
+    "localizedTags": [
+      "Sangue.",
+      "Moeda",
+      "Doação",
+      "máquina"
+    ]
+  },
+  {
+    "id": 494,
+    "localizedName": "Escada de Jacob",
+    "localizedDescription": "Lágrimas disparam faíscas de eletricidade em direções aleatórias ao atingir um obstáculo ou inimigo.",
+    "localizedTags": [
+      "elétrico",
+      "metal",
+      "centelha",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 434,
+    "localizedName": "Jarro de moscas",
+    "localizedDescription": "Matar um inimigo adiciona uma mosca ao frasco, até um máximo de 20.",
+    "localizedTags": [
+      "Voar"
+    ]
+  },
+  {
+    "id": 197,
+    "localizedName": "Jesus Juice",
+    "localizedDescription": "+0,5 danos, +0,25 alcance, +0,5 altura do lágrima.",
+    "localizedTags": [
+      "Caixa",
+      "Beba.",
+      "Palha."
+    ]
+  },
+  {
+    "id": 311,
+    "localizedName": "Sombra de Judas",
+    "localizedDescription": "Adiciona uma vida extra, após a morte, ressuscita Isaac como Judas Negro com dois Corações Negros.",
+    "localizedTags": [
+      "Querida.",
+      "corpo"
+    ]
+  },
+  {
+    "id": 40,
+    "localizedName": "Kamikaze!",
+    "localizedDescription": "Após o uso, cria uma explosão no mesmo lugar que Isaac, danificando-o por meio coração e causando 40 danos a todos os inimigos presos na explosão.",
+    "localizedTags": [
+      "TNT"
+    ]
+  },
+  {
+    "id": 421,
+    "localizedName": "Feijão Rim",
+    "localizedDescription": "Isaac peida, encantando todos os inimigos próximos.",
+    "localizedTags": [
+      "Feijão",
+      "Gás",
+      "caroço"
+    ]
+  },
+  {
+    "id": 440,
+    "localizedName": "Pedra do Rim",
+    "localizedDescription": "Enquanto disparam lágrimas, Isaac parará de atirar e ficará vermelho, onde ele atacará e liberará muitas \"lágrimas\" de uma só vez.",
+    "localizedTags": [
+      "Sangue.",
+      "Nojento."
+    ]
+  },
+  {
+    "id": 502,
+    "localizedName": "Grande Zit",
+    "localizedDescription": "Adiciona uma chance de disparar um tiro que causa dano duplo e deixa um rastro de arrastamento branco.",
+    "localizedTags": [
+      "ovo",
+      "Nojento.",
+      "Lado",
+      "ensolarado",
+      "Para cima."
+    ]
+  },
+  {
+    "id": 343,
+    "localizedName": "Chave de trava",
+    "localizedDescription": "Dá 1 Coração de Alma e +1 sorte.",
+    "localizedTags": [
+      "Cordão"
+    ]
+  },
+  {
+    "id": 332,
+    "localizedName": "Rags de Lázaro",
+    "localizedDescription": "Ao morrer, ressuscitado como Lázaro ressuscitado com um recipiente de coração e anêmico.",
+    "localizedTags": [
+      "Sangue.",
+      "pano",
+      "round"
+    ]
+  },
+  {
+    "id": 444,
+    "localizedName": "Lápis de chumbo",
+    "localizedDescription": "Após cada 15 lágrimas disparadas, Isaac disparará um grande grupo de lágrimas.",
+    "localizedTags": [
+      "caneta",
+      "stick"
+    ]
+  },
+  {
+    "id": 56,
+    "localizedName": "Limão Mishap",
+    "localizedDescription": "Cria uma pequena piscina de covardes, prejudicando inimigos que a atravessam.",
+    "localizedTags": [
+      "Fruta",
+      "round"
+    ]
+  },
+  {
+    "id": 302,
+    "localizedName": "Leo",
+    "localizedDescription": "Isaac pode destruir pedras entrando nelas.",
+    "localizedTags": [
+      "Não.",
+      "Rock",
+      "corda",
+      "Stoppy"
+    ]
+  },
+  {
+    "id": 304,
+    "localizedName": "Libra",
+    "localizedDescription": "Dá 6 moedas, 6 bombas e 6 chaves e equilibra todos os atributos.",
+    "localizedTags": [
+      "equilíbrio"
+    ]
+  },
+  {
+    "id": 447,
+    "localizedName": "Linger Bean",
+    "localizedDescription": "Atirar constantemente faz Isaac liberar nuvens de gás que podem ser empurradas por suas lágrimas e danos inimigos próximos.",
+    "localizedTags": [
+      "Feijão",
+      "peidar",
+      "Gás"
+    ]
+  },
+  {
+    "id": 252,
+    "localizedName": "Pequeno Baggy",
+    "localizedDescription": "Isaac pode segurar duas pílulas de uma vez e todas as cartas são substituídas por pílulas.",
+    "localizedTags": [
+      "pílulas."
+    ]
+  },
+  {
+    "id": 503,
+    "localizedName": "Pequeno Horn",
+    "localizedDescription": "Adiciona uma chance de disparar uma lágrima penetrante que mata instantaneamente qualquer inimigo que toca.\nAdiciona uma chance de disparar uma lágrima que chama a mão de Big Horn para esmagar o primeiro inimigo que atinge, instantaneamente matando monstros ou chefes muito prejudiciais.",
+    "localizedTags": [
+      "Garra",
+      "Chifre",
+      "Pregue",
+      "rinoceronte",
+      "Afiado.",
+      "Brilhante."
+    ]
+  },
+  {
+    "id": 87,
+    "localizedName": "Cornos de Loki",
+    "localizedDescription": "Dá uma chance aleatória de projéteis dispararem nas 4 direções cardinais.",
+    "localizedTags": [
+      "Orelhas",
+      "chifres"
+    ]
+  },
+  {
+    "id": 82,
+    "localizedName": "Senhor do Poço",
+    "localizedDescription": "Concede vôo e velocidade +0,3.",
+    "localizedTags": [
+      "cruz",
+      "Maligno."
+    ]
+  },
+  {
+    "id": 213,
+    "localizedName": "Contato perdido",
+    "localizedDescription": "As lágrimas de Isaac podem atingir e destruir projéteis inimigos.",
+    "localizedTags": [
+      "vidro",
+      "Lente"
+    ]
+  },
+  {
+    "id": 46,
+    "localizedName": "Lucky Foot",
+    "localizedDescription": "Aumenta a chance de ganhar jogos de Shell e Fortune Tellers (independentemente da taxa de sorte).\nConverte pílulas ruins em pílulas boas, sem identificá-las.",
+    "localizedTags": [
+      "Charme",
+      "pé",
+      "Parte"
+    ]
+  },
+  {
+    "id": 22,
+    "localizedName": "Almoço",
+    "localizedDescription": "Concede um recipiente cheio de coração vermelho.",
+    "localizedTags": [
+      "prato",
+      "Cachorro.",
+      "Comida"
+    ]
+  },
+  {
+    "id": 411,
+    "localizedName": "Sangue Lusty",
+    "localizedDescription": "O dano de Isaac aumenta para a sala atual cada vez que ele mata um inimigo.",
+    "localizedTags": [
+      "Sangue.",
+      "Dano",
+      "Coração",
+      "pontiagudo"
+    ]
+  },
+  {
+    "id": 312,
+    "localizedName": "Maggy's Bow",
+    "localizedDescription": "Dá um recipiente de coração vermelho e dobra a cura fornecida pelos corações vermelhos.",
+    "localizedTags": [
+      "Doces.",
+      "Empatar"
+    ]
+  },
+  {
+    "id": 194,
+    "localizedName": "Bola Mágica 8",
+    "localizedDescription": "+0,16 velocidade de tiro, gera uma carta de tarô aleatória.",
+    "localizedTags": [
+      "8",
+      "Bola",
+      "Deixe-me ver.",
+      "piscina"
+    ]
+  },
+  {
+    "id": 295,
+    "localizedName": "Dedos Mágicos",
+    "localizedDescription": "Usa uma moeda para lidar com o dobro do dano de Isaac a todos os inimigos da sala.",
+    "localizedTags": [
+      "Caixa",
+      "Moeda",
+      "Dano",
+      "metal",
+      "torradeira"
+    ]
+  },
+  {
+    "id": 12,
+    "localizedName": "Cogumelo Mágico",
+    "localizedDescription": "Faz Isaac maior, adiciona um recipiente de coração vermelho, +0,3 danos, x1,5 danos multiplicador, +5,25 alcance, e +0,3 velocidade.",
+    "localizedTags": [
+      "pontos",
+      "pontilhado"
+    ]
+  },
+  {
+    "id": 253,
+    "localizedName": "Faca Mágica",
+    "localizedDescription": "Concede um contêiner cheio de Coração Vermelho, +1 de sorte.",
+    "localizedTags": [
+      "Nojento.",
+      "Nojento.",
+      "Carne",
+      "órgão",
+      "molhado"
+    ]
+  },
+  {
+    "id": 53,
+    "localizedName": "Magneto",
+    "localizedDescription": "Vai para Isaac.",
+    "localizedTags": [
+      "U"
+    ]
+  },
+  {
+    "id": 483,
+    "localizedName": "Mama Mega!",
+    "localizedDescription": "O efeito ocorre cada vez que uma nova sala é introduzida para o resto do chão.",
+    "localizedTags": [
+      "Bomba!",
+      "Rosto",
+      "lábios",
+      "boca"
+    ]
+  },
+  {
+    "id": 394,
+    "localizedName": "Marcado",
+    "localizedDescription": "Isaac disparará automaticamente lágrimas direcionadas a um alvo vermelho no chão.",
+    "localizedTags": [
+      "cruz"
+    ]
+  },
+  {
+    "id": 344,
+    "localizedName": "Livro de Combinação",
+    "localizedDescription": "Dá a Isaac um Coração Negro, gera duas ou três bombas.",
+    "localizedTags": [
+      "Papel"
+    ]
+  },
+  {
+    "id": 399,
+    "localizedName": "Vó do Vazio",
+    "localizedDescription": "Carregado atirando por 2,5 segundos e quando liberado, cria um anel negro em torno de Isaac que rapidamente causa dano. +1 dano, o anel pode causar inimigos para derrubar Black Hearts.",
+    "localizedTags": [
+      "Anel",
+      "round",
+      "Girar"
+    ]
+  },
+  {
+    "id": 193,
+    "localizedName": "Carne!",
+    "localizedDescription": "Dá um contêiner de coração vermelho cheio, +0.3 dano.",
+    "localizedTags": [
+      "Osso",
+      "Comida"
+    ]
+  },
+  {
+    "id": 351,
+    "localizedName": "Mega Bean",
+    "localizedDescription": "Petrifica todos os inimigos na sala atual por alguns segundos, envenena qualquer inimigo perto de Isaac, e envia uma onda de rocha através da sala na direção que Isaac está enfrentando.",
+    "localizedTags": [
+      "Gás"
+    ]
+  },
+  {
+    "id": 441,
+    "localizedName": "Mega Blast",
+    "localizedDescription": "Isaac é empurrado para trás pela força do laser enquanto está ativo.",
+    "localizedTags": [
+      "Cabeça.",
+      "Satan."
+    ]
+  },
+  {
+    "id": 449,
+    "localizedName": "Placa de metal",
+    "localizedDescription": "Tiros inimigos podem ser refletidos no atirador como lágrimas confusas.",
+    "localizedTags": [
+      "4",
+      "ferradura.",
+      "metal",
+      "Sapato"
+    ]
+  },
+  {
+    "id": 488,
+    "localizedName": "Metronome",
+    "localizedDescription": "Dá um efeito aleatório para a sala atual.",
+    "localizedTags": [
+      "cadeira",
+      "Música",
+      "Tecnologia.",
+      "Tick"
+    ]
+  },
+  {
+    "id": 202,
+    "localizedName": "Toque de Midas",
+    "localizedDescription": "Inimigos que tocam Isaac estão temporariamente petrificados e se transformam em ouro.",
+    "localizedTags": [
+      "Brilhar"
+    ]
+  },
+  {
+    "id": 427,
+    "localizedName": "Meu Crafter",
+    "localizedDescription": "Coloca um explosivo barril TNT que pode ser empurrado e usado para destruir pedras ou danificar inimigos quando usado.",
+    "localizedTags": [
+      "Bomba!",
+      "Caixa",
+      "texto",
+      "TNT"
+    ]
+  },
+  {
+    "id": 71,
+    "localizedName": "Mini Mush",
+    "localizedDescription": "Diminui o tamanho de Isaac, tornando-o menos provável de ser atingido.",
+    "localizedTags": [
+      "pontos",
+      "pontilhado"
+    ]
+  },
+  {
+    "id": 258,
+    "localizedName": "Não",
+    "localizedDescription": "Randomiza todos os itens passivos e estatísticas na coleta e no início de cada andar seguinte.",
+    "localizedTags": [
+      "Quadrados."
+    ]
+  },
+  {
+    "id": 262,
+    "localizedName": "Página 2 desaparecida",
+    "localizedDescription": "Ao sofrer danos que reduzam a saúde de Isaac a um coração ou menos, causa dano a todos os inimigos na sala, aumenta os danos de Corações Negros e os efeitos do Necronomicon em 40.",
+    "localizedTags": [
+      "Sangrento.",
+      "Papel",
+      "texto",
+      "rasgado"
+    ]
+  },
+  {
+    "id": 173,
+    "localizedName": "Mitre",
+    "localizedDescription": "Dá uma chance de converter qualquer captador de Red Heart em Soul Hearts.",
+    "localizedTags": [
+      "Cardeal.",
+      "Chapéu",
+      "Santo",
+      "Papa."
+    ]
+  },
+  {
+    "id": 102,
+    "localizedName": "Garrafa de pílulas da mamãe",
+    "localizedDescription": "Dá ao Isaac uma pílula aleatória.",
+    "localizedTags": [
+      "Cápsula",
+      "Jarro."
+    ]
+  },
+  {
+    "id": 439,
+    "localizedName": "Caixa da mamãe",
+    "localizedDescription": "Passivamente aumenta a sorte em 1 e dobra os efeitos das bugigangas enquanto seguradas.",
+    "localizedTags": [
+      "Caixa",
+      "metal",
+      "Trinket"
+    ]
+  },
+  {
+    "id": 39,
+    "localizedName": "Bra da mamãe",
+    "localizedDescription": "Petrifica todos os inimigos na sala atual por cerca de 4 segundos.",
+    "localizedTags": [
+      "dd",
+      "O dobro.",
+      "Nojento.",
+      "Mãe.",
+      "Dois."
+    ]
+  },
+  {
+    "id": 195,
+    "localizedName": "Bolsa de Moedas da mamãe",
+    "localizedDescription": "gera 4 pílulas aleatórias perto de Isaac.",
+    "localizedTags": [
+      "Embalar",
+      "round",
+      "Saco."
+    ]
+  },
+  {
+    "id": 110,
+    "localizedName": "Contatos da mamãe",
+    "localizedDescription": "Adiciona uma chance de atirar lágrimas petrificantes, que impedem inimigos de se moverem ou atacarem.",
+    "localizedTags": [
+      "Olho",
+      "Parado."
+    ]
+  },
+  {
+    "id": 55,
+    "localizedName": "O Olho da Mãe",
+    "localizedDescription": "Permite que Isaac dispare lágrimas da parte de trás de sua cabeça.",
+    "localizedTags": [
+      "Olho"
+    ]
+  },
+  {
+    "id": 200,
+    "localizedName": "Sombra dos olhos da mamãe",
+    "localizedDescription": "Lágrimas têm a chance de encantar inimigos.",
+    "localizedTags": [
+      "Charme",
+      "maquiagem",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 30,
+    "localizedName": "Salto da mamãe",
+    "localizedDescription": "Os inimigos que tocam Isaac sofrem 12 danos.",
+    "localizedTags": [
+      "Sapato"
+    ]
+  },
+  {
+    "id": 199,
+    "localizedName": "Chave da mamãe",
+    "localizedDescription": "O peito vai soltar mais pickups.",
+    "localizedTags": [
+      "Chave"
+    ]
+  },
+  {
+    "id": 114,
+    "localizedName": "Faca da mamãe",
+    "localizedDescription": "As lágrimas de Isaac são substituídas por uma faca que perfura inimigos, pode viajar através de obstáculos e pode ferir inimigos enquanto Isaac o segura.",
+    "localizedTags": [
+      "Lâmina",
+      "Faca",
+      "metal"
+    ]
+  },
+  {
+    "id": 31,
+    "localizedName": "Batom da mamãe",
+    "localizedDescription": "Alcance de 5,25, altura de lágrima de 0,5.",
+    "localizedTags": [
+      "maquiagem"
+    ]
+  },
+  {
+    "id": 41,
+    "localizedName": "Pad da mamãe",
+    "localizedDescription": "Inflige medo a todos os inimigos na sala por 5 segundos.",
+    "localizedTags": [
+      "Mulher.",
+      "Nojento.",
+      "Mãe.",
+      "Tampex.",
+      "Tampon"
+    ]
+  },
+  {
+    "id": 355,
+    "localizedName": "Pérolas da mamãe",
+    "localizedDescription": "+1,25 alcance, +0,5 altura do lágrima, +1 sorte.",
+    "localizedTags": [
+      "Colar",
+      "Anel",
+      "round"
+    ]
+  },
+  {
+    "id": 228,
+    "localizedName": "Perfume da mamãe",
+    "localizedDescription": "Adiciona uma chance de atirar em lágrimas de medo e diminui o atraso em um.",
+    "localizedTags": [
+      "Garrafa",
+      "colônia",
+      "vidro",
+      "Spray",
+      "spritz"
+    ]
+  },
+  {
+    "id": 139,
+    "localizedName": "Bolsa da mamãe",
+    "localizedDescription": "Permite que Isaac segure mais 1 bugiganga.",
+    "localizedTags": [
+      "Bolsa.",
+      "Trinket"
+    ]
+  },
+  {
+    "id": 29,
+    "localizedName": "Roupa interior da mamãe",
+    "localizedDescription": "Alcance 5,25, altura de lágrima 0,5.",
+    "localizedTags": [
+      "Calcinha.",
+      "Calcinha."
+    ]
+  },
+  {
+    "id": 217,
+    "localizedName": "Peruca da mamãe",
+    "localizedDescription": "Adiciona uma chance de gerar aranhas azuis quando disparam lágrimas.",
+    "localizedTags": [
+      "Coceira.",
+      "Aranha"
+    ]
+  },
+  {
+    "id": 109,
+    "localizedName": "Dinheiro = Poder",
+    "localizedDescription": "Aumenta os danos em 0,04 para cada moeda que Isaac tem, até +3,96 danos em 99 moedas.",
+    "localizedTags": [
+      "$",
+      "Dólar",
+      "ganância",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 123,
+    "localizedName": "Manual do Monstro",
+    "localizedDescription": "gera um familiar de uma seleção específica para a sala atual.\ngera um familiar de uma seleção específica para o andar atual.",
+    "localizedTags": [
+      "familiar",
+      "Invocar"
+    ]
+  },
+  {
+    "id": 229,
+    "localizedName": "Lung de Monstro",
+    "localizedDescription": "Substitui lágrimas normais por um tiro carregado que dispara 14 lágrimas da mesma forma que Monstro.",
+    "localizedTags": [
+      "Nojento.",
+      "órgão"
+    ]
+  },
+  {
+    "id": 86,
+    "localizedName": "Dente de Monstro",
+    "localizedDescription": "Um amigo Monstro pula sobre um inimigo aleatório, lidando com 120 danos na área.",
+    "localizedTags": [
+      "Sangue.",
+      "Nojento.",
+      "Dentes"
+    ]
+  },
+  {
+    "id": 414,
+    "localizedName": "Mais opções",
+    "localizedDescription": "Dois itens desovam em cada sala do tesouro.",
+    "localizedTags": [
+      "?",
+      "Quadrado."
+    ]
+  },
+  {
+    "id": 37,
+    "localizedName": "Sr. Boom",
+    "localizedDescription": "Coloca uma bomba do Sr. Mega que causa 110 danos.",
+    "localizedTags": [
+      "Bomba!",
+      "Rosto"
+    ]
+  },
+  {
+    "id": 370,
+    "localizedName": "Sr. Dolly",
+    "localizedDescription": "+0.7 lágrimas, +5.25 alcance, +0.5 altura de lágrima, gera 3 tipos aleatórios de corações no chão quando pego.",
+    "localizedTags": [
+      "Querida.",
+      "Cabelo",
+      "Mag"
+    ]
+  },
+  {
+    "id": 106,
+    "localizedName": "Sr. Mega",
+    "localizedDescription": "Concede 5 bombas, e torna todas as bombas lançadas maiores, que têm um raio de explosão aumentado e maiores danos.",
+    "localizedTags": [
+      "Bomba!",
+      "Rosto"
+    ]
+  },
+  {
+    "id": 153,
+    "localizedName": "Aranha Mutante",
+    "localizedDescription": "Concede tiros quádruplos, mas diminui as lágrimas.",
+    "localizedTags": [
+      "Quatro.",
+      "quadruplicar"
+    ]
+  },
+  {
+    "id": 77,
+    "localizedName": "Meu pequeno unicórnio",
+    "localizedDescription": "Dá invulnerabilidade e velocidade +0,28 por seis segundos, removendo a habilidade de atirar em lágrimas e substituindo-a pela capacidade de lidar com 40 danos de contato aos inimigos.",
+    "localizedTags": [
+      "cone",
+      "cilindro",
+      "Chifre",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 5,
+    "localizedName": "Minha Reflexão",
+    "localizedDescription": "Dá às lágrimas de Isaac um efeito bumerangue.",
+    "localizedTags": [
+      "Quebrado.",
+      "Quebrou.",
+      "espelho"
+    ]
+  },
+  {
+    "id": 433,
+    "localizedName": "Minha Sombra",
+    "localizedDescription": "Cada vez que Isaac sofrer danos, infligir medo em todos os inimigos na sala e gerar um Charger negro amigável que vai atacar inimigos.",
+    "localizedTags": [
+      "Querida.",
+      "sombra",
+      "Silouhette"
+    ]
+  },
+  {
+    "id": 317,
+    "localizedName": "Líquido Misterioso",
+    "localizedDescription": "Lágrimas deixam uma pequena e curta poça de fluência no impacto ou quando seu alcance está esgotado.",
+    "localizedTags": [
+      "Barbell.",
+      "Quebrado.",
+      "Quebrou.",
+      "Arrepio",
+      "Mutell.",
+      "Frasco",
+      "molhado"
+    ]
+  },
+  {
+    "id": 425,
+    "localizedName": "Luz da Noite",
+    "localizedDescription": "Um cone de luz brilha na direção que Isaac está movendo que retarda inimigos e tiros inimigos.",
+    "localizedTags": [
+      "Caixa",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 378,
+    "localizedName": "No. 2",
+    "localizedDescription": "Disparar lágrimas por três segundos faz Isaac soltar uma bomba, que danifica e confunde todos os inimigos na sala quando explode.",
+    "localizedTags": [
+      "Fralda",
+      "Pino",
+      "Cocô.",
+      "segurança"
+    ]
+  },
+  {
+    "id": 147,
+    "localizedName": "Axe Entalhado",
+    "localizedDescription": "Isaac destrói obstáculos e abre quartos secretos entrando neles, mas não pode atirar ou pegar itens até que seja cancelado.\nComuta entre as lágrimas e a picareta, que pode ser balançada para atacar e quebrar obstáculos.",
+    "localizedTags": [
+      "Quebre",
+      "metal",
+      "Escolha.",
+      "Rock",
+      "ferramenta"
+    ]
+  },
+  {
+    "id": 6,
+    "localizedName": "Número Um",
+    "localizedDescription": "+1,5 lágrimas, -17,62 alcance",
+    "localizedTags": [
+      "Gotejamento"
+    ]
+  },
+  {
+    "id": 219,
+    "localizedName": "Old Bandage",
+    "localizedDescription": "Dá uma chance de soltar um Red Heart depois de sofrer danos.",
+    "localizedTags": [
+      "Bandaid",
+      "Tiras."
+    ]
+  },
+  {
+    "id": 115,
+    "localizedName": "Ouija Board",
+    "localizedDescription": "Concede lágrimas espectrais que viajam através de obstáculos (mas não inimigos) em vez de quebrar o impacto com eles.",
+    "localizedTags": [
+      "tabuleiro",
+      "Página",
+      "Papel",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 141,
+    "localizedName": "Garoto do concurso",
+    "localizedDescription": "Espalha sete moedas aleatórias ao redor de Isaac.",
+    "localizedTags": [
+      "Moeda",
+      "Coroa",
+      "Fabuloso"
+    ]
+  },
+  {
+    "id": 297,
+    "localizedName": "Caixa de Pandora",
+    "localizedDescription": "Quando usado, gera captadores específicos ou itens dependendo do chão em que é usado.",
+    "localizedTags": [
+      "Caixa"
+    ]
+  },
+  {
+    "id": 461,
+    "localizedName": "Parasitóide",
+    "localizedDescription": "Adiciona uma chance de atirar em um saco de ovos que cria fluência lenta e cria uma mosca azul ou aranha azul ao atingir um inimigo.",
+    "localizedTags": [
+      "Voar",
+      "Asas"
+    ]
+  },
+  {
+    "id": 478,
+    "localizedName": "Pausa",
+    "localizedDescription": "Congela todos os inimigos até apertar um botão de fogo.",
+    "localizedTags": [
+      "Caixa",
+      "Remoto",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 380,
+    "localizedName": "Pague para jogar",
+    "localizedDescription": "Vira portas que exigem uma única chave em portas que precisam de uma moeda para entrar.",
+    "localizedTags": [
+      "Moeda",
+      "metal",
+      "Retângulo",
+      "slot"
+    ]
+  },
+  {
+    "id": 51,
+    "localizedName": "Pentagram",
+    "localizedDescription": "+1 dano, aumenta a chance Sala do Diabo / Sala do Anjo em 10%.",
+    "localizedTags": [
+      "Maligno.",
+      "Estrela",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 75,
+    "localizedName": "PHD",
+    "localizedDescription": "Converte todas as pílulas ruins em pílulas boas, gera uma pickup de pílula, e identifica todas as pílulas.",
+    "localizedTags": [
+      "Diploma",
+      "Página",
+      "Papel",
+      "Retângulo",
+      "texto"
+    ]
+  },
+  {
+    "id": 227,
+    "localizedName": "Banco Piggy",
+    "localizedDescription": "Cada vez que Isaac for danificado, ele vai perder mais um centavo.",
+    "localizedTags": [
+      "Moeda"
+    ]
+  },
+  {
+    "id": 309,
+    "localizedName": "Peixes",
+    "localizedDescription": "-1 Tear Delay, adiciona tiros e aumenta o tamanho das lágrimas.",
+    "localizedTags": [
+      "H",
+      "x"
+    ]
+  },
+  {
+    "id": 428,
+    "localizedName": "PJs",
+    "localizedDescription": "Concede 4 Corações de Alma e restaura a saúde de Isaac.",
+    "localizedTags": [
+      "Roupas",
+      "Pijama",
+      "Camisa.",
+      "Camisa.",
+      "Topo"
+    ]
+  },
+  {
+    "id": 348,
+    "localizedName": "Placebo",
+    "localizedDescription": "Quando usado, copia o efeito da pílula que Isaac está segurando sem consumi-la.",
+    "localizedTags": [
+      "pílula"
+    ]
+  },
+  {
+    "id": 218,
+    "localizedName": "Placenta",
+    "localizedDescription": "Dá um recipiente cheio de Red Heart, e uma chance de regenerar um meio coração vermelho de saúde a cada minuto de jogo.",
+    "localizedTags": [
+      "Nojento.",
+      "Carne",
+      "órgão",
+      "Yum"
+    ]
+  },
+  {
+    "id": 475,
+    "localizedName": "Plano C",
+    "localizedDescription": "Mata todos os inimigos na sala, depois mata Isaac três segundos depois.",
+    "localizedTags": [
+      "Cápsula",
+      "cilindro",
+      "pílula",
+      "Suicídio"
+    ]
+  },
+  {
+    "id": 505,
+    "localizedName": "Poke Go",
+    "localizedDescription": "Ao entrar em um quarto com inimigos nele, tem a chance de gerar um inimigo amigável aleatório que persiste através de salas.",
+    "localizedTags": [
+      "dispositivo",
+      "Nintendo.",
+      "Telefone",
+      "tela",
+      "Quadrado.",
+      "Comprimido",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 454,
+    "localizedName": "Polidactilia",
+    "localizedDescription": "Permite que Isaac carregue duas cartas, pílulas ou qualquer combinação de ambas.",
+    "localizedTags": [
+      "Feijão",
+      "Orelha",
+      "rim",
+      "órgão"
+    ]
+  },
+  {
+    "id": 169,
+    "localizedName": "Polifemo",
+    "localizedDescription": "Isaac dispara enormes lágrimas que causam danos mas a taxa de incêndio diminui muito.",
+    "localizedTags": [
+      "Olho",
+      "Grande"
+    ]
+  },
+  {
+    "id": 177,
+    "localizedName": "Fenda Portátil",
+    "localizedDescription": "Ao usar, consome 1 moeda e tem a chance de largar uma picape aleatória, como uma máquina de fendas.",
+    "localizedTags": [
+      "Caixa",
+      "Moeda",
+      "Jogo"
+    ]
+  },
+  {
+    "id": 487,
+    "localizedName": "Peeler de Batata",
+    "localizedDescription": "Remove um recipiente de coração, aumenta os danos e o alcance, e concede um Cubo de Carne.",
+    "localizedTags": [
+      "Cinzel",
+      "Cubo",
+      "pega",
+      "cozinha",
+      "Faca",
+      "metal",
+      "caneta",
+      "ferramenta"
+    ]
+  },
+  {
+    "id": 146,
+    "localizedName": "Cartão de Oração",
+    "localizedDescription": "Dá um Coração Eterno por uso.",
+    "localizedTags": [
+      "Anjo.",
+      "Eterna",
+      "Coração"
+    ]
+  },
+  {
+    "id": 261,
+    "localizedName": "Proptose",
+    "localizedDescription": "Lágrimas começam enormes com altos danos, depois encolhem e ficam mais fracas em curto alcance.",
+    "localizedTags": [
+      "Olho",
+      "Nojento."
+    ]
+  },
+  {
+    "id": 379,
+    "localizedName": "Pupula Duplex",
+    "localizedDescription": "Dá lágrimas espectrais de Isaac e dá suas lágrimas uma forma de arco largo, aumentando seu tamanho.",
+    "localizedTags": [
+      "Olho",
+      "Nojento.",
+      "pupila",
+      "molhado"
+    ]
+  },
+  {
+    "id": 407,
+    "localizedName": "Pureza",
+    "localizedDescription": "Aumenta uma das estatísticas de Isaac dependendo da cor da aura ao seu redor.",
+    "localizedTags": [
+      "Flor",
+      "Lotus.",
+      "pontiagudo"
+    ]
+  },
+  {
+    "id": 190,
+    "localizedName": "Pyro",
+    "localizedDescription": "Concede 99 bombas.",
+    "localizedTags": [
+      "99",
+      "Bomba!",
+      "Rosto"
+    ]
+  },
+  {
+    "id": 223,
+    "localizedName": "Pyromaniac",
+    "localizedDescription": "Dá imunidade a danos de explosão e provoca explosões para curar Isaac.",
+    "localizedTags": [
+      "Explosão",
+      "Bomba!",
+      "Chama",
+      "Coração"
+    ]
+  },
+  {
+    "id": 16,
+    "localizedName": "Fígado cru",
+    "localizedDescription": "Concede 2 recipientes de Red Heart e restaura completamente a saúde.",
+    "localizedTags": [
+      "Carne"
+    ]
+  },
+  {
+    "id": 126,
+    "localizedName": "Lâmina de Razor",
+    "localizedDescription": "Em uso, leva um coração de saúde e concede +1,2 danos para a sala atual.",
+    "localizedTags": [
+      "Corta.",
+      "Dano",
+      "metal",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 289,
+    "localizedName": "Vela Vermelha",
+    "localizedDescription": "A chama danifica tudo em seu caminho, diminuindo de tamanho quando atinge inimigos ou bloqueia tiros.",
+    "localizedTags": [
+      "Vela",
+      "Chama"
+    ]
+  },
+  {
+    "id": 137,
+    "localizedName": "Detonador Remoto",
+    "localizedDescription": "Bombas colocadas por Isaac só explodem quando o Detonador Remoto é usado.",
+    "localizedTags": [
+      "Bomba!",
+      "Caixa",
+      "pega",
+      "TNT"
+    ]
+  },
+  {
+    "id": 376,
+    "localizedName": "Restock",
+    "localizedDescription": "Faz com que as lojas reabasteçam imediatamente seus itens quando são comprados.",
+    "localizedTags": [
+      "Seta",
+      "ciclo",
+      "round",
+      "Loja",
+      "Girar"
+    ]
+  },
+  {
+    "id": 14,
+    "localizedName": "Raiva Roid",
+    "localizedDescription": "+0.6 velocidade, +0.3 velocidade, +5.25 alcance, +0.5 altura do lágrima.",
+    "localizedTags": [
+      "Agulha."
+    ]
+  },
+  {
+    "id": 72,
+    "localizedName": "Rosário",
+    "localizedDescription": "A Bíblia aparecerá em qualquer item.\nTambém um +0,5 lágrimas.",
+    "localizedTags": [
+      "Católico",
+      "Corrente",
+      "cruz",
+      "Colar",
+      "penitência"
+    ]
+  },
+  {
+    "id": 26,
+    "localizedName": "Carne podre",
+    "localizedDescription": "Concede um recipiente cheio de coração vermelho.",
+    "localizedTags": [
+      "pássaro",
+      "Osso",
+      "Frango.",
+      "Cozido",
+      "peru"
+    ]
+  },
+  {
+    "id": 221,
+    "localizedName": "Cimento de Borracha",
+    "localizedDescription": "Lágrimas saltam de paredes, inimigos e objetos ambientais.",
+    "localizedTags": [
+      "Pule.",
+      "Jarro."
+    ]
+  },
+  {
+    "id": 424,
+    "localizedName": "Cabeça de Sack",
+    "localizedDescription": "Moedas, bombas, chaves, cartões, runas e baterias têm a chance de se tornar sacos.",
+    "localizedTags": [
+      "Caixa",
+      "Chore.",
+      "Rosto",
+      "Triste.",
+      "Lágrima"
+    ]
+  },
+  {
+    "id": 182,
+    "localizedName": "Sagrado Coração",
+    "localizedDescription": "Dá lágrimas, multiplicador de danos x2.3, +1 dano plano, +4.125 alcance, +0.75 altura de lágrima, -0.4 lágrimas, -0.25 velocidade de disparo, um recipiente de coração vermelho e reabastece todos os corações vermelhos.",
+    "localizedTags": [
+      "+",
+      "Chama",
+      "Coração",
+      "Homing"
+    ]
+  },
+  {
+    "id": 220,
+    "localizedName": "Bombas Triste",
+    "localizedDescription": "Ao explodir, as bombas atiram 10 lágrimas em volta delas, afetadas por modificadores de lágrimas.",
+    "localizedTags": [
+      "Chore.",
+      "Rosto"
+    ]
+  },
+  {
+    "id": 339,
+    "localizedName": "Pino de segurança",
+    "localizedDescription": "Concede um Coração Negro, alcance +5,25, altura de lágrima +0,5, velocidade de tiro +0,16.",
+    "localizedTags": [
+      "metal",
+      "Pino",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 306,
+    "localizedName": "Sagitário",
+    "localizedDescription": "Aumenta a velocidade em +0,2 e dá lágrimas penetrantes.",
+    "localizedTags": [
+      "Seta",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 292,
+    "localizedName": "Bíblia Satânica",
+    "localizedDescription": "Substitui o item da sala do chefe no andar atual por um acordo do Diabo.",
+    "localizedTags": [
+      "Maligno.",
+      "Coração"
+    ]
+  },
+  {
+    "id": 142,
+    "localizedName": "Escapular",
+    "localizedDescription": "Uma vez por quarto, quando Isaac é reduzido ao seu último meio coração, ele recebe um Coração Alma.",
+    "localizedTags": [
+      "Corrente",
+      "cruz",
+      "Colar",
+      "Pratos",
+      "etiquetas"
+    ]
+  },
+  {
+    "id": 366,
+    "localizedName": "Bombas de Dispersão",
+    "localizedDescription": "As bombas de Isaac explodem em 2-4 pequenas bombas.",
+    "localizedTags": [
+      "vidro",
+      "TNT"
+    ]
+  },
+  {
+    "id": 325,
+    "localizedName": "Tesoura",
+    "localizedDescription": "Torna a cabeça de Isaac em uma estacionária familiar para a sala atual que dispara lágrimas automaticamente.\nTorna a cabeça de Isaac em um lugar familiar para a sala atual que dispara lágrimas automaticamente, enquanto faz Isaac atirar em uma fonte de sangue controlável.",
+    "localizedTags": [
+      "Corta.",
+      "metal",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 305,
+    "localizedName": "Escorpião",
+    "localizedDescription": "Concede lágrimas envenenadas, que causam danos ao longo do tempo quando infligidos.",
+    "localizedTags": [
+      "M"
+    ]
+  },
+  {
+    "id": 255,
+    "localizedName": "Foda-se",
+    "localizedDescription": "+0,5 lágrimas, +0,2 velocidade de tiro.",
+    "localizedTags": [
+      "metal",
+      "Pregue",
+      "Spike"
+    ]
+  },
+  {
+    "id": 393,
+    "localizedName": "Beijo da Serpente",
+    "localizedDescription": "As lágrimas têm a chance de aplicar um efeito venenoso em inimigos, Isaac envenena inimigos em contato, inimigos envenenados têm a chance de derrubar um coração negro quando morto.",
+    "localizedTags": [
+      "Gotejamento",
+      "lábios"
+    ]
+  },
+  {
+    "id": 448,
+    "localizedName": "Shard of Glass",
+    "localizedDescription": "Ao sofrer danos, Isaac tem a chance de soltar um coração vermelho, ganhar 5 alcance, e deixar uma trilha de danos para a sala atual.\nSofrer danos faz Isaac sangrar, borrifando sangue na direção em que ele dispara.",
+    "localizedTags": [
+      "pontiagudo",
+      "Afiado.",
+      "Triângulo"
+    ]
+  },
+  {
+    "id": 205,
+    "localizedName": "Plugue afiado",
+    "localizedDescription": "Danos Isaac em troca de recarregar o item ativado de Isaac.",
+    "localizedTags": [
+      "Cordão",
+      "elétrico"
+    ]
+  },
+  {
+    "id": 507,
+    "localizedName": "Palha afiada",
+    "localizedDescription": "Danifica todos os inimigos na sala, tem a chance de soltar um coração vermelho ou metade do coração se um inimigo for atingido.",
+    "localizedTags": [
+      "stick"
+    ]
+  },
+  {
+    "id": 49,
+    "localizedName": "Shoop Da Whoop!",
+    "localizedDescription": "Dispara um laser da boca de Isaac.",
+    "localizedTags": [
+      "Brimstone",
+      "Olhos",
+      "Rosto",
+      "boca"
+    ]
+  },
+  {
+    "id": 459,
+    "localizedName": "Infecção sinusal",
+    "localizedDescription": "Adiciona uma chance de atirar em um meleca que fica com inimigos e causa dano ao longo do tempo.",
+    "localizedTags": [
+      "Gotejamento"
+    ]
+  },
+  {
+    "id": 9,
+    "localizedName": "Skatole",
+    "localizedDescription": "Moscas tornam-se inofensivas ou menos perigosas dependendo do tipo.",
+    "localizedTags": [
+      "Voar",
+      "Coração",
+      "Cocô."
+    ]
+  },
+  {
+    "id": 17,
+    "localizedName": "Chave Esqueleto",
+    "localizedDescription": "Dá a Isaac 99 chaves.",
+    "localizedTags": [
+      "Crânio"
+    ]
+  },
+  {
+    "id": 189,
+    "localizedName": "SMB Super Fan",
+    "localizedDescription": "+1 Red Heart, +0,3 danos, +0,2 lágrimas, +0,2 velocidade, +0,5 alcance, +1 altura de lágrima.",
+    "localizedTags": [
+      "Lâmina",
+      "Sangue.",
+      "metal",
+      "round",
+      "Viu?",
+      "Dentes"
+    ]
+  },
+  {
+    "id": 479,
+    "localizedName": "Smelter",
+    "localizedDescription": "Consome a bugiganga de Isaac e aplica seu efeito permanentemente.",
+    "localizedTags": [
+      "Maconha.",
+      "Tubulação"
+    ]
+  },
+  {
+    "id": 330,
+    "localizedName": "Leite de Soja",
+    "localizedDescription": "Lágrimas são menores e causam menos danos, mas fogo em rápida sucessão.",
+    "localizedTags": [
+      "Copo",
+      "Beba.",
+      "vidro",
+      "É uma droga."
+    ]
+  },
+  {
+    "id": 400,
+    "localizedName": "Lança do Destino",
+    "localizedDescription": "Além das lágrimas, Isaac segura uma lança na frente dele que causa dano de contato igual a 2x seu dano lacrimogêneo, e ocasionalmente inflige medo.",
+    "localizedTags": [
+      "Faca",
+      "metal",
+      "pontiagudo",
+      "Espada",
+      "Arma"
+    ]
+  },
+  {
+    "id": 143,
+    "localizedName": "Bola de Velocidade",
+    "localizedDescription": "+0.3 velocidade, +0.2 velocidade de tiro.",
+    "localizedTags": [
+      "Agulha."
+    ]
+  },
+  {
+    "id": 91,
+    "localizedName": "Chapéu Spelunker",
+    "localizedDescription": "Revela o tipo de quartos adjacentes, incluindo localização para quartos secretos e quartos super secretos.",
+    "localizedTags": [
+      "Chapéu",
+      "luz"
+    ]
+  },
+  {
+    "id": 89,
+    "localizedName": "Mordida de Aranha",
+    "localizedDescription": "Adiciona uma chance de atirar lágrimas lentas, reduzindo a velocidade do movimento inimigo e qualquer projétil disparado por eles.",
+    "localizedTags": [
+      "Devagar.",
+      "Aranha"
+    ]
+  },
+  {
+    "id": 171,
+    "localizedName": "Rabo de Aranha",
+    "localizedDescription": "Dá 10 danos a todos os inimigos na sala e os atrasa por 4 segundos.",
+    "localizedTags": [
+      "Blob",
+      "Web"
+    ]
+  },
+  {
+    "id": 211,
+    "localizedName": "Aranha",
+    "localizedDescription": "Quando atingido, gera 1-2 Aranhas Azul.\nQuando atingido, gera 3-5 Blue Spiders.",
+    "localizedTags": [
+      "Coração",
+      "Aranha"
+    ]
+  },
+  {
+    "id": 159,
+    "localizedName": "Espírito da noite",
+    "localizedDescription": "Concede lágrimas espectrais e fuga.",
+    "localizedTags": [
+      "Crescente",
+      "Maligno.",
+      "vôo",
+      "Voar",
+      "Lua",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 3,
+    "localizedName": "Spoon Bender",
+    "localizedDescription": "Dá lágrimas a Isaac.",
+    "localizedTags": [
+      "Curto.",
+      "Homing",
+      "metal"
+    ]
+  },
+  {
+    "id": 196,
+    "localizedName": "Aperta",
+    "localizedDescription": "Aumenta as lágrimas em 0,4, gera 2 corações de alma.",
+    "localizedTags": [
+      "Grub",
+      "Verme."
+    ]
+  },
+  {
+    "id": 251,
+    "localizedName": "Deck inicial",
+    "localizedDescription": "Isaac pode segurar duas cartas de uma vez e todas as pílulas são substituídas por cartas.",
+    "localizedTags": [
+      "Caixa",
+      "Cartas",
+      "pílulas."
+    ]
+  },
+  {
+    "id": 64,
+    "localizedName": "Venda a vapor",
+    "localizedDescription": "Reduz todos os preços da loja em 50%, arredondado para 7 moedas para um item, arredondado para 2-3 moedas para uma picape.",
+    "localizedTags": [
+      "bar.",
+      "Doces.",
+      "cupom",
+      "texto",
+      "Vale"
+    ]
+  },
+  {
+    "id": 176,
+    "localizedName": "Células-tronco",
+    "localizedDescription": "Concede um contêiner com coração vermelho e velocidade de tiro +0,16.",
+    "localizedTags": [
+      "Blob",
+      "Nojento.",
+      "Carne",
+      "round"
+    ]
+  },
+  {
+    "id": 50,
+    "localizedName": "Steven",
+    "localizedDescription": "Aumenta os danos em 1.",
+    "localizedTags": [
+      "Rosto",
+      "round"
+    ]
+  },
+  {
+    "id": 367,
+    "localizedName": "Bombas pegajosas",
+    "localizedDescription": "Bombas se agarram aos inimigos e desovam 2-4 Aranhas Azul se matarem um inimigo.",
+    "localizedTags": [
+      "round",
+      "Saco.",
+      "Aranha",
+      "Web"
+    ]
+  },
+  {
+    "id": 138,
+    "localizedName": "Stigmata",
+    "localizedDescription": "Aumenta os danos e adiciona 1 recipiente de coração.",
+    "localizedTags": [
+      "cruz",
+      "Afiado.",
+      "Spike",
+      "Madeira"
+    ]
+  },
+  {
+    "id": 232,
+    "localizedName": "Pare de olhar",
+    "localizedDescription": "Inflige automaticamente devagar para todos os inimigos em cada sala.\nAo sofrer danos, inflige lentamente a todos os inimigos para a sala atual.\nDiminui todos os inimigos em cada sala para aproximadamente meia velocidade.",
+    "localizedTags": [
+      "Devagar.",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 315,
+    "localizedName": "Atrator Estranho",
+    "localizedDescription": "Pinças, bugigangas e monstros são magneticamente atraídos pelas lágrimas de Isaac.",
+    "localizedTags": [
+      "ímã",
+      "metal"
+    ]
+  },
+  {
+    "id": 463,
+    "localizedName": "Ácido sulfúrico",
+    "localizedDescription": "Adiciona uma chance de disparar lágrimas ácidas que podem destruir obstáculos.",
+    "localizedTags": [
+      "Garrafa",
+      "Veneno",
+      "x"
+    ]
+  },
+  {
+    "id": 92,
+    "localizedName": "Super Bandagem",
+    "localizedDescription": "Concede um recipiente cheio de Coração Vermelho e 2 Almas.",
+    "localizedTags": [
+      "Bandaid"
+    ]
+  },
+  {
+    "id": 345,
+    "localizedName": "Synthoil",
+    "localizedDescription": "+1 dano, +5.25 alcance, +0.5 altura do lágrima.",
+    "localizedTags": [
+      "Agulha."
+    ]
+  },
+  {
+    "id": 38,
+    "localizedName": "Cabeça de Tammy",
+    "localizedDescription": "Atira 10 lágrimas em um círculo em torno de Isaac, que retém o dano, velocidade de tiro, e efeitos especiais (como veneno) das lágrimas de Isaac.",
+    "localizedTags": [
+      "Gato.",
+      "Morto",
+      "Cabeça."
+    ]
+  },
+  {
+    "id": 451,
+    "localizedName": "Cloth Tarot",
+    "localizedDescription": "Duplica os efeitos da maioria das cartas e runas dobra os efeitos das cartas de tarô.",
+    "localizedTags": [
+      "pedaço",
+      "Fruta",
+      "Triângulo"
+    ]
+  },
+  {
+    "id": 299,
+    "localizedName": "Touro",
+    "localizedDescription": "Isaac constrói velocidade em uma sala com inimigos, em velocidade máxima, ele ganha o efeito My Little Unicorn por 5 segundos.",
+    "localizedTags": [
+      "unicórnio"
+    ]
+  },
+  {
+    "id": 383,
+    "localizedName": "Detonador de Lágrimas",
+    "localizedDescription": "Quando usado, detonará qualquer lágrima atualmente na tela e fará com que cada uma se divida em mais seis lágrimas que dispararão em círculo, semelhante à Cabeça de Tammy.",
+    "localizedTags": [
+      "Bomba!",
+      "Caixa",
+      "pega"
+    ]
+  },
+  {
+    "id": 395,
+    "localizedName": "Tech X",
+    "localizedDescription": "Lágrimas são substituídas por anéis laser que atravessam inimigos e causam danos aos inimigos dentro deles.",
+    "localizedTags": [
+      "vidro",
+      "Óculos",
+      "laser",
+      "Máscara",
+      "Mergulho",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 244,
+    "localizedName": "Tecnologia",
+    "localizedDescription": "Isaac ocasionalmente dispara um laser de alcance ilimitado ao lado de suas lágrimas normais.",
+    "localizedTags": [
+      "laser",
+      "metal",
+      "round",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 68,
+    "localizedName": "Tecnologia",
+    "localizedDescription": "Substitui lágrimas por um laser penetrante com alcance ilimitado.",
+    "localizedTags": [
+      "Olho",
+      "laser",
+      "metal",
+      "round"
+    ]
+  },
+  {
+    "id": 152,
+    "localizedName": "Tecnologia 2",
+    "localizedDescription": "Diminui danos e substitui lágrimas de olho direito por um alcance ilimitado, laser penetrante que dispara continuamente.",
+    "localizedTags": [
+      "Olho",
+      "laser",
+      "metal"
+    ]
+  },
+  {
+    "id": 192,
+    "localizedName": "Telepatia para idiotas",
+    "localizedDescription": "Dá lágrimas para o sala atual.",
+    "localizedTags": [
+      "livro",
+      "Homing",
+      "texto"
+    ]
+  },
+  {
+    "id": 44,
+    "localizedName": "Teletransporte",
+    "localizedDescription": "Teletransporta Isaac para uma sala aleatória no andar atual.",
+    "localizedTags": [
+      "Remoto",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 419,
+    "localizedName": "Teletransporte 2.0",
+    "localizedDescription": "Se todos os quartos forem explorados, incluindo salas secretas, ele irá teletransportar Isaac para o quarto do Diabo ou do Anjo.",
+    "localizedTags": [
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 63,
+    "localizedName": "A Bateria",
+    "localizedDescription": "Colecionáveis ativados podem ser \"sobrecarregados\" para permitir um uso adicional.",
+    "localizedTags": [
+      "Caixa",
+      "Carregar"
+    ]
+  },
+  {
+    "id": 111,
+    "localizedName": "O Feijão",
+    "localizedDescription": "Isaac peida, envenenando qualquer inimigo à queima-roupa.",
+    "localizedTags": [
+      "Feijão",
+      "peidar"
+    ]
+  },
+  {
+    "id": 28,
+    "localizedName": "O Cinturão",
+    "localizedDescription": "Aumenta a velocidade em 0,3.",
+    "localizedTags": [
+      "Couro",
+      "Empatar"
+    ]
+  },
+  {
+    "id": 33,
+    "localizedName": "A Bíblia",
+    "localizedDescription": "Em uso, Isaac ganha vôo para o sala atual, mata imediatamente a mamãe, o coração da mãe e vive quando ativado, mas mata Isaac quando usado em Satanás.",
+    "localizedTags": [
+      "cruz",
+      "vôo",
+      "Voar"
+    ]
+  },
+  {
+    "id": 180,
+    "localizedName": "O Feijão Negro",
+    "localizedDescription": "Ao sofrer danos, Isaac peida, causando dano venenosos a todos os inimigos ao alcance.",
+    "localizedTags": [
+      "Gás"
+    ]
+  },
+  {
+    "id": 334,
+    "localizedName": "O Corpo",
+    "localizedDescription": "Adiciona 3 recipientes de Red Heart.",
+    "localizedTags": [
+      "3",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 34,
+    "localizedName": "O Livro de Belial",
+    "localizedDescription": "+2 danos na sala atual.\nGarante que uma Sala do Diabo ou Sala dos Anjos estará aberta depois de bater em um chefe enquanto segura.",
+    "localizedTags": [
+      "Maligno.",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 97,
+    "localizedName": "O Livro do Pecado",
+    "localizedDescription": "Passa uma pickup, pílula, cartão ou bugiganga.",
+    "localizedTags": [
+      "7"
+    ]
+  },
+  {
+    "id": 338,
+    "localizedName": "O Boomerang",
+    "localizedDescription": "Lança um bumerangue que recupera captações, além de danos e petrifica inimigos atingidos por 2 segundos.",
+    "localizedTags": [
+      "C",
+      "round",
+      "Arma"
+    ]
+  },
+  {
+    "id": 164,
+    "localizedName": "A Vela",
+    "localizedDescription": "A chama danifica qualquer coisa em seu caminho.",
+    "localizedTags": [
+      "Chama"
+    ]
+  },
+  {
+    "id": 103,
+    "localizedName": "O Frio Comum",
+    "localizedDescription": "Adiciona uma chance de atirar em lágrimas venenosas, causando dano ao longo do tempo quando infligido.",
+    "localizedTags": [
+      "Blob",
+      "Nojento.",
+      "round"
+    ]
+  },
+  {
+    "id": 21,
+    "localizedName": "A Bússola",
+    "localizedDescription": "Revela todos os quartos especiais (exceto quartos secretos de qualquer tipo).",
+    "localizedTags": [
+      "cilindro",
+      "mapa",
+      "round"
+    ]
+  },
+  {
+    "id": 105,
+    "localizedName": "O D6",
+    "localizedDescription": "Re-role todos os itens da sala atual em outros itens, dependendo do Item Pool da sala atual.",
+    "localizedTags": [
+      "Cubo",
+      "item"
+    ]
+  },
+  {
+    "id": 93,
+    "localizedName": "O Gamekid",
+    "localizedDescription": "Transforma Isaac em uma criatura tipo Pac-Man por 6 segundos, concedendo invulnerabilidade, causando medo a todos os inimigos, e reabastecendo um Meio Coração Vermelho para cada dois inimigos mortos.",
+    "localizedTags": [
+      "Jogo",
+      "Invuln",
+      "Nintendo.",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 101,
+    "localizedName": "O Halo",
+    "localizedDescription": "Concede um recipiente de coração vermelho cheio, +0,3 danos, +0,2 lágrimas, +0,25 alcance, +0,3 velocidade, e +0,5 altura de lágrima.",
+    "localizedTags": [
+      "Anel"
+    ]
+  },
+  {
+    "id": 66,
+    "localizedName": "A Ampulheta",
+    "localizedDescription": "Todos os inimigos na sala estão lentos por 8 segundos.",
+    "localizedTags": [
+      "8",
+      "vidro",
+      "Areia",
+      "Devagar.",
+      "Tempo"
+    ]
+  },
+  {
+    "id": 2,
+    "localizedName": "O Olho Interior",
+    "localizedDescription": "Dá triplo tiro, mas diminui as lágrimas.",
+    "localizedTags": [
+      "3",
+      "Olho",
+      "round",
+      "triplo"
+    ]
+  },
+  {
+    "id": 290,
+    "localizedName": "O jarro",
+    "localizedDescription": "Quando em plena saúde, até 4 Corações Vermelhos extras podem ser armazenados no Jarro.",
+    "localizedTags": [
+      "Contêiner",
+      "vazio",
+      "vidro",
+      "Coração"
+    ]
+  },
+  {
+    "id": 60,
+    "localizedName": "A Escada",
+    "localizedDescription": "Permite que Isaac atravesse lacunas um quadrado ao colocar automaticamente uma escada entre as duas seções.",
+    "localizedTags": [
+      "Passo",
+      "Madeira"
+    ]
+  },
+  {
+    "id": 329,
+    "localizedName": "A Técnica Ludovico",
+    "localizedDescription": "Em vez de chorar, Isaac controla uma lágrima flutuante que paira sobre obstáculos, essa lágrima causa dano constantes quando mantida sobre um inimigo.",
+    "localizedTags": [
+      "Olho",
+      "Tecnologia."
+    ]
+  },
+  {
+    "id": 79,
+    "localizedName": "A Marca",
+    "localizedDescription": "Dá um Coração de Alma, +1 dano, e +0.2 velocidade.",
+    "localizedTags": [
+      "666",
+      "999",
+      "Maligno."
+    ]
+  },
+  {
+    "id": 333,
+    "localizedName": "A Mente",
+    "localizedDescription": "Revela todo o mapa, incluindo todos os quartos especiais e quartos secretos.",
+    "localizedTags": [
+      "símbolo",
+      "Três",
+      "Triângulo"
+    ]
+  },
+  {
+    "id": 151,
+    "localizedName": "O Mulligan",
+    "localizedDescription": "Lágrimas têm 1/6 de chance de gerar moscas azuis aliadas quando atingem um inimigo.",
+    "localizedTags": [
+      "Voar"
+    ]
+  },
+  {
+    "id": 83,
+    "localizedName": "O prego",
+    "localizedDescription": "Dá a uma alma coração meio coração negro para a sala atual, +0,7 danos, -0,18 velocidade, permite Isaac quebrar pedras e danificar inimigos andando sobre eles.",
+    "localizedTags": [
+      "Sangue.",
+      "metal",
+      "Soul",
+      "Spike"
+    ]
+  },
+  {
+    "id": 35,
+    "localizedName": "O Necronomicon",
+    "localizedDescription": "Dá 40 danos a cada inimigo da sala.",
+    "localizedTags": [
+      "Dano"
+    ]
+  },
+  {
+    "id": 328,
+    "localizedName": "O Negativo",
+    "localizedDescription": "Se Isaac tem meio coração vermelho ou nenhum coração vermelho depois de sofrer danos, todos os inimigos na sala sofrem danos significativos (o mesmo efeito que o Necronomicon) permite a entrada na sala escura.",
+    "localizedTags": [
+      "Foto",
+      "Tiro."
+    ]
+  },
+  {
+    "id": 80,
+    "localizedName": "O Pacto",
+    "localizedDescription": "Dá dois corações almas corações negros, +0,5 danos, e +0,7 lágrimas.",
+    "localizedTags": [
+      "Sangue.",
+      "contrato",
+      "Gotejamento",
+      "Página",
+      "Papel"
+    ]
+  },
+  {
+    "id": 104,
+    "localizedName": "O Parasita",
+    "localizedDescription": "As lágrimas de Isaac se dividiram em duas quando bateram em algo.",
+    "localizedTags": [
+      "Grub",
+      "Separar",
+      "Verme."
+    ]
+  },
+  {
+    "id": 107,
+    "localizedName": "Os cor de rosa",
+    "localizedDescription": "Dá vôo para o sala atual, enquanto transforma o corpo de Isaac em um rápido e alto dano familiar.",
+    "localizedTags": [
+      "Corta.",
+      "metal",
+      "Tesoura",
+      "Afiado."
+    ]
+  },
+  {
+    "id": 327,
+    "localizedName": "A Polaroid",
+    "localizedDescription": "Se Isaac tem meio coração vermelho ou nenhum coração vermelho depois de sofrer danos, ele ganha um escudo que anula todos os tipos de danos por 5 segundos.",
+    "localizedTags": [
+      "Foto",
+      "Tiro."
+    ]
+  },
+  {
+    "id": 36,
+    "localizedName": "O Poop",
+    "localizedDescription": "Espalha uma pilha de cocô onde o Isaac está e derruba inimigos próximos.",
+    "localizedTags": [
+      "Merda."
+    ]
+  },
+  {
+    "id": 1,
+    "localizedName": "A Cebola Triste",
+    "localizedDescription": "Aumenta as lágrimas em 0,7.",
+    "localizedTags": [
+      "Lâmpada",
+      "Rosto",
+      "vegetal"
+    ]
+  },
+  {
+    "id": 90,
+    "localizedName": "A Rocha Pequena",
+    "localizedDescription": "Aumenta os danos em 1, aumenta as lágrimas em 0,2 e diminui a velocidade em 0,2.",
+    "localizedTags": [
+      "Pedra"
+    ]
+  },
+  {
+    "id": 335,
+    "localizedName": "A Alma",
+    "localizedDescription": "Isaac ganha uma aura pulsante que repele inimigos e projéteis.",
+    "localizedTags": [
+      "símbolo",
+      "Três"
+    ]
+  },
+  {
+    "id": 13,
+    "localizedName": "O Vírus",
+    "localizedDescription": "Isaac envenena inimigos em contato.",
+    "localizedTags": [
+      "Veneno",
+      "toque"
+    ]
+  },
+  {
+    "id": 108,
+    "localizedName": "O Wafer",
+    "localizedDescription": "Todas as fontes de dano que causariam mais de meio coração de dano são reduzidas a meio coração.",
+    "localizedTags": [
+      "+",
+      "pílula",
+      "round"
+    ]
+  },
+  {
+    "id": 358,
+    "localizedName": "O Mágico",
+    "localizedDescription": "As lágrimas de Isaac também viajam acima de todos os obstáculos.",
+    "localizedTags": [
+      "Cap.",
+      "cone",
+      "Dunce.",
+      "Chapéu",
+      "texto"
+    ]
+  },
+  {
+    "id": 249,
+    "localizedName": "Há opções",
+    "localizedDescription": "Dois itens nascem depois de derrotar um chefe.",
+    "localizedTags": [
+      "?",
+      "item",
+      "Retângulo"
+    ]
+  },
+  {
+    "id": 314,
+    "localizedName": "Coxas de Trovão",
+    "localizedDescription": "Destrói pedras ao entrar em contato com Isaac, adiciona um recipiente de Red Heart e baixa a velocidade.",
+    "localizedTags": [
+      "Jarro.",
+      "Coisas.",
+      "texto",
+      "molhado",
+      "molhado"
+    ]
+  },
+  {
+    "id": 233,
+    "localizedName": "Pequeno Planeta",
+    "localizedDescription": "Alcance e faça as lágrimas girarem em torno de Isaac até cairem.",
+    "localizedTags": [
+      "asteróide",
+      "Bola",
+      "Meteorito",
+      "Lua",
+      "órbita",
+      "Rock",
+      "round"
+    ]
+  },
+  {
+    "id": 183,
+    "localizedName": "Palitos de dentes",
+    "localizedDescription": "+0,7 lágrimas, +0,16 velocidade de tiro.",
+    "localizedTags": [
+      "Afiado.",
+      "Palitos",
+      "galho",
+      "Madeira"
+    ]
+  },
+  {
+    "id": 341,
+    "localizedName": "Foto rasgada",
+    "localizedDescription": "+0,7 lágrimas, +0,16 velocidade de tiro.",
+    "localizedTags": [
+      "Mãe.",
+      "Imagem",
+      "Rip"
+    ]
+  },
+  {
+    "id": 150,
+    "localizedName": "Amor Difícil",
+    "localizedDescription": "Adiciona uma chance de atirar em um dente em vez de uma lágrima, que causa mais dano do que lágrimas normais.",
+    "localizedTags": [
+      "latão",
+      "Quatro.",
+      "Dedos",
+      "Dentes",
+      "Dente"
+    ]
+  },
+  {
+    "id": 350,
+    "localizedName": "Choque Tóxico",
+    "localizedDescription": "Ao entrar em uma sala, envenena todos os inimigos, lidando com o dano duplo de Isaac.",
+    "localizedTags": [
+      "contágio",
+      "radioativo",
+      "símbolo",
+      "Aviso."
+    ]
+  },
+  {
+    "id": 397,
+    "localizedName": "Tractor Beam",
+    "localizedDescription": "Isaac emite um feixe de seu rosto que suas lágrimas seguem.",
+    "localizedTags": [
+      "Brilhar",
+      "laser"
+    ]
+  },
+  {
+    "id": 20,
+    "localizedName": "Transcendência",
+    "localizedDescription": "Grants voo.",
+    "localizedTags": [
+      "vôo",
+      "Voar",
+      "Não.",
+      "corda"
+    ]
+  },
+  {
+    "id": 54,
+    "localizedName": "Mapa do Tesouro",
+    "localizedDescription": "Revela todos os quartos para cada andar.",
+    "localizedTags": [
+      "Página",
+      "Papel",
+      "Trilha"
+    ]
+  },
+  {
+    "id": 243,
+    "localizedName": "Escudo Trinity",
+    "localizedDescription": "Isaac ganha um escudo que o protege de tiros inimigos e aponta na direção de onde Isaac dispara.",
+    "localizedTags": [
+      "3",
+      "Armadura",
+      "metal",
+      "Girar",
+      "símbolo"
+    ]
+  },
+  {
+    "id": 324,
+    "localizedName": "Indefinida",
+    "localizedDescription": "Teletransporta Isaac para a sala secreta, sala super secreta, sala do tesouro, ou estou errando.",
+    "localizedTags": [
+      "Quebrado.",
+      "Papel",
+      "pedaço",
+      "teletransporte",
+      "Estranho."
+    ]
+  },
+  {
+    "id": 298,
+    "localizedName": "Unicórnio Stump",
+    "localizedDescription": "Dá invulnerabilidade e velocidade aumentada por cinco segundos, mas remove a capacidade de atirar em lágrimas.",
+    "localizedTags": [
+      "pedaço",
+      "Invuln",
+      "caroço",
+      "Pedra"
+    ]
+  },
+  {
+    "id": 452,
+    "localizedName": "Vinhas Varicosas",
+    "localizedDescription": "Sofrendo danos libera um anel de 10 lágrimas de dano.",
+    "localizedTags": [
+      "Nojento.",
+      "As tripas",
+      "órgão"
+    ]
+  },
+  {
+    "id": 396,
+    "localizedName": "Razor Ventrículo",
+    "localizedDescription": "Ao entrar em um portal, Isaac é teleportado para o outro portal.",
+    "localizedTags": [
+      "Sangue.",
+      "Corta.",
+      "Faca",
+      "metal"
+    ]
+  },
+  {
+    "id": 303,
+    "localizedName": "Virgem",
+    "localizedDescription": "Também converte pílulas ruins em pílulas boas.",
+    "localizedTags": [
+      "M",
+      "Escudo."
+    ]
+  },
+  {
+    "id": 477,
+    "localizedName": "Vazio",
+    "localizedDescription": "Os itens ativos terão seus efeitos adicionados ao Vazio, e itens passivos concederão atualizações estatísticas.",
+    "localizedTags": [
+      "gire.",
+      "Girar",
+      "vórtice"
+    ]
+  },
+  {
+    "id": 484,
+    "localizedName": "Esperar o quê?",
+    "localizedDescription": "Isaac peida, enviando ondas de rocha.",
+    "localizedTags": [
+      "Feijão",
+      "peidar",
+      "rim"
+    ]
+  },
+  {
+    "id": 84,
+    "localizedName": "Precisamos ir mais fundo!",
+    "localizedDescription": "Cria um alçapão para ir para o próximo andar.",
+    "localizedTags": [
+      "Cavar",
+      "pá",
+      "Espada"
+    ]
+  },
+  {
+    "id": 181,
+    "localizedName": "Pony Branco",
+    "localizedDescription": "Quando usado, Isaac carrega na direção que o pônei está enfrentando, dando invulnerabilidade durante a carga e lidando com 40 danos enquanto também lança o efeito de Crack the Sky.",
+    "localizedTags": [
+      "vôo",
+      "Voar",
+      "Cavalo."
+    ]
+  },
+  {
+    "id": 122,
+    "localizedName": "Prostituta da Babilônia",
+    "localizedDescription": "Dá mais 1,5 dano e +0,3 velocidade sempre que Isaac tem meio coração vermelho ou menos (um coração vermelho para Eva), ignorando qualquer alma ou coração negro.",
+    "localizedTags": [
+      "Eve",
+      "Maligno."
+    ]
+  },
+  {
+    "id": 32,
+    "localizedName": "Pendurador de casaco de arame",
+    "localizedDescription": "Aumenta as lágrimas em 0,7.",
+    "localizedTags": [
+      "Roupas",
+      "Perturbador",
+      "Fio"
+    ]
+  },
+  {
+    "id": 349,
+    "localizedName": "Níquel de madeira",
+    "localizedDescription": "Quando usado, tem 50% de chance de soltar um tipo aleatório de moeda (Penny, Nickel, ou Dime).",
+    "localizedTags": [
+      "Moeda",
+      "Madeira"
+    ]
+  },
+  {
+    "id": 27,
+    "localizedName": "Colher de madeira",
+    "localizedDescription": "Aumenta a velocidade em 0,3.",
+    "localizedTags": [
+      "colher",
+      "Espátula",
+      "stick"
+    ]
+  },
+  {
+    "id": 76,
+    "localizedName": "Visão Raio-X",
+    "localizedDescription": "Revela e abre todas as entradas do Quarto Secreto e do Quarto Super Secreto.",
+    "localizedTags": [
+      "Olhos",
+      "Óculos",
+      "Olha.",
+      "Segredo"
+    ]
+  },
+  {
+    "id": 45,
+    "localizedName": "Coração Yum",
+    "localizedDescription": "Restaura um Coração Vermelho da saúde de Isaac.",
+    "localizedTags": [
+      "<3"
+    ]
+  },
+  {
+    "id": 392,
+    "localizedName": "Zodíaco",
+    "localizedDescription": "Dá ao Isaac um efeito zodíaco aleatório que muda cada andar.",
+    "localizedTags": [
+      "cruz",
+      "símbolo"
+    ]
+  }
+]
