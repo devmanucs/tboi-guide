@@ -8,6 +8,7 @@ import { buildCatalog } from '../../../packages/isaac-data/src/catalog'
 import { searchItems } from '../../../packages/isaac-data/src/search'
 import catalog from '../../../data/afterbirth-plus/items.json'
 import localizedCatalog from '../../../data/afterbirth-plus/items.pt-BR.json'
+import appIcon from '../../../resources/icon.ico?asset'
 
 const items = buildCatalog(catalog, localizedCatalog)
 const itemsById = new Map(items.map((item) => [item.id, item]))
@@ -91,6 +92,7 @@ function createWindow(): void {
     backgroundColor: '#141211',
     title: 'The Guide of Isaac',
     autoHideMenuBar: true,
+    icon: appIcon,
     webPreferences: {
       preload: join(fileURLToPath(new URL('.', import.meta.url)), '../preload/index.cjs'),
       contextIsolation: true,
@@ -113,6 +115,9 @@ function createWindow(): void {
     return { action: 'deny' }
   })
 }
+
+// Groups the taskbar entry under our own icon instead of the generic Electron one.
+if (process.platform === 'win32') app.setAppUserModelId('com.devmanucs.tboi-guide')
 
 app.whenReady().then(() => {
   createWindow()

@@ -11,7 +11,7 @@ pnpm install
 pnpm dev
 ```
 
-Comandos disponíveis: `pnpm typecheck`, `pnpm build` e `pnpm build:data`. `pnpm dev:web` abre só a interface num navegador comum (porta 5199), com uma API falsa que salva a run no `localStorage` — útil para mexer no visual sem o Electron.
+Comandos disponíveis: `pnpm typecheck`, `pnpm build`, `pnpm build:data` e `pnpm build:icon` (regera o ícone em `resources/` e o favicon). `pnpm dev:web` abre só a interface num navegador comum (porta 5199), com uma API falsa que salva a run no `localStorage` — útil para mexer no visual sem o Electron.
 
 ## Escopo atual
 

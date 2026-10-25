@@ -10,6 +10,7 @@
     "dev:web": "vite --config vite.web.config.ts",
     "build": "electron-rebuild -f -w better-sqlite3 && electron-vite build",
     "build:data": "tsx scripts/build-dataset.ts",
+    "build:icon": "tsx scripts/build-icon.ts",
     "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p apps/desktop/electron/tsconfig.json",
     "preview": "electron-rebuild -f -w better-sqlite3 && electron-vite preview"
   },
