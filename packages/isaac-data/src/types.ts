@@ -1,5 +1,5 @@
 export type GameVersion = 'rebirth' | 'afterbirth' | 'afterbirth-plus'
-export type ItemKind = 'passive' | 'active' | 'familiar' | 'trinket'
+export type ItemKind = 'passive' | 'active' | 'familiar' | 'trinket' | 'card' | 'rune'
 
 export interface IsaacItem {
   /** Unique catalog ID; trinkets are offset by TRINKET_ID_OFFSET. */
@@ -10,6 +10,8 @@ export interface IsaacItem {
   localizedName?: string
   version: GameVersion
   type: ItemKind
+  /** For cards: 'tarot', 'playing' or 'dice'; special cards have none. */
+  subType?: string
   spritePath?: string
   shortDescription: string
   localizedShortDescription?: string

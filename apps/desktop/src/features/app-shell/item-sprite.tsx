@@ -13,5 +13,6 @@ export function ItemSprite({ item, className }: { item: IsaacItem; className?: s
 }
 
 export function itemKindLabel(item: IsaacItem): string {
-  return { active: 'Ativo', familiar: 'Familiar', trinket: 'Trinket', passive: 'Passivo' }[item.type]
+  if (item.type === 'card') return item.subType === 'tarot' ? 'Tarô' : item.subType === 'playing' ? 'Baralho' : 'Carta'
+  return { active: 'Ativo', familiar: 'Familiar', trinket: 'Trinket', passive: 'Passivo', rune: 'Runa' }[item.type]
 }

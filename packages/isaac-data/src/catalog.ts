@@ -2,12 +2,15 @@ import type { IsaacItem, ItemKind } from './types'
 
 /** Trinket IDs overlap collectible IDs in the game, so the catalog shifts them into their own range. */
 export const TRINKET_ID_OFFSET = 10000
+/** Cards and runes (pocket items) have their own numbering too. */
+export const POCKET_ID_OFFSET = 20000
 
 export interface CatalogEntry {
   id?: number
   gameId?: number
   name: string
   type: string
+  subType?: string
   description: string
   tags: string[]
   imageUrl?: string
@@ -40,6 +43,7 @@ export function buildCatalog(catalog: CatalogEntry[], localizedCatalog: Localize
         localizedName: localized?.localizedName,
         version: 'afterbirth-plus',
         type: toItemKind(entry.type),
+        subType: entry.subType,
         shortDescription: firstSentence(entry.description),
         localizedShortDescription: firstSentence(localizedDescription),
         description: entry.description,
@@ -58,7 +62,11 @@ export function buildCatalog(catalog: CatalogEntry[], localizedCatalog: Localize
 }
 
 function toItemKind(type: string): ItemKind {
-  return type === 'active' || type === 'familiar' || type === 'trinket' ? type : 'passive'
+  return type === 'active' || type === 'familiar' || type === 'trinket' || type === 'card' || type === 'rune' ? type : 'passive'
+}
+
+export function isPocketItem(item: IsaacItem): boolean {
+  return item.type === 'card' || item.type === 'rune'
 }
 
 export function displayName(item: IsaacItem): string {

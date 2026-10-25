@@ -1,6 +1,6 @@
 import { Repeat2 } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
-import { displayName } from '../../../../../packages/isaac-data/src/catalog'
+import { displayName, isPocketItem } from '../../../../../packages/isaac-data/src/catalog'
 import { findCharacter, findFloor } from '../../../../../packages/isaac-data/src/run-presets'
 import type { HealthState, IsaacItem, RunState } from '../../../../../packages/isaac-data/src/types'
 import { cn } from '../../ui/cn'
@@ -32,9 +32,11 @@ export function CharacterSheet({ run, items, selectedId, onSelect, onChangeChara
   const health: HealthState = run.health ?? { redHearts: 0, soulHearts: 0, blackHearts: 0 }
   const activeItem = items.find((item) => item.id === run.activeItem)
   const trinket = [...items].reverse().find((item) => item.type === 'trinket')
+  const pocket = [...items].reverse().find(isPocketItem)
   // Everything except what is held in the active and trinket slots; older actives and trinkets
-  // stay listed (dimmed) since picking a new one swaps the old one out.
-  const passives = items.filter((item) => item.id !== run.activeItem && item.id !== trinket?.id)
+  // stay listed (dimmed) since picking a new one swaps the old one out. Cards and runes are
+  // consumables, so only the latest one shows, in the pocket slot.
+  const passives = items.filter((item) => item.id !== run.activeItem && item.id !== trinket?.id && !isPocketItem(item))
   const newest = items[items.length - 1]
   const heldItem = useHeldItem(items)
   const orbiting = passives.filter((item) => item.type === 'passive' || item.type === 'familiar').slice(-ORBIT_SIZE)
@@ -137,9 +139,10 @@ export function CharacterSheet({ run, items, selectedId, onSelect, onChangeChara
             <span className="font-display text-[8px] uppercase tracking-wide text-oracle-paper-muted">{items.length} {items.length === 1 ? 'item' : 'itens'}</span>
           </div>
 
-          <div className="mt-3 grid grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)] gap-2">
+          <div className="mt-3 grid grid-cols-2 gap-2 2xl:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)_minmax(0,1fr)]">
             <HeldSlot label="Item ativo" emptyLabel="Nenhum equipado" emptyHint="Ativos entram aqui sozinhos" item={activeItem} isNewest={activeItem?.id === newest?.id} selected={activeItem?.id === selectedId} onSelect={onSelect} />
             <HeldSlot label="Trinket" emptyLabel="Nenhum" emptyHint="Bugigangas do chão" item={trinket} isNewest={trinket?.id === newest?.id} selected={trinket?.id === selectedId} onSelect={onSelect} />
+            <HeldSlot label="Bolso" emptyLabel="Vazio" emptyHint="Cartas e runas" item={pocket} isNewest={pocket?.id === newest?.id} selected={pocket?.id === selectedId} onSelect={onSelect} />
           </div>
 
           <div className="mt-4 font-display text-[8px] uppercase tracking-wide text-oracle-paper-muted">Passivos e familiares · {passives.filter((item) => item.type === 'passive' || item.type === 'familiar').length}</div>

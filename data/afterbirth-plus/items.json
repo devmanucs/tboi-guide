@@ -1,10 +1,23 @@
 [
   {
+    "id": 20048,
+    "gameId": 48,
+    "sourceId": "? card",
+    "name": "? Card",
+    "type": "card",
+    "description": "When used, copies the effect of Isaac's currently held activated collectible .",
+    "tags": [],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/e/e0/Pickup_Q_Card_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/%3F_Card",
+    "sourceDlc": "base"
+  },
+  {
     "id": 320,
     "gameId": 320,
     "sourceId": "???'s only friend",
     "name": "???'s Only Friend",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a controllable familiar that deals 37.5 damage per second on touch. It can be moved using the shooting directional keys",
     "tags": [
       "dead",
@@ -20,6 +33,7 @@
     "sourceId": "???'s soul",
     "name": "???'s Soul",
     "type": "trinket",
+    "subType": "familiar",
     "description": "Spawns a familiar that floats slowly around the room on a pattern similar to The Peeper and fires spectral and homing tears.",
     "tags": [
       "baby",
@@ -46,11 +60,28 @@
     "sourceDlc": "base"
   },
   {
+    "id": 20001,
+    "gameId": 1,
+    "sourceId": "0 - the fool",
+    "name": "0 - The Fool",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Teleports Isaac back to the starting room of a floor.",
+    "tags": [
+      "card",
+      "teleport"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/3f/Pickup_0_-_The_Fool_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 11,
     "gameId": 11,
     "sourceId": "1up!",
     "name": "1up!",
     "type": "familiar",
+    "subType": "mushroom",
     "description": "Gives Isaac an extra life. Upon death, he will respawn in the previous room with full health and lose the 1up!.",
     "tags": [
       "dot",
@@ -60,6 +91,67 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/9/98/Collectible_1up%21_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/1up!",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20023,
+    "gameId": 23,
+    "sourceId": "2 of clubs",
+    "name": "2 of Clubs",
+    "type": "card",
+    "subType": "playing",
+    "description": "Doubles your bombs . If you have no bombs, gives you 2 instead.",
+    "tags": [
+      "bomb"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/b/b5/Pickup_2_of_Clubs_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20024,
+    "gameId": 24,
+    "sourceId": "2 of diamonds",
+    "name": "2 of Diamonds",
+    "type": "card",
+    "subType": "playing",
+    "description": "Doubles your coins . If you have no coins, gives you 2 instead.",
+    "tags": [
+      "$"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1a/Pickup_2_of_Diamonds_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20026,
+    "gameId": 26,
+    "sourceId": "2 of hearts",
+    "name": "2 of Hearts",
+    "type": "card",
+    "subType": "playing",
+    "description": "Doubles Isaac's current number of Red Hearts . Does not affect Eternal Hearts, Soul Hearts, or Black Hearts. Doesn't add new Red Heart containers, just fills empty ones.",
+    "tags": [
+      "card",
+      "heart"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/9/94/Pickup_2_of_Hearts_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20025,
+    "gameId": 25,
+    "sourceId": "2 of spades",
+    "name": "2 of Spades",
+    "type": "card",
+    "subType": "playing",
+    "description": "Doubles your keys . If you have no keys, gives you 2 instead.",
+    "tags": [
+      "key"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/15/Pickup_2_of_Spades_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
     "sourceDlc": "base"
   },
   {
@@ -104,6 +196,7 @@
     "sourceId": "7 seals",
     "name": "7 Seals",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts .",
     "tags": [
       "scroll",
@@ -146,6 +239,20 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/aa/Collectible_9_Volt_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/9_Volt",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20045,
+    "gameId": 45,
+    "sourceId": "a card against humanity",
+    "name": "A Card Against Humanity",
+    "type": "card",
+    "description": "Covers the entire room with poop. The process is not instant, and the room will not get filled if you leave it before it's done filling.",
+    "tags": [
+      "poop"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/59/Pickup_A_Card_Against_Humanity_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/A_Card_Against_Humanity",
     "sourceDlc": "base"
   },
   {
@@ -285,6 +392,7 @@
     "sourceId": "abel",
     "name": "Abel",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that mirrors Isaac's movements and shoots in the opposite direction.",
     "tags": [
       "dead",
@@ -294,6 +402,67 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/9/91/Collectible_Abel_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Abel",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20027,
+    "gameId": 27,
+    "sourceId": "ace of clubs",
+    "name": "Ace of Clubs",
+    "type": "card",
+    "subType": "playing",
+    "description": "Turns all pickups , chests , and non-boss enemies in the room into Bombs .",
+    "tags": [
+      "bomb"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/9/99/Pickup_Ace_of_Clubs_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20028,
+    "gameId": 28,
+    "sourceId": "ace of diamonds",
+    "name": "Ace of Diamonds",
+    "type": "card",
+    "subType": "playing",
+    "description": "Turns all pickups , chests , and non-boss enemies in the room into Pennies .",
+    "tags": [
+      "$"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/0c/Pickup_Ace_of_Diamonds_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20030,
+    "gameId": 30,
+    "sourceId": "ace of hearts",
+    "name": "Ace of Hearts",
+    "type": "card",
+    "subType": "playing",
+    "description": "Turns all pickups , chests , and non-boss enemies in the room into random heart pickups.",
+    "tags": [
+      "card",
+      "heart"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/d1/Pickup_Ace_of_Hearts_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20029,
+    "gameId": 29,
+    "sourceId": "ace of spades",
+    "name": "Ace of Spades",
+    "type": "card",
+    "subType": "playing",
+    "description": "Turns all pickups , chests , and non-boss enemies in the room into Keys .",
+    "tags": [
+      "key"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/01/Ace_of_Spades_%28Card%29_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
     "sourceDlc": "base"
   },
   {
@@ -317,6 +486,7 @@
     "sourceId": "acid baby",
     "name": "Acid Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that drops a random pill every 3 rooms . Upon using a pill, all enemies in the room are poisoned .",
     "tags": [
       "baby",
@@ -333,6 +503,7 @@
     "sourceId": "adrenaline",
     "name": "Adrenaline",
     "type": "passive",
+    "subType": "syringe",
     "description": "Increases damage based on how many empty Red Heart containers Isaac has.",
     "tags": [
       "needle"
@@ -366,6 +537,7 @@
     "sourceId": "anarchist cookbook",
     "name": "Anarchist Cookbook",
     "type": "active",
+    "subType": "book",
     "description": "Spawns six Troll Bombs around the room .",
     "tags": [
       "book",
@@ -374,6 +546,20 @@
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/c/c6/Collectible_Anarchist_Cookbook_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Anarchist_Cookbook",
     "sourceDlc": "base"
+  },
+  {
+    "id": 20053,
+    "gameId": 53,
+    "sourceId": "ancient recall",
+    "name": "Ancient Recall",
+    "type": "card",
+    "description": "Spawns 3 random cards.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/e/e7/Pickup_Ancient_Recall_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Ancient_Recall",
+    "sourceDlc": "boosterpack1"
   },
   {
     "id": 214,
@@ -412,6 +598,7 @@
     "sourceId": "angry fly",
     "name": "Angry Fly",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a fly familiar that orbits around a random enemy and deals 30 damage per second to enemies it comes in contact with.",
     "tags": [
       "angry",
@@ -474,6 +661,7 @@
     "sourceId": "aquarius",
     "name": "Aquarius",
     "type": "passive",
+    "subType": "zodiac",
     "description": "A trail of blue creep is left behind Isaac, which damages enemies.",
     "tags": [
       "lightning",
@@ -491,6 +679,7 @@
     "sourceId": "aries",
     "name": "Aries",
     "type": "passive",
+    "subType": "zodiac",
     "description": "+0.25 Speed. Running into enemies while at a high speed will deal damage. Does not prevent contact damage.",
     "tags": [
       "horns",
@@ -624,6 +813,7 @@
     "sourceId": "bbf",
     "name": "BBF",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that flies around the room in a zig-zag pattern and explodes on contact with an enemy. Respawns after ten seconds.",
     "tags": [
       "bomb",
@@ -660,6 +850,7 @@
     "sourceId": "best bud",
     "name": "Best Bud",
     "type": "familiar",
+    "subType": "familiar",
     "description": "When hit, spawns a quickly orbiting attack fly similar to Forever Alone for the current room dealing 75 damage per second.",
     "tags": [
       "3",
@@ -747,6 +938,7 @@
     "sourceId": "big chubby",
     "name": "Big Chubby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac and charges across the room when Isaac fires, blocking shots and dealing 40.5 damage per second on contact.",
     "tags": [
       "face",
@@ -764,6 +956,7 @@
     "sourceId": "big fan",
     "name": "Big Fan",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a large orbital familiar that blocks enemy shots and deals 30 damage per second to enemies.",
     "tags": [
       "fat",
@@ -850,6 +1043,7 @@
     "sourceId": "black lipstick",
     "name": "Black Lipstick",
     "type": "trinket",
+    "subType": "mom",
     "description": "Increases the chance of Black Hearts appearing.",
     "tags": [
       "makeup"
@@ -890,6 +1084,24 @@
     "sourceDlc": "afterbirth"
   },
   {
+    "id": 20041,
+    "gameId": 41,
+    "sourceId": "black rune",
+    "name": "Black Rune",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Deals 40 damage to all enemies in the room. Consumes all pickups in the room and turns them into Blue Flies and Spiders. Consumes all pedestal items in the room and turns them into random stat upgrades. No effect on shop items.",
+    "tags": [
+      "apollyon",
+      "gem",
+      "shard",
+      "void"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/13/Pickup_Black_Rune_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 10095,
     "gameId": 95,
     "sourceId": "black tooth",
@@ -919,6 +1131,22 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/6c/Collectible_Blank_Card_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Blank_Card",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20040,
+    "gameId": 40,
+    "sourceId": "blank rune",
+    "name": "Blank Rune",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Grants a random rune effect excluding the Black Rune . Has a 25% chance to spawn another Blank Rune upon use.",
+    "tags": [
+      "???",
+      "shard"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/5f/Pickup_Blank_Rune_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
     "sourceDlc": "base"
   },
   {
@@ -1067,6 +1295,7 @@
     "sourceId": "bloodshot eye",
     "name": "Bloodshot Eye",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an orbital familiar that deals 30 damage per second and fires a randomly angled tear every 2 seconds.",
     "tags": [
       "eyeball",
@@ -1130,6 +1359,7 @@
     "sourceId": "blue cap",
     "name": "Blue Cap",
     "type": "passive",
+    "subType": "mushroom",
     "description": "Gives one full Red Heart container , +0.7 tears and -0.16 shot speed .\nGives one Red Heart container , 2 Hearts of health, +0.7 tears and -0.16 shot speed .",
     "tags": [
       "shroom"
@@ -1196,6 +1426,7 @@
     "sourceId": "bob's curse",
     "name": "Bob's Curse",
     "type": "passive",
+    "subType": "familiar",
     "description": "Gives 5 bombs and grants Isaac's bombs a poison effect.",
     "tags": [
       "bomb",
@@ -1258,6 +1489,7 @@
     "sourceId": "bomb bag",
     "name": "Bomb Bag",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that drops a bomb every 3 rooms.",
     "tags": [
       "bomb"
@@ -1289,6 +1521,7 @@
     "sourceId": "book of revelations",
     "name": "Book of Revelations",
     "type": "active",
+    "subType": "book",
     "description": "Gives one Soul Heart , increases the chance for a Devil or Angel Room , and changes the boss of the current floor to a Harbinger if possible.",
     "tags": [
       "bible",
@@ -1305,6 +1538,7 @@
     "sourceId": "book of secrets",
     "name": "Book of Secrets",
     "type": "active",
+    "subType": "book",
     "description": "Gives the effect of Treasure Map , The Compass , or Blue Map for the duration of the current floor .",
     "tags": [
       "?",
@@ -1322,6 +1556,7 @@
     "sourceId": "book of shadows",
     "name": "Book of Shadows",
     "type": "active",
+    "subType": "book",
     "description": "Creates a protective shield , nullifying all types of damage for 10 seconds.",
     "tags": [
       "book",
@@ -1338,6 +1573,7 @@
     "sourceId": "book of the dead",
     "name": "Book of the Dead",
     "type": "active",
+    "subType": "book",
     "description": "Upon use, spawns a friendly Bony or an orbital bone for each enemy killed in the current room.",
     "tags": [
       "book",
@@ -1627,6 +1863,7 @@
     "sourceId": "brother bobby",
     "name": "Brother Bobby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "A familiar that follows Isaac around shooting normal tears.",
     "tags": [
       "baby",
@@ -1659,6 +1896,7 @@
     "sourceId": "brown nugget",
     "name": "Brown Nugget",
     "type": "active",
+    "subType": "familiar",
     "description": "Spawns a stationary fly turret that fires tears at nearby enemies.",
     "tags": [
       "chest",
@@ -1690,6 +1928,7 @@
     "sourceId": "buddy in a box",
     "name": "Buddy in a Box",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a familiar with a random tear effect. The familiar is randomized at the start of each floor .",
     "tags": [
       "crate",
@@ -1705,6 +1944,7 @@
     "sourceId": "bum friend",
     "name": "Bum Friend",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that picks up coins for himself, giving random pickups in return. Does not spawn collectibles .",
     "tags": [
       "baby",
@@ -1720,6 +1960,7 @@
     "sourceId": "bumbo",
     "name": "Bumbo",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a beggar familiar which picks up any nearby coins , leveling up after collecting several coins. At level 2, Bumbo gains a body. At level 3, it begins to fire tears. At level 4, Bumbo follows enemies and gains contact damage.",
     "tags": [
       "beg",
@@ -1896,6 +2137,7 @@
     "sourceId": "cambion conception",
     "name": "Cambion Conception",
     "type": "passive",
+    "subType": "familiar",
     "description": "After taking damage a certain amount of times, a permanent demonic familiar spawns.",
     "tags": [
       "gross",
@@ -1929,6 +2171,7 @@
     "sourceId": "cancer",
     "name": "Cancer",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Adds 3 Soul Hearts . Grants The Wafer effect for the current room upon taking damage.",
     "tags": [
       "69",
@@ -1968,6 +2211,7 @@
     "sourceId": "capricorn",
     "name": "Capricorn",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Increases health, damage, speed, and range, lowers tear delay, and gives one coin , bomb , and key .",
     "tags": [
       "glyph",
@@ -2050,6 +2294,7 @@
     "sourceId": "censer",
     "name": "Censer",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar which creates a circular aura that slows down enemies and enemy shots inside.",
     "tags": [
       "cylinder",
@@ -2113,11 +2358,26 @@
     "sourceDlc": "afterbirth"
   },
   {
+    "id": 20042,
+    "gameId": 42,
+    "sourceId": "chaos card",
+    "name": "Chaos Card",
+    "type": "card",
+    "description": "Throws the card to kill anything in its path. Opens normal doors.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4c/Pickup_Chaos_Card_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Chaos_Card",
+    "sourceDlc": "base"
+  },
+  {
     "id": 372,
     "gameId": 372,
     "sourceId": "charged baby",
     "name": "Charged Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that occasionally drops a Lil' Battery , gives an activate item charge, or petrifies all enemies in the room.",
     "tags": [
       "battery",
@@ -2134,6 +2394,7 @@
     "sourceId": "charm of the vampire",
     "name": "Charm of the Vampire",
     "type": "passive",
+    "subType": "familiar",
     "description": "Heals Isaac for half of a Red Heart for every 13 enemies killed. +0.3 damage .",
     "tags": [
       "bat",
@@ -2464,6 +2725,20 @@
     "sourceDlc": "afterbirth"
   },
   {
+    "id": 20043,
+    "gameId": 43,
+    "sourceId": "credit card",
+    "name": "Credit Card",
+    "type": "card",
+    "description": "Converts all items in the Shop or Devil Room into pickups or items on pedestals, allowing them to be picked up for free.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4c/Pickup_Credit_Card_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Credit_Card",
+    "sourceDlc": "base"
+  },
+  {
     "id": 224,
     "gameId": 224,
     "sourceId": "cricket's body",
@@ -2575,6 +2850,7 @@
     "sourceId": "cube of meat",
     "name": "Cube of Meat",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an orbital familiar that blocks enemy shots, dealing 105 damage per second. Collecting additional copies grants it the ability to shoot, then chase enemies, then increases the damage.",
     "tags": [
       "boy",
@@ -2693,6 +2969,7 @@
     "sourceId": "d1",
     "name": "D1",
     "type": "active",
+    "subType": "dice",
     "description": "Duplicates a random pickup in the room.",
     "tags": [
       "cube",
@@ -2708,6 +2985,7 @@
     "sourceId": "d10",
     "name": "D10",
     "type": "active",
+    "subType": "dice",
     "description": "Rerolls the monsters in the room . Only rerolls monsters that are still alive (does not spawn new enemies).",
     "tags": [
       "cube",
@@ -2726,6 +3004,7 @@
     "sourceId": "d100",
     "name": "D100",
     "type": "active",
+    "subType": "dice",
     "description": "Combines the effects of D4 , The D6 , and D20 .\nCombines the effects of D1 , D4 , The D6 , D7 , D8 , D10 , D12 , and D20 .",
     "tags": [
       "ball",
@@ -2743,6 +3022,7 @@
     "sourceId": "d12",
     "name": "D12",
     "type": "active",
+    "subType": "dice",
     "description": "Re-rolls all rocks in the current room into other random objects, such as bomb rocks , metal blocks , TNT , or poops .",
     "tags": [
       "12",
@@ -2760,6 +3040,7 @@
     "sourceId": "d20",
     "name": "D20",
     "type": "active",
+    "subType": "dice",
     "description": "Rerolls all pickups in the current room .",
     "tags": [
       "dice",
@@ -2777,6 +3058,7 @@
     "sourceId": "d4",
     "name": "D4",
     "type": "active",
+    "subType": "dice",
     "description": "Rerolls all of Isaac's passive items .",
     "tags": [
       "dice",
@@ -2793,6 +3075,7 @@
     "sourceId": "d7",
     "name": "D7",
     "type": "active",
+    "subType": "dice",
     "description": "Restarts the current room and brings back all enemies , allowing more rewards to be acquired by completing the room.",
     "tags": [
       "7",
@@ -2810,6 +3093,7 @@
     "sourceId": "d8",
     "name": "D8",
     "type": "active",
+    "subType": "dice",
     "description": "Re-rolls Isaac's damage , tears , range , and speed .",
     "tags": [
       "8",
@@ -2874,6 +3158,7 @@
     "sourceId": "daddy longlegs",
     "name": "Daddy Longlegs",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Daddy Long Legs' shadow follows Isaac and occasionally stomps enemies for 40 damage total.",
     "tags": [
       "ball",
@@ -2910,6 +3195,7 @@
     "sourceId": "dark bum",
     "name": "Dark Bum",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around and collects Red Hearts for himself. For every 1½ Red Hearts collected, Dark Bum will give a Soul Heart , a hostile Spider , a friendly Blue Spider , or a random card, rune or pill.",
     "tags": [
       "beggar",
@@ -2980,6 +3266,7 @@
     "sourceId": "dead bird",
     "name": "Dead Bird",
     "type": "passive",
+    "subType": "familiar",
     "description": "After Isaac takes damage, spawns a flying familiar that chases enemies for the current room , dealing ~5 damage per second.",
     "tags": [
       "animal",
@@ -3188,6 +3475,7 @@
     "sourceId": "demon baby",
     "name": "Demon Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac and automatically fires at enemies in its reach.",
     "tags": [
       "baby",
@@ -3230,6 +3518,24 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/e/e8/Collectible_Dessert_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Dessert",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20049,
+    "gameId": 49,
+    "sourceId": "dice shard",
+    "name": "Dice Shard",
+    "type": "card",
+    "subType": "dice",
+    "description": "Upon use, activates the effects of The D6 and the D20 at the same time.",
+    "tags": [
+      "broken",
+      "d20",
+      "d6",
+      "reroll"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4f/Pickup_Dice_Shard_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Dice_Shard",
     "sourceDlc": "base"
   },
   {
@@ -3290,6 +3596,7 @@
     "sourceId": "distant admiration",
     "name": "Distant Admiration",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an attack fly that circles further out than Halo of Flies , but closer than Forever Alone , dealing 75 damage per second.",
     "tags": [
       "fly",
@@ -3390,6 +3697,7 @@
     "sourceId": "dry baby",
     "name": "Dry Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around and blocks enemy projectiles. Upon blocking a shot, it has a chance of triggering The Necronomicon effect.",
     "tags": [
       "baby",
@@ -3504,6 +3812,21 @@
     "sourceDlc": "afterbirthplus"
   },
   {
+    "id": 20050,
+    "gameId": 50,
+    "sourceId": "emergency contact",
+    "name": "Emergency Contact",
+    "type": "card",
+    "description": "When used, will cause two Mom's Hands to come down and grab two random enemies.",
+    "tags": [
+      "card",
+      "mom"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/65/Pickup_Emergency_Contact_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Emergency_Contact",
+    "sourceDlc": "base"
+  },
+  {
     "id": 409,
     "gameId": 409,
     "sourceId": "empty vessel",
@@ -3589,6 +3912,20 @@
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/68/Trinket_Equality%21_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Equality!",
     "sourceDlc": "afterbirthplus"
+  },
+  {
+    "id": 20054,
+    "gameId": 54,
+    "sourceId": "era walk",
+    "name": "Era Walk",
+    "type": "card",
+    "description": "For the current room, enemies are slowed, Isaac's speed is increased, and his shot speed is decreased.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1e/Pickup_Era_Walk_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Era_Walk",
+    "sourceDlc": "boosterpack1"
   },
   {
     "id": 10075,
@@ -3699,6 +4036,7 @@
     "sourceId": "experimental treatment",
     "name": "Experimental Treatment",
     "type": "passive",
+    "subType": "syringe",
     "description": "Randomly increases and decreases some of the character's stats.",
     "tags": [
       "needle"
@@ -3811,6 +4149,7 @@
     "sourceId": "farting baby",
     "name": "Farting Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac and blocks enemy shots. If a shot hits Farting Baby, it has a chance to fart, which Charms , Poisons , or knocks back nearby enemies.",
     "tags": [
       "gross",
@@ -3861,6 +4200,7 @@
     "sourceId": "fate's reward",
     "name": "Fate's Reward",
     "type": "familiar",
+    "subType": "familiar",
     "description": "A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage.",
     "tags": [
       "baby",
@@ -3911,6 +4251,7 @@
     "sourceId": "finger!",
     "name": "Finger!",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a finger familiar that points at enemies, dealing scaling damage.",
     "tags": [
       "flesh",
@@ -4043,6 +4384,7 @@
     "sourceId": "forever alone",
     "name": "Forever Alone",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an attack fly that orbits a long distance from Isaac, dealing 30 damage per second.",
     "tags": [
       "fly",
@@ -4091,6 +4433,7 @@
     "sourceId": "friend zone",
     "name": "Friend Zone",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a white attack fly that orbits somewhere between Distant Admiration and Forever Alone , dealing 45 damage per second.",
     "tags": [
       "fly"
@@ -4141,6 +4484,7 @@
     "sourceId": "gb bug",
     "name": "GB Bug",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that bounces diagonally around the room , applying a random status effect to enemies it hits and has a chance to re-roll pickups it passes over.\nSpawns a familiar that follows Isaac. Double tapping the fire button launches it forward, causing it to reroll the first monster or pickup it hits. It respawns after clearing a room.",
     "tags": [
       "shapes",
@@ -4156,6 +4500,7 @@
     "sourceId": "gemini",
     "name": "Gemini",
     "type": "familiar",
+    "subType": "zodiac familiar",
     "description": "Spawns a conjoined familiar which chases enemies close to Isaac, dealing ~8 damage per second.",
     "tags": [
       "2",
@@ -4167,11 +4512,26 @@
     "sourceDlc": "base"
   },
   {
+    "id": 20047,
+    "gameId": 47,
+    "sourceId": "get out of jail free card",
+    "name": "Get out of Jail Free Card",
+    "type": "card",
+    "description": "Upon use, opens all doors in the current room (including the golden door at The Chest / Dark Room), similar to Dad's Key.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/35/Pickup_Get_out_of_Jail_Free_Card_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Get_out_of_Jail_Free_Card",
+    "sourceDlc": "base"
+  },
+  {
     "id": 163,
     "gameId": 163,
     "sourceId": "ghost baby",
     "name": "Ghost Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around and fires spectral tears .",
     "tags": [
       "dead",
@@ -4283,6 +4643,7 @@
     "sourceId": "glyph of balance",
     "name": "Glyph of Balance",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Grants 2 Soul Hearts and modifies drops from Champion monsters based on certain conditions. Also modifies room clear drops.",
     "tags": [
       "glyph"
@@ -4408,6 +4769,7 @@
     "sourceId": "growth hormones",
     "name": "Growth Hormones",
     "type": "passive",
+    "subType": "syringe",
     "description": "+1 damage , +0.4 speed , +0.2 speed.",
     "tags": [
       "damage"
@@ -4422,6 +4784,7 @@
     "sourceId": "guardian angel",
     "name": "Guardian Angel",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an orbital familiar that blocks enemy shots, deals 105 damage per second to enemies, and increases the speed of all orbital familiars.",
     "tags": [
       "angel",
@@ -4587,6 +4950,7 @@
     "sourceId": "hallowed ground",
     "name": "Hallowed Ground",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a white poop familiar, which turns into a white poop when Isaac is hurt. White poop has an aura that halves tear delay and can block enemy shots.",
     "tags": [
       "glow",
@@ -4604,6 +4968,7 @@
     "sourceId": "halo of flies",
     "name": "Halo of Flies",
     "type": "familiar",
+    "subType": "familiary",
     "description": "Spawns two Pretty Flies that block enemy shots and deal contact damage to flies.",
     "tags": [
       "fly",
@@ -4620,6 +4985,7 @@
     "sourceId": "harlequin baby",
     "name": "Harlequin Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around and fires two tears at once in a V-pattern.",
     "tags": [
       "baby"
@@ -4670,6 +5036,7 @@
     "sourceId": "headless baby",
     "name": "Headless Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac, leaving blood creep on the ground.",
     "tags": [
       "blood",
@@ -4693,6 +5060,22 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/b/bf/Collectible_Hive_Mind_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Hive_Mind",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20051,
+    "gameId": 51,
+    "sourceId": "holy card",
+    "name": "Holy Card",
+    "type": "card",
+    "description": "Grants the Holy Mantle effect. It lasts for the current room. It lasts until taking damage.",
+    "tags": [
+      "card",
+      "cross",
+      "holy"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/2/22/Pickup_Holy_Card_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Holy_Card",
     "sourceDlc": "base"
   },
   {
@@ -4750,6 +5133,7 @@
     "sourceId": "holy water",
     "name": "Holy Water",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a bottle familiar that breaks when Isaac takes damage, leaving a puddle of blue creep . The bottle respawns upon entering a different room.\nA bottle familiar that flies forward when Isaac shoots. It breaks upon hitting an enemy, leaving a puddle of blue creep that petrifies enemies. The bottle respawns after a few seconds.",
     "tags": [
       "creep",
@@ -4780,6 +5164,7 @@
     "sourceId": "host hat",
     "name": "Host Hat",
     "type": "passive",
+    "subType": "familiar",
     "description": "A host familiar that sits on Isaac's head and has a random chance to block enemy shots and retaliate with 3 tears. Grants immunity to explosions.",
     "tags": [
       "bone",
@@ -4812,6 +5197,7 @@
     "sourceId": "how to jump",
     "name": "How to Jump",
     "type": "active",
+    "subType": "book",
     "description": "Upon use, Isaac jumps in the direction he is currently moving, allowing travel over obstacles and enemies.",
     "tags": [
       "text"
@@ -4819,6 +5205,20 @@
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/d1/Collectible_How_to_Jump_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/How_to_Jump",
     "sourceDlc": "base"
+  },
+  {
+    "id": 20052,
+    "gameId": 52,
+    "sourceId": "huge growth",
+    "name": "Huge Growth",
+    "type": "card",
+    "description": "Makes Isaac large for the current room, increasing his range and damage.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/f1/Pickup_Huge_Growth_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Huge_Growth",
+    "sourceDlc": "boosterpack1"
   },
   {
     "id": 203,
@@ -4844,6 +5244,7 @@
     "sourceId": "hushy",
     "name": "Hushy",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a Hush familiar that bounces diagonally around the room and deals contact damage. While firing tears, it stops moving.",
     "tags": [
       "dead",
@@ -4855,11 +5256,59 @@
     "sourceDlc": "afterbirthplus"
   },
   {
+    "id": 20002,
+    "gameId": 2,
+    "sourceId": "i - the magician",
+    "name": "I - The Magician",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Grants homing tears and +3 range for the current room (same effect as Telepathy for Dummies ).",
+    "tags": [
+      "homing"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/67/Pickup_I_-_The_Magician_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20003,
+    "gameId": 3,
+    "sourceId": "ii - the high priestess",
+    "name": "II - The High Priestess",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Mom 's dismembered leg is called down to deal 300 damage to anything it stomps. It will always stomp on the enemy with the most health. If used in an empty room or during the fight with Mom, it will stomp Isaac instead.",
+    "tags": [
+      "mom"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1e/Pickup_II_-_The_High_Priestess_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20004,
+    "gameId": 4,
+    "sourceId": "iii - the empress",
+    "name": "III - The Empress",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Triggers the Whore of Babylon effect (+1.5 damage, +0.3 speed) for the current room, but without the need for Isaac to have a red heart or less of health.",
+    "tags": [
+      "babylon",
+      "eve",
+      "whore"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4d/Pickup_III_-_The_Empress_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 413,
     "gameId": 413,
     "sourceId": "immaculate conception",
     "name": "Immaculate Conception",
     "type": "passive",
+    "subType": "familiar",
     "description": "Upon picking up a certain amount of health, spawn a permanent angelic familiar.",
     "tags": [
       "angel",
@@ -4876,6 +5325,7 @@
     "sourceId": "incubus",
     "name": "Incubus",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a demonic familiar that shoots tears identical to Isaac's in terms of damage , tears , and tear effects .",
     "tags": [
       "demon"
@@ -4979,6 +5429,7 @@
     "sourceId": "isaac's head",
     "name": "Isaac's Head",
     "type": "trinket",
+    "subType": "familiar",
     "description": "Spawns Isaac's severed head as a tear-firing familiar . Fires piercing tears.",
     "tags": [
       "dead",
@@ -4994,6 +5445,7 @@
     "sourceId": "isaac's heart",
     "name": "Isaac's Heart",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Isaac himself is now immune to all damage, and a heart familiar follows him. If the heart is hurt, Isaac is hurt. The heart charges up as Isaac shoots, firing 8 blood shots, knocking back enemies, and leaving a puddle of creep when released.",
     "tags": [
       "heart",
@@ -5020,6 +5472,22 @@
     "sourceDlc": "base"
   },
   {
+    "id": 20005,
+    "gameId": 5,
+    "sourceId": "iv - the emperor",
+    "name": "IV - The Emperor",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Teleports Isaac into the Boss Room of a floor. In Home , this will act as a random teleport.",
+    "tags": [
+      "boss",
+      "teleport"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/c/c4/Pickup_IV_-_The_Emperor_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 135,
     "gameId": 135,
     "sourceId": "iv bag",
@@ -5034,6 +5502,22 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4c/Collectible_IV_Bag_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/IV_Bag",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20010,
+    "gameId": 10,
+    "sourceId": "ix - the hermit",
+    "name": "IX - The Hermit",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Teleports Isaac to the Shop . If there is no Shop, this will act as a random teleport. If the Shop has not yet been accessed, this card will unlock the door without requiring a key (as long as the player exits through the main entrance).",
+    "tags": [
+      "shop",
+      "teleport"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/ad/Pickup_IX_-_The_Hermit_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
     "sourceDlc": "base"
   },
   {
@@ -5073,6 +5557,7 @@
     "sourceId": "jaw bone",
     "name": "Jaw Bone",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a familiar that flies through the room while firing, dealing a flat 7 contact damage to enemies retrieving pickups .",
     "tags": [
       "curve",
@@ -5098,6 +5583,21 @@
     ],
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/60/Collectible_Jesus_Juice_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Jesus_Juice",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20031,
+    "gameId": 31,
+    "sourceId": "joker",
+    "name": "Joker",
+    "type": "card",
+    "subType": "playing",
+    "description": "Teleports Isaac to the Devil Room or Angel Room .",
+    "tags": [
+      "devil"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/ab/Pickup_Joker_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
     "sourceDlc": "base"
   },
   {
@@ -5203,6 +5703,7 @@
     "sourceId": "key bum",
     "name": "Key Bum",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac and collects Keys for himself, giving random Chests in return.",
     "tags": [
       "baby",
@@ -5278,6 +5779,7 @@
     "sourceId": "king baby",
     "name": "King Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac and makes other familiars follow it. While firing tears, other familiars stop moving.",
     "tags": [
       "baby",
@@ -5388,6 +5890,7 @@
     "sourceId": "leech",
     "name": "Leech",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a leech familiar that chases enemies, dealing ~3 damage per second. Heals a Half Red Heart whenever Leech kills an enemy.",
     "tags": [
       "maggot"
@@ -5417,6 +5920,7 @@
     "sourceId": "leo",
     "name": "Leo",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Isaac can destroy rocks by walking into them.",
     "tags": [
       "noose",
@@ -5451,6 +5955,7 @@
     "sourceId": "liberty cap",
     "name": "Liberty Cap",
     "type": "trinket",
+    "subType": "mushroom",
     "description": "Grants a chance of triggering Mini Mush , Odd Mushroom (Large) , Odd Mushroom (Thin) or The Compass effects for the current room upon entering it.",
     "tags": [
       "shroom"
@@ -5465,6 +5970,7 @@
     "sourceId": "libra",
     "name": "Libra",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Gives 6 coins , 6 bombs , and 6 keys and balances out all attributes .",
     "tags": [
       "balance"
@@ -5479,6 +5985,7 @@
     "sourceId": "lil brimstone",
     "name": "Lil Brimstone",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Grants a familiar that charges a thin Brimstone laser while Isaac is shooting.",
     "tags": [
       "demon"
@@ -5493,6 +6000,7 @@
     "sourceId": "lil chest",
     "name": "Lil Chest",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a chest familiar that spawns a random pickup (25% chance) or trinket (10% chance) upon clearing a room .",
     "tags": [
       "cube"
@@ -5507,6 +6015,7 @@
     "sourceId": "lil delirium",
     "name": "Lil Delirium",
     "type": "passive",
+    "subType": "familiar",
     "description": "Grants a familiar that transforms into another random familiar every 10 seconds.",
     "tags": [
       "delirious",
@@ -5523,6 +6032,7 @@
     "sourceId": "lil gurdy",
     "name": "Lil Gurdy",
     "type": "familiar",
+    "subType": "familiar",
     "description": "A Gurdy Jr. familiar that charges up while Isaac is firing, bouncing around the room when released and dealing contact damage based on its speed.",
     "tags": [
       "charge",
@@ -5540,6 +6050,7 @@
     "sourceId": "lil haunt",
     "name": "Lil Haunt",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that chases down enemies, dealing 4 damage per second and inflicting fear .",
     "tags": [
       "ghost",
@@ -5572,6 +6083,7 @@
     "sourceId": "lil loki",
     "name": "Lil Loki",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a Loki familiar that follows Isaac and fires 4 tears in a cross pattern.",
     "tags": [
       "angel",
@@ -5587,6 +6099,7 @@
     "sourceId": "lil monstro",
     "name": "Lil Monstro",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that fires clusters of tears. Must be charged before shooting.",
     "tags": [
       "cleft",
@@ -5604,6 +6117,7 @@
     "sourceId": "lil spewer",
     "name": "Lil Spewer",
     "type": "passive",
+    "subType": "familiar",
     "description": "Drops a random pill , and spawns a familiar that charges up and fires creep . Using pills changes the creep type.",
     "tags": [
       "baby",
@@ -5652,6 +6166,7 @@
     "sourceId": "little c.h.a.d.",
     "name": "Little C.H.A.D.",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar who drops a Half Red Heart every 3 rooms.",
     "tags": [
       "heart"
@@ -5666,6 +6181,7 @@
     "sourceId": "little chubby",
     "name": "Little Chubby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a charger familiar that charges forward and deals contact damage to any enemies in its path.",
     "tags": [
       "charge"
@@ -5680,6 +6196,7 @@
     "sourceId": "little gish",
     "name": "Little Gish",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around and fires slowing tears , impeding enemies' speed.",
     "tags": [
       "face",
@@ -5716,6 +6233,7 @@
     "sourceId": "little steven",
     "name": "Little Steven",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar who follows Isaac around and fires homing tears .",
     "tags": [
       "homing"
@@ -5868,6 +6386,7 @@
     "sourceId": "lost fly",
     "name": "Lost Fly",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns fly familiar that moves in a straight line and circles around the first wall or obstacle it hits, dealing 105 damage per second on contact.",
     "tags": [
       "fly"
@@ -6047,6 +6566,7 @@
     "sourceId": "magic mushroom",
     "name": "Magic Mushroom",
     "type": "passive",
+    "subType": "mushroom",
     "description": "Makes Isaac bigger. Adds one Red Heart container , +0.3 damage , x1.5 damage multiplier, +5.25 range , and +0.3 speed . Restores all health on pickup.",
     "tags": [
       "dots",
@@ -6359,6 +6879,7 @@
     "sourceId": "mini mush",
     "name": "Mini Mush",
     "type": "passive",
+    "subType": "mushroom",
     "description": "Decreases Isaac's size, making him less likely to be hit. +0.3 speed , +1.5 tear height , -4.25 range (effective range is increased).",
     "tags": [
       "dots",
@@ -6488,6 +7009,7 @@
     "sourceId": "mom's coin purse",
     "name": "Mom's Coin Purse",
     "type": "passive",
+    "subType": "mom",
     "description": "Spawns 4 random pills near Isaac.",
     "tags": [
       "pack",
@@ -6504,6 +7026,7 @@
     "sourceId": "mom's contacts",
     "name": "Mom's Contacts",
     "type": "passive",
+    "subType": "mom",
     "description": "+0.25 range . Adds a chance to shoot petrifying tears , which stop enemies in place and prevent them from moving or attacking.",
     "tags": [
       "eye",
@@ -6519,6 +7042,7 @@
     "sourceId": "mom's eye",
     "name": "Mom's Eye",
     "type": "passive",
+    "subType": "mom",
     "description": "Allows Isaac to fire tears from the back of his head.",
     "tags": [
       "eye"
@@ -6533,6 +7057,7 @@
     "sourceId": "mom's eyeshadow",
     "name": "Mom's Eyeshadow",
     "type": "passive",
+    "subType": "mom",
     "description": "Tears have a chance to charm enemies.",
     "tags": [
       "charm",
@@ -6549,6 +7074,7 @@
     "sourceId": "mom's heels",
     "name": "Mom's Heels",
     "type": "passive",
+    "subType": "mom",
     "description": "+5.25 range , +0.5 tear height . Enemies that touch Isaac take 12 damage.",
     "tags": [
       "shoe"
@@ -6563,6 +7089,7 @@
     "sourceId": "mom's key",
     "name": "Mom's Key",
     "type": "passive",
+    "subType": "mom",
     "description": "Adds 2 keys. Chests will drop additional pickups .",
     "tags": [
       "key"
@@ -6577,6 +7104,7 @@
     "sourceId": "mom's knife",
     "name": "Mom's Knife",
     "type": "passive",
+    "subType": "mom",
     "description": "Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power.",
     "tags": [
       "blade",
@@ -6593,6 +7121,7 @@
     "sourceId": "mom's lipstick",
     "name": "Mom's Lipstick",
     "type": "passive",
+    "subType": "mom",
     "description": "+5.25 range , +0.5 tear height . Spawns one random heart .",
     "tags": [
       "makeup"
@@ -6673,6 +7202,7 @@
     "sourceId": "mom's perfume",
     "name": "Mom's Perfume",
     "type": "passive",
+    "subType": "mom",
     "description": "Adds a chance to shoot fear tears and decreases tear delay by 1.",
     "tags": [
       "bottle",
@@ -6691,6 +7221,7 @@
     "sourceId": "mom's purse",
     "name": "Mom's Purse",
     "type": "passive",
+    "subType": "mom",
     "description": "Allows Isaac to hold 1 additional trinket.",
     "tags": [
       "bag",
@@ -6751,6 +7282,7 @@
     "sourceId": "mom's underwear",
     "name": "Mom's Underwear",
     "type": "passive",
+    "subType": "mom",
     "description": "+5.25 range , +0.5 tear height . Spawns 3-6 Blue Flies on pickup.",
     "tags": [
       "panties",
@@ -6766,6 +7298,7 @@
     "sourceId": "mom's wig",
     "name": "Mom's Wig",
     "type": "passive",
+    "subType": "mom",
     "description": "Adds a chance to spawn Blue Spiders when firing tears. Restores 1 red heart.",
     "tags": [
       "itch",
@@ -6798,6 +7331,7 @@
     "sourceId": "mongo baby",
     "name": "Mongo Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that copies the tears of Isaac's other familiars.",
     "tags": [
       "baby"
@@ -6827,6 +7361,7 @@
     "sourceId": "monster manual",
     "name": "Monster Manual",
     "type": "active",
+    "subType": "book",
     "description": "Spawns a familiar from a specific selection for the current room .\nSpawns a familiar from a specific selection for the current floor .",
     "tags": [
       "familiar",
@@ -6936,6 +7471,7 @@
     "sourceId": "mr. me!",
     "name": "Mr. ME!",
     "type": "active",
+    "subType": "familiar",
     "description": "Summons a controllable ghost that can perform various tasks depending on what it targets.",
     "tags": [
       "box",
@@ -6966,6 +7502,7 @@
     "sourceId": "multidimensional baby",
     "name": "Multidimensional Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that will follow Isaac's movements on a 2.5-second delay. Tears that pass through the baby will be doubled and increase in speed.",
     "tags": [
       "baby",
@@ -7029,6 +7566,7 @@
     "sourceId": "my shadow",
     "name": "My Shadow",
     "type": "passive",
+    "subType": "familiar",
     "description": "Each time Isaac takes damage, inflicts fear on all enemies in the room and spawns a black friendly Charger that will attack enemies. The Charger will be killed if it is damaged too much.",
     "tags": [
       "baby",
@@ -7096,6 +7634,7 @@
     "sourceId": "mystery egg",
     "name": "Mystery Egg",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns an egg familiar , which cracks into a random friendly monster when Isaac is hurt. The egg regenerates upon entering a different room .",
     "tags": [
       "cone",
@@ -7242,6 +7781,7 @@
     "sourceId": "obsessed fan",
     "name": "Obsessed Fan",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac's movements on a 3 second delay and deals contact damage to enemies.",
     "tags": [
       "fly"
@@ -7256,6 +7796,7 @@
     "sourceId": "odd mushroom (large)",
     "name": "Odd Mushroom (Large)",
     "type": "passive",
+    "subType": "mushroom",
     "description": "Grants one empty Heart container , +0.3 damage , +0.25 range , +0.5 tear height , and -0.1 speed .",
     "tags": [
       "fat",
@@ -7272,6 +7813,7 @@
     "sourceId": "odd mushroom (thin)",
     "name": "Odd Mushroom (Thin)",
     "type": "passive",
+    "subType": "mushroom",
     "description": "+1.7 tears , +0.3 speed , slightly reduces damage.",
     "tags": [
       "shroom",
@@ -7367,6 +7909,7 @@
     "sourceId": "papa fly",
     "name": "Papa Fly",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac's movements on a 3 second delay, firing tears at nearby enemies.",
     "tags": [
       "fly"
@@ -7537,6 +8080,7 @@
     "sourceId": "pisces",
     "name": "Pisces",
     "type": "passive",
+    "subType": "zodiac",
     "description": "-1 Tear Delay, adds knock-back shots and increases tear size.",
     "tags": [
       "h",
@@ -7618,6 +8162,7 @@
     "sourceId": "pointy rib",
     "name": "Pointy Rib",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a bone familiar that hovers back and forth in front of Isaac, dealing damage equal to Isaac's damage.",
     "tags": [
       "bone",
@@ -7805,6 +8350,7 @@
     "sourceId": "punching bag",
     "name": "Punching Bag",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a Mulligan familiar that wanders randomly. Enemies will attack the Mulligan if it's closer.",
     "tags": [
       "baby",
@@ -7919,6 +8465,7 @@
     "sourceId": "rainbow baby",
     "name": "Rainbow Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around and fires tears with random effects.",
     "tags": [
       "fabulous",
@@ -8081,6 +8628,7 @@
     "sourceId": "robo-baby",
     "name": "Robo-Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that shoots Technology lasers.",
     "tags": [
       "eye",
@@ -8096,6 +8644,7 @@
     "sourceId": "robo-baby 2.0",
     "name": "Robo-Baby 2.0",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that fires lasers at any enemy in its line of sight and moves based on the direction Isaac is firing tears.",
     "tags": [
       "eye",
@@ -8111,6 +8660,7 @@
     "sourceId": "roid rage",
     "name": "Roid Rage",
     "type": "passive",
+    "subType": "syringe",
     "description": "+0.6 speed , +0.3 speed, +5.25 range , +0.5 tear height .",
     "tags": [
       "needle"
@@ -8157,6 +8707,7 @@
     "sourceId": "rotten baby",
     "name": "Rotten Baby",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that spawns a Blue Fly when Isaac shoots. It can only have one Fly at a time.",
     "tags": [
       "dead",
@@ -8217,11 +8768,27 @@
     "sourceDlc": "base"
   },
   {
+    "id": 20044,
+    "gameId": 44,
+    "sourceId": "rules card",
+    "name": "Rules Card",
+    "type": "card",
+    "description": "Displays a cryptic statement on the screen, similar to a Fortune Teller . These messages (often) provide hints on bosses, bonus areas, etc.",
+    "tags": [
+      "page",
+      "text"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/d4/Pickup_Rules_Card_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Rules_Card",
+    "sourceDlc": "base"
+  },
+  {
     "id": 389,
     "gameId": 389,
     "sourceId": "rune bag",
     "name": "Rune Bag",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that drops a random rune every 5-6 rooms .",
     "tags": [
       "bag",
@@ -8230,6 +8797,134 @@
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/0c/Collectible_Rune_Bag_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Rune_Bag",
     "sourceDlc": "afterbirth"
+  },
+  {
+    "id": 20039,
+    "gameId": 39,
+    "sourceId": "rune of algiz",
+    "name": "Rune of Algiz",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Grants a shield which lasts for 30 seconds. Grants a shield which lasts for 20 seconds.",
+    "tags": [
+      "invuln",
+      "shield"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/a9/Algiz_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20036,
+    "gameId": 36,
+    "sourceId": "rune of ansuz",
+    "name": "Rune of Ansuz",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Reveals the whole map, including the Secret Room and the Super Secret Room . (This will not remove Curse of the Lost.)",
+    "tags": [
+      "map",
+      "secret"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/7/7e/Ansuz_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20038,
+    "gameId": 38,
+    "sourceId": "rune of berkano",
+    "name": "Rune of Berkano",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Summons 3 friendly Blue Flies and 3 friendly Blue Spiders .",
+    "tags": [
+      "fly",
+      "spider"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/c/c8/Berkano_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20035,
+    "gameId": 35,
+    "sourceId": "rune of dagaz",
+    "name": "Rune of Dagaz",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Removes any curses from the current floor and grants a Soul Heart . (This will not remove Curse of the Labyrinth.)",
+    "tags": [
+      "curse",
+      "purity"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/3b/Dagaz_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20034,
+    "gameId": 34,
+    "sourceId": "rune of ehwaz",
+    "name": "Rune of Ehwaz",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Creates a trapdoor leading to the next floor. Has an estimated 1/12 (8%) chance to spawn a door to a Crawl Space instead.",
+    "tags": [
+      "floor",
+      "passage",
+      "trap"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/3d/Ehwaz_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20032,
+    "gameId": 32,
+    "sourceId": "rune of hagalaz",
+    "name": "Rune of Hagalaz",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Destroys all breakable objects in the room. Does not affect Key Blocks. Does affect Key Blocks",
+    "tags": [
+      "break",
+      "rock"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/56/Hagalaz_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20033,
+    "gameId": 33,
+    "sourceId": "rune of jera",
+    "name": "Rune of Jera",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Clones all pickups and chests in a room (including Shop pickups; the clones can then be picked up for free). Cloned chests will contain exactly the same type of items: if the original contains a pickup, so will the clone; the same is true for collectibles . Cannot clone other Jera runes and trinkets.",
+    "tags": [
+      "dupe"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/8/8f/Jera_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20037,
+    "gameId": 37,
+    "sourceId": "rune of perthro",
+    "name": "Rune of Perthro",
+    "type": "rune",
+    "subType": "rune",
+    "description": "Rerolls all pedestal items in the room. (This is the same effect as The D6 .)",
+    "tags": [
+      "d6",
+      "reroll"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/8/84/Perthro_Icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
   },
   {
     "id": 10036,
@@ -8269,6 +8964,7 @@
     "sourceId": "sack of pennies",
     "name": "Sack of Pennies",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that drops a coin every 2 rooms .",
     "tags": [
       "bag",
@@ -8284,6 +8980,7 @@
     "sourceId": "sack of sacks",
     "name": "Sack of Sacks",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that drops a sack every 5-6 rooms cleared.",
     "tags": [
       "bag",
@@ -8331,6 +9028,7 @@
     "sourceId": "sacrificial dagger",
     "name": "Sacrificial Dagger",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a dagger orbital familiar , dealing 225 damage per second and blocking enemy shots.",
     "tags": [
       "bloody",
@@ -8410,6 +9108,7 @@
     "sourceId": "sagittarius",
     "name": "Sagittarius",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Increases speed by +0.2 and grants piercing tears .",
     "tags": [
       "arrow",
@@ -8456,6 +9155,7 @@
     "sourceId": "satanic bible",
     "name": "Satanic Bible",
     "type": "active",
+    "subType": "book",
     "description": "Gives one Black Heart . Replaces the boss room item on the current floor with a Devil deal .",
     "tags": [
       "evil",
@@ -8538,6 +9238,7 @@
     "sourceId": "scorpio",
     "name": "Scorpio",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Grants poison tears , which deal damage over time when inflicted.",
     "tags": [
       "m"
@@ -8583,6 +9284,7 @@
     "sourceId": "seraphim",
     "name": "Seraphim",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an angel familiar which follows Isaac and fires homing tears which deal 10 damage and have 75% shot speed.",
     "tags": [
       "angel",
@@ -8613,6 +9315,7 @@
     "sourceId": "shade",
     "name": "Shade",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly Chargers .",
     "tags": [
       "baby",
@@ -8737,6 +9440,7 @@
     "sourceId": "sissy longlegs",
     "name": "Sissy Longlegs",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that wanders randomly, occasionally spawning Blue Spiders .",
     "tags": [
       "spider"
@@ -8751,6 +9455,7 @@
     "sourceId": "sister maggy",
     "name": "Sister Maggy",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that follows Isaac around shooting normal tears.",
     "tags": [
       "dead",
@@ -8796,6 +9501,7 @@
     "sourceId": "slipped rib",
     "name": "Slipped Rib",
     "type": "passive",
+    "subType": "familiar",
     "description": "Spawns a bone familiar that circles around Isaac and reflects enemy shots.",
     "tags": [
       "bone",
@@ -8812,6 +9518,7 @@
     "sourceId": "smart fly",
     "name": "Smart Fly",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an orbital familiar that blocks enemy shots. Upon taking damage, the familiar will pursue enemies for the rest of the room , dealing 22.5 damage per second.",
     "tags": [
       "fly",
@@ -8896,6 +9603,7 @@
     "sourceId": "speed ball",
     "name": "Speed Ball",
     "type": "passive",
+    "subType": "syringe",
     "description": "+0.3 speed , +0.2 shot speed .",
     "tags": [
       "needle"
@@ -8955,6 +9663,7 @@
     "sourceId": "spider mod",
     "name": "Spider Mod",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Displays Isaac's tear damage and enemy health bars. Spawns a familiar that wanders around and inflicts random status effects on enemies it touches. Can spawn a Lil' Battery / Blue spider upon clearing a room .",
     "tags": [
       "metal",
@@ -9241,6 +9950,7 @@
     "sourceId": "succubus",
     "name": "Succubus",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5x tear damage multiplier.",
     "tags": [
       "demon"
@@ -9248,6 +9958,18 @@
     "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/37/Collectible_Succubus_icon.png",
     "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Succubus",
     "sourceDlc": "afterbirth"
+  },
+  {
+    "id": 20046,
+    "gameId": 46,
+    "sourceId": "suicide king",
+    "name": "Suicide King",
+    "type": "card",
+    "description": "Kills Isaac and spawns lots of pickups, items, and/or chests in the same room.",
+    "tags": [],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/e/e3/Pickup_Suicide_King_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Suicide_King",
+    "sourceDlc": "base"
   },
   {
     "id": 463,
@@ -9333,6 +10055,7 @@
     "sourceId": "sworn protector",
     "name": "Sworn Protector",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns an orbital familiar which does 105 damage per second and attracts and blocks enemy shots. Upon blocking 10 shots in a room it drops an Eternal Heart .",
     "tags": [
       "angel",
@@ -9349,6 +10072,7 @@
     "sourceId": "synthoil",
     "name": "Synthoil",
     "type": "passive",
+    "subType": "syringe",
     "description": "+1 damage , +5.25 range , +0.5 tear height .",
     "tags": [
       "needle"
@@ -9413,6 +10137,7 @@
     "sourceId": "taurus",
     "name": "Taurus",
     "type": "passive",
+    "subType": "zodiac",
     "description": "-0.3 Speed . Isaac builds speed while in a room with enemies. At max speed, he gains the My Little Unicorn effect for 5 seconds.",
     "tags": [
       "unicorn"
@@ -9546,6 +10271,7 @@
     "sourceId": "telepathy for dummies",
     "name": "Telepathy for Dummies",
     "type": "active",
+    "subType": "book",
     "description": "Gives homing tears for the current room.",
     "tags": [
       "book",
@@ -9636,6 +10362,7 @@
     "sourceId": "the bible",
     "name": "The Bible",
     "type": "active",
+    "subType": "book",
     "description": "On use, Isaac gains flight for the current room . Instantly kills Mom , Mom's Heart , and It Lives when activated, but kills Isaac when used on Satan .",
     "tags": [
       "cross",
@@ -9681,6 +10408,7 @@
     "sourceId": "the book of belial",
     "name": "The Book of Belial",
     "type": "active",
+    "subType": "book",
     "description": "+2 damage for the current room .\nGuarantees a Devil Room or Angel Room will be open after beating a boss while holding it. Increases the chance by 12.5%.",
     "tags": [
       "evil",
@@ -9696,6 +10424,7 @@
     "sourceId": "the book of sin",
     "name": "The Book of Sin",
     "type": "active",
+    "subType": "book",
     "description": "Spawns a random pickup , pill , card , or trinket .",
     "tags": [
       "7"
@@ -9772,6 +10501,7 @@
     "sourceId": "the d6",
     "name": "The D6",
     "type": "active",
+    "subType": "dice",
     "description": "Re-rolls all items in the current room into other items, depending on the current room's Item Pool .",
     "tags": [
       "cube",
@@ -9981,6 +10711,7 @@
     "sourceId": "the necronomicon",
     "name": "The Necronomicon",
     "type": "active",
+    "subType": "book",
     "description": "Deals 40 damage to every enemy in the room .",
     "tags": [
       "damage"
@@ -10044,6 +10775,7 @@
     "sourceId": "the peeper",
     "name": "The Peeper",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a familiar that floats slowly around the room on a zig-zag pattern, damaging enemies it passes through.",
     "tags": [
       "eye",
@@ -10106,6 +10838,7 @@
     "sourceId": "the relic",
     "name": "The Relic",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Spawns a cross familiar that drops a Soul Heart every 5-6 rooms .",
     "tags": [
       "cross",
@@ -10167,6 +10900,7 @@
     "sourceId": "the virus",
     "name": "The Virus",
     "type": "passive",
+    "subType": "syringe",
     "description": "Isaac poisons enemies on contact. -0.1 speed . +0.2 speed . Poisoned enemies have a chance to drop a black heart when killed.",
     "tags": [
       "poison",
@@ -10284,6 +11018,7 @@
     "sourceId": "tonsil",
     "name": "Tonsil",
     "type": "familiar",
+    "subType": "familiar",
     "description": "Grants a familiar that can block enemy shots.",
     "tags": [
       "gross",
@@ -10535,6 +11270,22 @@
     "sourceDlc": "afterbirthplus"
   },
   {
+    "id": 20006,
+    "gameId": 6,
+    "sourceId": "v - the hierophant",
+    "name": "V - The Hierophant",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns 2 Soul Hearts .",
+    "tags": [
+      "heart",
+      "soul"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/f9/Pickup_V_-_The_Hierophant_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 452,
     "gameId": 452,
     "sourceId": "varicose veins",
@@ -10568,6 +11319,22 @@
     "sourceDlc": "afterbirth"
   },
   {
+    "id": 20007,
+    "gameId": 7,
+    "sourceId": "vi - the lovers",
+    "name": "VI - The Lovers",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns 2 Red Hearts . If used in a Black Heart or Eternal Heart-containing Super Secret Room , it will spawn those types of hearts instead.",
+    "tags": [
+      "heart",
+      "red"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/db/Pickup_VI_-_The_Lovers_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 10100,
     "gameId": 100,
     "sourceId": "vibrant bulb",
@@ -10585,11 +11352,42 @@
     "sourceDlc": "afterbirthplus"
   },
   {
+    "id": 20008,
+    "gameId": 8,
+    "sourceId": "vii - the chariot",
+    "name": "VII - The Chariot",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Grants the temporary invulnerability effect of My Little Unicorn .",
+    "tags": [
+      "unicorn"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/0e/Pickup_VII_-_The_Chariot_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20009,
+    "gameId": 9,
+    "sourceId": "viii - justice",
+    "name": "VIII - Justice",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns one of each consumable drop (a Red Heart , a Key , a Bomb , and a Penny ). Hearts have a chance to spawn as either a Half Red Heart or a Double Heart.",
+    "tags": [
+      "card"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/7/76/Pickup_VIII_-_Justice_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 303,
     "gameId": 303,
     "sourceId": "virgo",
     "name": "Virgo",
     "type": "passive",
+    "subType": "zodiac",
     "description": "Adds a chance to give a shield that nullifies all incoming damage for 10 seconds upon taking damage. Also converts bad pills into good pills.",
     "tags": [
       "m",
@@ -10824,6 +11622,21 @@
     "sourceDlc": "base"
   },
   {
+    "id": 20011,
+    "gameId": 11,
+    "sourceId": "x - wheel of fortune",
+    "name": "X - Wheel of Fortune",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns an Arcade machine ( Slot Machine or Fortune Telling Machine ).",
+    "tags": [
+      "gamble"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/de/Pickup_X_-_Wheel_of_Fortune_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 76,
     "gameId": 76,
     "sourceId": "x-ray vision",
@@ -10841,11 +11654,186 @@
     "sourceDlc": "base"
   },
   {
+    "id": 20012,
+    "gameId": 12,
+    "sourceId": "xi - strength",
+    "name": "XI - Strength",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Grants the effects of Magic Mushroom (minus the health restoration) for one room. The added Red Heart container is removed upon leaving the room.",
+    "tags": [
+      "buff",
+      "heart"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/40/Pickup_XI_-_Strength_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20013,
+    "gameId": 13,
+    "sourceId": "xii - the hanged man",
+    "name": "XII - The Hanged Man",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Removes Isaac's body, allowing him to fly around for the duration of the room (same effect as Transcendence ).",
+    "tags": [
+      "flight",
+      "fly"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/2/21/Pickup_XII_-_The_Hanged_Man_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20014,
+    "gameId": 14,
+    "sourceId": "xiii - death",
+    "name": "XIII - Death",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Deals 40 damage to all enemies in the room (same effect as The Necronomicon ).",
+    "tags": [
+      "damage"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/a5/Pickup_XIII_-_Death_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20015,
+    "gameId": 15,
+    "sourceId": "xiv - temperance",
+    "name": "XIV - Temperance",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns a Blood Donation Machine .\nSpawns a Devil Beggar in Greed mode .",
+    "tags": [
+      "blood",
+      "donation",
+      "machine"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/d5/Pickup_XIV_-_Temperance_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20020,
+    "gameId": 20,
+    "sourceId": "xix - the sun",
+    "name": "XIX - The Sun",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Restores Isaac's full health, deals 100 damage to all enemies in the room, and reveals the map for the current floor, except the Super Secret Room . Removes Curse of Darkness for the current floor.",
+    "tags": [
+      "heal",
+      "map"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/5c/Pickup_XIX_-_The_Sun_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20016,
+    "gameId": 16,
+    "sourceId": "xv - the devil",
+    "name": "XV - The Devil",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Grants Isaac a temporary +2 increase to damage for the current room (same effect as The Book of Belial ).",
+    "tags": [
+      "buff",
+      "damage"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/19/Pickup_XV_-_The_Devil_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20017,
+    "gameId": 17,
+    "sourceId": "xvi - the tower",
+    "name": "XVI - The Tower",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns 6 Troll Bombs randomly around the room (same effect as the Anarchist Cookbook ).",
+    "tags": [
+      "anarchy",
+      "bomb"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/8/84/Pickup_XVI_-_The_Tower_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20018,
+    "gameId": 18,
+    "sourceId": "xvii - the stars",
+    "name": "XVII - The Stars",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Teleports Isaac to the Treasure Room . If there is no Treasure Room, this will act as a random teleport. Randomly chooses a Treasure Room on Curse of the Labyrinth . If the Treasure Room has not yet been accessed, this card will unlock the door without requiring a key (as long as the player exits through the main entrance). Can also teleport Isaac to the Planetarium .",
+    "tags": [
+      "teleport",
+      "treasure"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1d/Pickup_XVII_-_The_Stars_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20019,
+    "gameId": 19,
+    "sourceId": "xviii - the moon",
+    "name": "XVIII - The Moon",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Teleports the player to the Secret Room . This card will open one random wall once inside the Secret Room, so you can leave even if you don't have any bombs available. Does not work in Greed and Greedier mode.",
+    "tags": [
+      "secret",
+      "teleport"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/2/2c/Pickup_XVIII_-_The_Moon_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20021,
+    "gameId": 21,
+    "sourceId": "xx - judgement",
+    "name": "XX - Judgement",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Spawns a Beggar .",
+    "tags": [
+      "beggar"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/15/Pickup_XX_-_Judgement_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
+    "id": 20022,
+    "gameId": 22,
+    "sourceId": "xxi - the world",
+    "name": "XXI - The World",
+    "type": "card",
+    "subType": "tarot",
+    "description": "Reveals the entire floor, except for the Super Secret Room . Has no effect if under the effect of Curse of the Lost or Amnesia .",
+    "tags": [
+      "map"
+    ],
+    "imageUrl": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/6d/Pickup_XXI_-_The_World_icon.png",
+    "sourceUrl": "https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes",
+    "sourceDlc": "base"
+  },
+  {
     "id": 492,
     "gameId": 492,
     "sourceId": "yo listen!",
     "name": "YO LISTEN!",
     "type": "familiar",
+    "subType": "familiar",
     "description": "+1 luck . Spawns a fairy familiar that points out Secret Rooms , Crawl Space entrances, and tinted rocks .",
     "tags": [
       "fly"

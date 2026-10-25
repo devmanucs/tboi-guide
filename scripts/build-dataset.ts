@@ -1,5 +1,5 @@
 import { readFile, writeFile } from 'node:fs/promises'
-import { TRINKET_ID_OFFSET } from '../packages/isaac-data/src/catalog'
+import { POCKET_ID_OFFSET, TRINKET_ID_OFFSET } from '../packages/isaac-data/src/catalog'
 
 interface SourceItem {
   id: string
@@ -106,10 +106,24 @@ const knownIds: Record<string, number> = {
   'trinket:fingerbone': 128, // Finger Bone
 }
 
+// Cards and runes are not in items.xml; these follow the game's Card enum (pocketitems.xml).
+const pocketIds: Record<string, number> = Object.fromEntries([
+  '0 - The Fool', 'I - The Magician', 'II - The High Priestess', 'III - The Empress', 'IV - The Emperor',
+  'V - The Hierophant', 'VI - The Lovers', 'VII - The Chariot', 'VIII - Justice', 'IX - The Hermit',
+  'X - Wheel of Fortune', 'XI - Strength', 'XII - The Hanged Man', 'XIII - Death', 'XIV - Temperance',
+  'XV - The Devil', 'XVI - The Tower', 'XVII - The Stars', 'XVIII - The Moon', 'XIX - The Sun',
+  'XX - Judgement', 'XXI - The World', '2 of Clubs', '2 of Diamonds', '2 of Spades', '2 of Hearts',
+  'Ace of Clubs', 'Ace of Diamonds', 'Ace of Spades', 'Ace of Hearts', 'Joker', 'Rune of Hagalaz',
+  'Rune of Jera', 'Rune of Ehwaz', 'Rune of Dagaz', 'Rune of Ansuz', 'Rune of Perthro', 'Rune of Berkano',
+  'Rune of Algiz', 'Blank Rune', 'Black Rune', 'Chaos Card', 'Credit Card', 'Rules Card',
+  'A Card Against Humanity', 'Suicide King', 'Get out of Jail Free Card', '? Card', 'Dice Shard',
+  'Emergency Contact', 'Holy Card', 'Huge Growth', 'Ancient Recall', 'Era Walk',
+].map((name, index) => [normalize(name), index + 1]))
+
 // Afterbirth+ on Switch ships with every Booster Pack.
 const supportedDlc = new Set(['base', 'afterbirth', 'afterbirthplus', 'boosterpack1', 'boosterpack2', 'boosterpack3', 'boosterpack4', 'boosterpack5'])
 const collectibles = rows.filter((row) =>
-  supportedDlc.has(row.dlc) && (row.type === 'passive' || row.type === 'active' || row.type === 'trinket'),
+  supportedDlc.has(row.dlc) && ['passive', 'active', 'trinket', 'card', 'rune'].includes(row.type),
 )
 
 const items = collectibles.map((row) => {
@@ -126,15 +140,17 @@ const items = collectibles.map((row) => {
     .replace(/ *\n */g, '\n')
     .trim()
 
+  const isPocket = row.type === 'card' || row.type === 'rune'
   const key = lookupKey(row.type, row.name)
-  const gameItem = gameItemsByName.get(key)
-  const gameId = gameItem?.id ? Number(gameItem.id) : knownIds[key]
-  const isTrinket = row.type === 'trinket'
+  const gameItem = isPocket ? undefined : gameItemsByName.get(key)
+  const gameId = isPocket ? pocketIds[normalize(row.name)] : gameItem?.id ? Number(gameItem.id) : knownIds[key]
+  const idOffset = isPocket ? POCKET_ID_OFFSET : row.type === 'trinket' ? TRINKET_ID_OFFSET : 0
   return {
-    ...(gameId ? { id: isTrinket ? TRINKET_ID_OFFSET + gameId : gameId, gameId } : {}),
+    ...(gameId ? { id: idOffset + gameId, gameId } : {}),
     sourceId: row.id,
     name: row.name,
-    type: isTrinket ? 'trinket' : gameItem?.type === 'familiar' ? 'familiar' : row.type,
+    type: gameItem?.type === 'familiar' ? 'familiar' : row.type,
+    ...(row.subType ? { subType: row.subType } : {}),
     description,
     tags: String(row.tags ?? '').split(/\s+/).filter(Boolean),
     imageUrl: row.thumb,
@@ -147,4 +163,4 @@ const matched = items.filter((item) => Number.isInteger(item.id))
 const unmatched = items.filter((item) => !Number.isInteger(item.id)).map((item) => `${item.type}:${item.name}`)
 if (unmatched.length) console.warn(`Sem ID do jogo (${unmatched.length}): ${unmatched.join(', ')}`)
 await writeFile(targetPath, `${JSON.stringify(matched, null, 2)}\n`, 'utf8')
-console.log(`Gerados ${matched.length}/${items.length} collectibles com ID do jogo.`)
+console.log(`Gerados ${matched.length}/${items.length} itens com ID do jogo.`)

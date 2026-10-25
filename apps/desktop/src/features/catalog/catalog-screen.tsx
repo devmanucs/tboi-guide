@@ -12,7 +12,7 @@ import { ItemDetail } from '../app-shell/item-detail'
 import { ItemTile } from '../app-shell/item-tile'
 import { useOracleStore } from '../app-shell/use-oracle-store'
 
-type ItemFilter = 'all' | 'passive' | 'active' | 'familiar' | 'trinket' | 'run'
+type ItemFilter = 'all' | 'passive' | 'active' | 'familiar' | 'trinket' | 'card' | 'rune' | 'run'
 type SortOrder = 'relevance' | 'name' | 'english' | 'id'
 
 const sortOptions: SelectOption<SortOrder>[] = [
@@ -44,6 +44,8 @@ export function CatalogScreen() {
     active: matches.filter((item) => item.type === 'active').length,
     familiar: matches.filter((item) => item.type === 'familiar').length,
     trinket: matches.filter((item) => item.type === 'trinket').length,
+    card: matches.filter((item) => item.type === 'card').length,
+    rune: matches.filter((item) => item.type === 'rune').length,
     run: matches.filter((item) => runIds.has(item.id)).length,
   }), [matches, runIds])
   const visibleItems = useMemo(() => {
@@ -97,6 +99,8 @@ export function CatalogScreen() {
               { value: 'active', label: 'Ativos', count: counts.active },
               { value: 'familiar', label: 'Familiares', count: counts.familiar },
               { value: 'trinket', label: 'Trinkets', count: counts.trinket },
+              { value: 'card', label: 'Cartas', count: counts.card },
+              { value: 'rune', label: 'Runas', count: counts.rune },
               ...run ? [{ value: 'run' as const, label: 'Na run', count: counts.run }] : [],
             ]}
           />

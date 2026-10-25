@@ -5491,5 +5491,275 @@
     "id": 492,
     "localizedName": "YO LISTEN!",
     "localizedDescription": "+1 de sorte. Gera uma fada familiar que aponta Salas Secretas, entradas de Passagens Secretas e pedras marcadas."
+  },
+  {
+    "id": 20048,
+    "localizedName": "Carta ?",
+    "localizedDescription": "Ao usar, copia o efeito do item ativo que Isaac está segurando."
+  },
+  {
+    "id": 20001,
+    "localizedName": "0 - O Louco",
+    "localizedDescription": "Teleporta Isaac de volta para a sala inicial do andar."
+  },
+  {
+    "id": 20023,
+    "localizedName": "2 de Paus",
+    "localizedDescription": "Dobra suas bombas. Se não tiver nenhuma, dá 2."
+  },
+  {
+    "id": 20024,
+    "localizedName": "2 de Ouros",
+    "localizedDescription": "Dobra suas moedas. Se não tiver nenhuma, dá 2."
+  },
+  {
+    "id": 20026,
+    "localizedName": "2 de Copas",
+    "localizedDescription": "Dobra os Corações Vermelhos atuais de Isaac. Não afeta Corações Eternos, de Alma ou Negros, e não cria recipientes novos: só enche os vazios."
+  },
+  {
+    "id": 20025,
+    "localizedName": "2 de Espadas",
+    "localizedDescription": "Dobra suas chaves. Se não tiver nenhuma, dá 2."
+  },
+  {
+    "id": 20045,
+    "localizedName": "Uma Carta Contra a Humanidade",
+    "localizedDescription": "Enche a sala inteira de cocô. Não é instantâneo, e a sala não fica cheia se você sair antes de terminar."
+  },
+  {
+    "id": 20027,
+    "localizedName": "Ás de Paus",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em Bombas."
+  },
+  {
+    "id": 20028,
+    "localizedName": "Ás de Ouros",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em Moedas."
+  },
+  {
+    "id": 20030,
+    "localizedName": "Ás de Copas",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em corações aleatórios."
+  },
+  {
+    "id": 20029,
+    "localizedName": "Ás de Espadas",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em Chaves."
+  },
+  {
+    "id": 20053,
+    "localizedName": "Recordação Ancestral",
+    "localizedDescription": "Gera 3 cartas aleatórias."
+  },
+  {
+    "id": 20041,
+    "localizedName": "Runa Negra",
+    "localizedDescription": "Causa 40 de dano a todos os inimigos da sala. Consome os coletáveis da sala e os transforma em Moscas e Aranhas Azuis, e consome os itens de pedestal transformando-os em aumentos de atributo aleatórios. Não afeta itens da Loja."
+  },
+  {
+    "id": 20040,
+    "localizedName": "Runa em Branco",
+    "localizedDescription": "Ativa o efeito de uma runa aleatória, menos a Runa Negra. Tem 25% de chance de gerar outra Runa em Branco ao ser usada."
+  },
+  {
+    "id": 20042,
+    "localizedName": "Carta do Caos",
+    "localizedDescription": "Arremessa a carta, que mata tudo o que estiver no caminho. Também abre portas normais."
+  },
+  {
+    "id": 20043,
+    "localizedName": "Cartão de Crédito",
+    "localizedDescription": "Transforma todos os itens da Loja ou da Sala do Diabo em itens grátis, que dá para pegar sem pagar."
+  },
+  {
+    "id": 20049,
+    "localizedName": "Fragmento de Dado",
+    "localizedDescription": "Ao usar, ativa os efeitos de O D6 e do D20 ao mesmo tempo."
+  },
+  {
+    "id": 20050,
+    "localizedName": "Contato de Emergência",
+    "localizedDescription": "Ao usar, duas Mãos da Mamãe descem e agarram dois inimigos aleatórios."
+  },
+  {
+    "id": 20054,
+    "localizedName": "Caminhada no Tempo",
+    "localizedDescription": "Na sala atual, os inimigos ficam mais lentos, Isaac fica mais rápido e a velocidade do tiro diminui."
+  },
+  {
+    "id": 20047,
+    "localizedName": "Saída Livre da Prisão",
+    "localizedDescription": "Ao usar, abre todas as portas da sala atual, inclusive a porta dourada do Baú (The Chest) e do Quarto Escuro, como a Dad's Key."
+  },
+  {
+    "id": 20051,
+    "localizedName": "Carta Sagrada",
+    "localizedDescription": "Dá o efeito do Holy Mantle: um escudo que bloqueia o próximo dano (dependendo da versão, dura só a sala atual ou até levar dano)."
+  },
+  {
+    "id": 20052,
+    "localizedName": "Crescimento Enorme",
+    "localizedDescription": "Deixa Isaac gigante na sala atual, aumentando o alcance e o dano."
+  },
+  {
+    "id": 20002,
+    "localizedName": "I - O Mago",
+    "localizedDescription": "Dá lágrimas teleguiadas e +3 de alcance na sala atual (mesmo efeito de Telepathy for Dummies)."
+  },
+  {
+    "id": 20003,
+    "localizedName": "II - A Sacerdotisa",
+    "localizedDescription": "A perna da Mamãe desce e pisa causando 300 de dano, sempre no inimigo com mais vida. Se usada numa sala vazia ou na luta contra a Mamãe, pisa em Isaac."
+  },
+  {
+    "id": 20004,
+    "localizedName": "III - A Imperatriz",
+    "localizedDescription": "Ativa o efeito de Whore of Babylon (+1,5 de dano, +0,3 de velocidade) na sala atual, sem precisar estar com um coração vermelho ou menos."
+  },
+  {
+    "id": 20005,
+    "localizedName": "IV - O Imperador",
+    "localizedDescription": "Teleporta Isaac para a Sala do Chefe do andar. Em Home, vira um teleporte aleatório."
+  },
+  {
+    "id": 20010,
+    "localizedName": "IX - O Eremita",
+    "localizedDescription": "Teleporta Isaac para a Loja. Sem Loja no andar, vira um teleporte aleatório. Se a Loja ainda não foi aberta, destranca a porta sem gastar chave (saindo pela entrada principal)."
+  },
+  {
+    "id": 20031,
+    "localizedName": "Coringa",
+    "localizedDescription": "Teleporta Isaac para a Sala do Diabo ou a Sala do Anjo."
+  },
+  {
+    "id": 20044,
+    "localizedName": "Carta de Regras",
+    "localizedDescription": "Mostra uma frase enigmática na tela, como uma Cartomante. Muitas vezes são dicas sobre chefes, áreas bônus etc."
+  },
+  {
+    "id": 20039,
+    "localizedName": "Runa Algiz",
+    "localizedDescription": "Dá um escudo temporário de invencibilidade (30 segundos; 20 segundos em versões mais novas)."
+  },
+  {
+    "id": 20036,
+    "localizedName": "Runa Ansuz",
+    "localizedDescription": "Revela o mapa inteiro, incluindo a Sala Secreta e a Super Secreta. Não remove a Curse of the Lost."
+  },
+  {
+    "id": 20038,
+    "localizedName": "Runa Berkano",
+    "localizedDescription": "Invoca 3 Moscas Azuis e 3 Aranhas Azuis aliadas."
+  },
+  {
+    "id": 20035,
+    "localizedName": "Runa Dagaz",
+    "localizedDescription": "Remove as maldições do andar atual e dá um Coração de Alma. Não remove a Curse of the Labyrinth."
+  },
+  {
+    "id": 20034,
+    "localizedName": "Runa Ehwaz",
+    "localizedDescription": "Abre um alçapão para o próximo andar. Tem cerca de 8% (1/12) de chance de abrir a entrada de uma Passagem Secreta no lugar."
+  },
+  {
+    "id": 20032,
+    "localizedName": "Runa Hagalaz",
+    "localizedDescription": "Destrói todos os objetos quebráveis da sala. Dependendo da versão do jogo, também quebra os Blocos de Chave."
+  },
+  {
+    "id": 20033,
+    "localizedName": "Runa Jera",
+    "localizedDescription": "Clona todos os coletáveis e baús da sala (inclusive os da Loja, e os clones saem de graça). O baú clonado tem o mesmo tipo de conteúdo do original. Não clona outras runas Jera nem trinkets."
+  },
+  {
+    "id": 20037,
+    "localizedName": "Runa Perthro",
+    "localizedDescription": "Sorteia de novo todos os itens de pedestal da sala (mesmo efeito de O D6)."
+  },
+  {
+    "id": 20046,
+    "localizedName": "Rei Suicida",
+    "localizedDescription": "Mata Isaac e gera um monte de coletáveis, itens e/ou baús na mesma sala."
+  },
+  {
+    "id": 20006,
+    "localizedName": "V - O Hierofante",
+    "localizedDescription": "Gera 2 Corações de Alma."
+  },
+  {
+    "id": 20007,
+    "localizedName": "VI - Os Enamorados",
+    "localizedDescription": "Gera 2 Corações Vermelhos. Se usada numa Sala Super Secreta que tenha Corações Negros ou Eternos, gera esses corações no lugar."
+  },
+  {
+    "id": 20008,
+    "localizedName": "VII - O Carro",
+    "localizedDescription": "Dá a invencibilidade temporária de My Little Unicorn."
+  },
+  {
+    "id": 20009,
+    "localizedName": "VIII - A Justiça",
+    "localizedDescription": "Gera um de cada consumível: um Coração Vermelho, uma Chave, uma Bomba e uma Moeda. O coração pode vir como meio coração ou coração duplo."
+  },
+  {
+    "id": 20011,
+    "localizedName": "X - A Roda da Fortuna",
+    "localizedDescription": "Gera uma máquina de fliperama (Caça-Níquel ou Máquina da Sorte)."
+  },
+  {
+    "id": 20012,
+    "localizedName": "XI - A Força",
+    "localizedDescription": "Dá os efeitos de Magic Mushroom (sem curar) por uma sala. O recipiente de Coração Vermelho extra some ao sair da sala."
+  },
+  {
+    "id": 20013,
+    "localizedName": "XII - O Enforcado",
+    "localizedDescription": "Tira o corpo de Isaac, deixando ele voar pela sala atual (mesmo efeito de Transcendence)."
+  },
+  {
+    "id": 20014,
+    "localizedName": "XIII - A Morte",
+    "localizedDescription": "Causa 40 de dano a todos os inimigos da sala (mesmo efeito de O Necronomicon)."
+  },
+  {
+    "id": 20015,
+    "localizedName": "XIV - A Temperança",
+    "localizedDescription": "Gera uma Máquina de Doação de Sangue.\nNo modo Greed, gera um Mendigo do Diabo."
+  },
+  {
+    "id": 20020,
+    "localizedName": "XIX - O Sol",
+    "localizedDescription": "Recupera toda a vida de Isaac, causa 100 de dano a todos os inimigos da sala e revela o mapa do andar, menos a Sala Super Secreta. Remove a Curse of Darkness do andar."
+  },
+  {
+    "id": 20016,
+    "localizedName": "XV - O Diabo",
+    "localizedDescription": "Dá +2 de dano temporário na sala atual (mesmo efeito de The Book of Belial)."
+  },
+  {
+    "id": 20017,
+    "localizedName": "XVI - A Torre",
+    "localizedDescription": "Gera 6 Bombas-Armadilha espalhadas pela sala (mesmo efeito de Anarchist Cookbook)."
+  },
+  {
+    "id": 20018,
+    "localizedName": "XVII - A Estrela",
+    "localizedDescription": "Teleporta Isaac para a Sala do Tesouro. Sem Sala do Tesouro, vira um teleporte aleatório; com Curse of the Labyrinth, escolhe uma delas ao acaso. Se a sala ainda não foi aberta, destranca a porta sem gastar chave (saindo pela entrada principal)."
+  },
+  {
+    "id": 20019,
+    "localizedName": "XVIII - A Lua",
+    "localizedDescription": "Teleporta Isaac para a Sala Secreta e abre uma parede aleatória lá dentro, para dar para sair mesmo sem bombas. Não funciona nos modos Greed e Greedier."
+  },
+  {
+    "id": 20021,
+    "localizedName": "XX - O Julgamento",
+    "localizedDescription": "Gera um Mendigo."
+  },
+  {
+    "id": 20022,
+    "localizedName": "XXI - O Mundo",
+    "localizedDescription": "Revela o andar inteiro, menos a Sala Super Secreta. Não funciona com Curse of the Lost ou Amnesia."
   }
 ]
