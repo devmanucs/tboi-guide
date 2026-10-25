@@ -1,8 +1,11 @@
 export type GameVersion = 'rebirth' | 'afterbirth' | 'afterbirth-plus'
-export type ItemKind = 'passive' | 'active' | 'familiar'
+export type ItemKind = 'passive' | 'active' | 'familiar' | 'trinket'
 
 export interface IsaacItem {
+  /** Unique catalog ID; trinkets are offset by TRINKET_ID_OFFSET. */
   id: number
+  /** The ID the game itself uses (collectible or trinket number). */
+  gameId: number
   name: string
   localizedName?: string
   version: GameVersion
