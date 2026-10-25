@@ -1,5 +1,6 @@
 # Art credits
 
+- App icon (`resources/icon.*`, `public/favicon.png`): original pixel art drawn in `scripts/build-icon.ts`; it does not reuse game sprites.
 - `isaac-paper.png`: original paper texture generated for Basement Oracle on 2026-10-16. It contains no The Binding of Isaac artwork or sprites.
 - The game's item sprites and item names remain sourced from the catalog references documented in the project README and retain their respective rights holders.
 

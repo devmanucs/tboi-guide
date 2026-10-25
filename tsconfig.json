@@ -17,5 +17,5 @@
     "noFallthroughCasesInSwitch": true,
     "types": ["vite/client"]
   },
-  "include": ["apps/desktop/src", "packages/isaac-data/src", "packages/game-state/src", "packages/item-matcher/src", "electron.vite.config.ts"]
+  "include": ["apps/desktop/src", "packages/isaac-data/src", "packages/game-state/src", "packages/item-matcher/src", "electron.vite.config.ts", "vite.web.config.ts"]
 }

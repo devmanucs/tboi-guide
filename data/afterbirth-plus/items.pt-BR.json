@@ -4166,5 +4166,1600 @@
       "cruz",
       "símbolo"
     ]
+  },
+  {
+    "id": 320,
+    "localizedName": "O Único Amigo de ???",
+    "localizedDescription": "Gera um familiar controlável que causa 37,5 de dano por segundo ao encostar nos inimigos. Ele se move com os botões de tiro."
+  },
+  {
+    "id": 10057,
+    "localizedName": "Alma de ???",
+    "localizedDescription": "Gera um familiar que flutua devagar pela sala, num padrão parecido com o de The Peeper, e dispara lágrimas espectrais e teleguiadas."
+  },
+  {
+    "id": 15,
+    "localizedName": "<3",
+    "localizedDescription": "Dá a Isaac um recipiente de Coração Vermelho e restaura toda a vida."
+  },
+  {
+    "id": 11,
+    "localizedName": "1up!",
+    "localizedDescription": "Dá a Isaac uma vida extra. Ao morrer, ele renasce na sala anterior com a vida cheia e perde o 1up!."
+  },
+  {
+    "id": 526,
+    "localizedName": "7 Selos",
+    "localizedDescription": "Gera um familiar Cavaleiro do Apocalipse aleatório, que muda a cada 10 segundos. Cada Cavaleiro tem um comportamento diferente e gera Gafanhotos do seu tipo."
+  },
+  {
+    "id": 10048,
+    "localizedName": "Uma Página Perdida",
+    "localizedDescription": "5% de chance de ativar o efeito de O Necronomicon ao sofrer dano. Adiciona +40 de dano aos Corações Negros e aos efeitos parecidos com o Necronomicon."
+  },
+  {
+    "id": 10003,
+    "localizedName": "Pilha AAA",
+    "localizedDescription": "Recarrega sozinha a última barra de carga do item ativo, reduzindo em um o número de salas para recarregar."
+  },
+  {
+    "id": 188,
+    "localizedName": "Abel",
+    "localizedDescription": "Gera um familiar que espelha os movimentos de Isaac e atira na direção oposta."
+  },
+  {
+    "id": 10045,
+    "localizedName": "Ás de Espadas",
+    "localizedDescription": "Aumenta a chance de cair carta de tarô ou de baralho ao limpar uma sala, e de encontrar cartas ao abrir um baú."
+  },
+  {
+    "id": 491,
+    "localizedName": "Bebê Ácido",
+    "localizedDescription": "Gera um familiar que solta uma pílula aleatória a cada 3 salas. Ao usar uma pílula, todos os inimigos da sala são envenenados."
+  },
+  {
+    "id": 493,
+    "localizedName": "Adrenalina",
+    "localizedDescription": "Aumenta o dano de acordo com quantos recipientes de Coração Vermelho vazios Isaac tem."
+  },
+  {
+    "id": 528,
+    "localizedName": "Prisma Angelical",
+    "localizedDescription": "Gera um familiar orbital com órbita bem larga. As lágrimas que passam pelo prisma se dividem em quatro lágrimas coloridas."
+  },
+  {
+    "id": 511,
+    "localizedName": "Mosca Raivosa",
+    "localizedDescription": "Gera uma mosca familiar que orbita um inimigo aleatório e causa 30 de dano por segundo aos inimigos em que encosta."
+  },
+  {
+    "id": 10127,
+    "localizedName": "Entorta-Bebê",
+    "localizedDescription": "Os familiares de Isaac passam a ter tiros teleguiados."
+  },
+  {
+    "id": 10105,
+    "localizedName": "Marmita",
+    "localizedDescription": "Ao sofrer dano, há uma pequena chance de o trinket se destruir e gerar o item Almoço."
+  },
+  {
+    "id": 207,
+    "localizedName": "Bola de Ataduras",
+    "localizedDescription": "Gera um familiar orbital que bloqueia tiros inimigos e causa 105 de dano por segundo. Pegar mais cópias faz ele atirar lágrimas que enfeitiçam, depois perseguir inimigos e, por fim, causar mais dano."
+  },
+  {
+    "id": 10118,
+    "localizedName": "Asa de Morcego",
+    "localizedDescription": "Ao matar um inimigo, há uma chance de ganhar voo pelo resto da sala."
+  },
+  {
+    "id": 272,
+    "localizedName": "BBF",
+    "localizedDescription": "Gera um familiar que voa em zigue-zague pela sala e explode ao encostar num inimigo. Reaparece depois de dez segundos."
+  },
+  {
+    "id": 274,
+    "localizedName": "Melhor Amigo",
+    "localizedDescription": "Ao levar dano, gera uma mosca de ataque que orbita rápido, parecida com a de Forever Alone, pela sala atual, causando 75 de dano por segundo."
+  },
+  {
+    "id": 10018,
+    "localizedName": "Folheto Bíblico",
+    "localizedDescription": "Aumenta a chance de aparecerem Corações Eternos."
+  },
+  {
+    "id": 473,
+    "localizedName": "Big Chubby",
+    "localizedDescription": "Gera um familiar que segue Isaac e avança pela sala quando ele atira, bloqueando tiros e causando 40,5 de dano por segundo ao encostar."
+  },
+  {
+    "id": 279,
+    "localizedName": "Grande Fã",
+    "localizedDescription": "Gera um familiar orbital grande que bloqueia tiros inimigos e causa 30 de dano por segundo aos inimigos."
+  },
+  {
+    "id": 10080,
+    "localizedName": "Pena Negra",
+    "localizedDescription": "Aumenta o dano de Isaac para cada item maligno que ele carrega."
+  },
+  {
+    "id": 512,
+    "localizedName": "Buraco Negro",
+    "localizedDescription": "Arremessa um buraco negro no chão que suga e fere os inimigos."
+  },
+  {
+    "id": 10017,
+    "localizedName": "Batom Preto",
+    "localizedDescription": "Aumenta a chance de aparecerem Corações Negros."
+  },
+  {
+    "id": 10095,
+    "localizedName": "Dente Preto",
+    "localizedDescription": "Adiciona uma chance de disparar um dente preto que causa o dobro de dano e envenena os inimigos."
+  },
+  {
+    "id": 535,
+    "localizedName": "Cobertor",
+    "localizedDescription": "Dá um Coração de Alma. Ao entrar numa sala de chefe, ganha um escudo que bloqueia um golpe e depois some."
+  },
+  {
+    "id": 10073,
+    "localizedName": "Espoleta",
+    "localizedDescription": "Bombas que explodem têm chance de soltar outra bomba coletável."
+  },
+  {
+    "id": 10081,
+    "localizedName": "Fúria Cega",
+    "localizedDescription": "Aumenta o tempo de invencibilidade depois de levar dano."
+  },
+  {
+    "id": 10077,
+    "localizedName": "Bolha",
+    "localizedDescription": "Aumenta o empurrão (knockback) das lágrimas."
+  },
+  {
+    "id": 509,
+    "localizedName": "Olho Injetado",
+    "localizedDescription": "Gera um familiar orbital que causa 30 de dano por segundo e dispara uma lágrima em ângulo aleatório a cada 2 segundos."
+  },
+  {
+    "id": 10111,
+    "localizedName": "Coroa Sangrenta",
+    "localizedDescription": "Salas do Tesouro passam a aparecer no Capítulo 4."
+  },
+  {
+    "id": 10049,
+    "localizedName": "Moeda Sangrenta",
+    "localizedDescription": "Ao pegar uma moeda, há chance de cair meio Coração Vermelho."
+  },
+  {
+    "id": 10071,
+    "localizedName": "Bexiga do Bob",
+    "localizedDescription": "Deixa uma poça de gosma verde embaixo de todas as bombas que Isaac coloca, ferindo os inimigos que passam por cima."
+  },
+  {
+    "id": 273,
+    "localizedName": "Cérebro do Bob",
+    "localizedDescription": "Gera um familiar que avança quando Isaac atira e explode ao encostar num inimigo, causando dano e envenenando. Reaparece depois de alguns segundos."
+  },
+  {
+    "id": 131,
+    "localizedName": "Bolsa de Bombas",
+    "localizedDescription": "Gera um familiar que solta uma bomba a cada 3 salas."
+  },
+  {
+    "id": 545,
+    "localizedName": "Livro dos Mortos",
+    "localizedDescription": "Ao usar, gera um Bony aliado ou um osso orbital para cada inimigo morto na sala atual."
+  },
+  {
+    "id": 513,
+    "localizedName": "Bozo",
+    "localizedDescription": "Aumenta o dano em 0,1 e dá um Coração de Alma. Inimigos podem ficar enfeitiçados ou com medo por um instante. Ao levar dano, há chance de gerar um cocô arco-íris."
+  },
+  {
+    "id": 549,
+    "localizedName": "Ossos Frágeis",
+    "localizedDescription": "Troca todos os Corações Vermelhos por 6 Corações de Osso vazios. Ao perder um Coração de Osso, Isaac dispara ossos em 8 direções e ganha cadência de tiro permanentemente."
+  },
+  {
+    "id": 10028,
+    "localizedName": "Ankh Quebrado",
+    "localizedDescription": "Enquanto estiver com ele, Isaac tem chance de reviver como ???. Pode acontecer várias vezes na mesma run."
+  },
+  {
+    "id": 10006,
+    "localizedName": "Ímã Quebrado",
+    "localizedDescription": "Puxa as moedas em direção a Isaac, mas ignora os outros coletáveis."
+  },
+  {
+    "id": 514,
+    "localizedName": "Modem Quebrado",
+    "localizedDescription": "Inimigos, tiros inimigos, lágrimas e coletáveis congelam por um instante em intervalos aleatórios."
+  },
+  {
+    "id": 10004,
+    "localizedName": "Controle Quebrado",
+    "localizedDescription": "Ativa o efeito de Teleport! sempre que um item ativo é usado."
+  },
+  {
+    "id": 551,
+    "localizedName": "Pá Quebrada (Lâmina)",
+    "localizedDescription": "Uma das duas partes necessárias para montar a Pá da Mamãe."
+  },
+  {
+    "id": 550,
+    "localizedName": "Pá Quebrada (Cabo)",
+    "localizedDescription": "Enquanto estiver com ela, vários Pés da Mamãe descem e pisam em Isaac. Uma das duas partes necessárias para montar a Pá da Mamãe."
+  },
+  {
+    "id": 8,
+    "localizedName": "Irmão Bobby",
+    "localizedDescription": "Um familiar que segue Isaac atirando lágrimas normais."
+  },
+  {
+    "id": 10090,
+    "localizedName": "Chapéu Marrom",
+    "localizedDescription": "Montes de cocô explodem depois de destruídos."
+  },
+  {
+    "id": 518,
+    "localizedName": "Amigo na Caixa",
+    "localizedDescription": "Gera um familiar com um efeito de lágrima aleatório. O familiar é sorteado de novo no começo de cada andar."
+  },
+  {
+    "id": 144,
+    "localizedName": "Mendigo Amigo",
+    "localizedDescription": "Gera um familiar que pega moedas para ele e devolve coletáveis aleatórios em troca. Não gera itens de pedestal."
+  },
+  {
+    "id": 385,
+    "localizedName": "Bumbo",
+    "localizedDescription": "Gera um mendigo familiar que pega as moedas por perto e sobe de nível depois de juntar várias. No nível 2 ganha um corpo, no nível 3 começa a atirar lágrimas e no nível 4 persegue inimigos e causa dano ao encostar."
+  },
+  {
+    "id": 10050,
+    "localizedName": "Moeda Queimada",
+    "localizedDescription": "Ao pegar uma moeda, há chance de cair uma bomba."
+  },
+  {
+    "id": 10024,
+    "localizedName": "Moeda de Bunda",
+    "localizedDescription": "Isaac solta um pum ao pegar uma moeda. Cocôs têm mais chance de soltar moedas."
+  },
+  {
+    "id": 10122,
+    "localizedName": "Manteiga!",
+    "localizedDescription": "Usar um item ativo faz ele cair num pedestal no chão. Levar dano pode fazer Isaac derrubar um item passivo."
+  },
+  {
+    "id": 10059,
+    "localizedName": "Olho de Caim",
+    "localizedDescription": "Ao começar um andar, 25% de chance de ganhar o efeito de A Bússola durante aquele andar."
+  },
+  {
+    "id": 319,
+    "localizedName": "O Outro Olho de Caim",
+    "localizedDescription": "Gera um familiar que flutua devagar pela sala em zigue-zague, como The Peeper, e atira lágrimas normais na mesma direção que Isaac."
+  },
+  {
+    "id": 10014,
+    "localizedName": "Calo",
+    "localizedDescription": "Impede dano de poças e espinhos."
+  },
+  {
+    "id": 10039,
+    "localizedName": "Câncer",
+    "localizedDescription": "-2 no atraso entre lágrimas (na prática, aumenta a cadência de tiro)."
+  },
+  {
+    "id": 10008,
+    "localizedName": "Cartucho",
+    "localizedDescription": "Chance de ativar o efeito de O Gamekid ao sofrer dano."
+  },
+  {
+    "id": 387,
+    "localizedName": "Incensário",
+    "localizedDescription": "Gera um familiar com uma aura circular que deixa mais lentos os inimigos e os tiros inimigos dentro dela."
+  },
+  {
+    "id": 372,
+    "localizedName": "Bebê Carregado",
+    "localizedDescription": "Gera um familiar que de vez em quando solta uma Pilha Pequena, carrega o item ativo ou petrifica todos os inimigos da sala."
+  },
+  {
+    "id": 10089,
+    "localizedName": "Coleira Infantil",
+    "localizedDescription": "Faz os familiares ficarem mais próximos uns dos outros."
+  },
+  {
+    "id": 10034,
+    "localizedName": "Coração de Criança",
+    "localizedDescription": "Aumenta a chance de cair coração ao limpar uma sala, e de encontrar coração ao abrir um baú."
+  },
+  {
+    "id": 10052,
+    "localizedName": "Moeda Falsa",
+    "localizedDescription": "50% de chance de cada moeda coletada valer uma a mais."
+  },
+  {
+    "id": 521,
+    "localizedName": "Cupom",
+    "localizedDescription": "Ao usar, deixa grátis um item aleatório da Loja, da Sala do Diabo ou do Mercado Negro."
+  },
+  {
+    "id": 10092,
+    "localizedName": "Coroa Rachada",
+    "localizedDescription": "Reduz o atraso entre lágrimas em 20% e deixa os outros aumentos de atributo cerca de 33% mais fortes.\nDeixa os outros aumentos de atributo cerca de 20% mais fortes."
+  },
+  {
+    "id": 10067,
+    "localizedName": "Dado Rachado",
+    "localizedDescription": "Ativa o efeito de O D6, D8, D12 ou D20 sempre que Isaac sofre dano."
+  },
+  {
+    "id": 10107,
+    "localizedName": "Coração de Corvo",
+    "localizedDescription": "O dano tira primeiro os Corações Vermelhos, antes dos Corações de Alma, Negros e Podres."
+  },
+  {
+    "id": 73,
+    "localizedName": "Cubo de Carne",
+    "localizedDescription": "Gera um familiar orbital que bloqueia tiros inimigos e causa 105 de dano por segundo. Pegar mais cópias faz ele atirar, depois perseguir inimigos e, por fim, causar mais dano."
+  },
+  {
+    "id": 10043,
+    "localizedName": "Caveira Amaldiçoada",
+    "localizedDescription": "Se Isaac ficar com menos de um Coração Vermelho inteiro depois de levar dano, é teleportado na hora para a última sala limpa em que esteve."
+  },
+  {
+    "id": 10035,
+    "localizedName": "Chifre Curvo",
+    "localizedDescription": "Aumenta o dano em 2."
+  },
+  {
+    "id": 546,
+    "localizedName": "Anel do Papai",
+    "localizedDescription": "Cria um anel de luz em volta de Isaac que petrifica os inimigos que encostam nele."
+  },
+  {
+    "id": 170,
+    "localizedName": "Daddy Longlegs",
+    "localizedDescription": "A sombra de Daddy Long Legs segue Isaac e de vez em quando pisa nos inimigos, causando 40 de dano no total."
+  },
+  {
+    "id": 10022,
+    "localizedName": "Cauda do Demônio",
+    "localizedDescription": "A maioria dos corações comuns que caem vira Coração Negro, mas os corações passam a cair bem menos."
+  },
+  {
+    "id": 278,
+    "localizedName": "Mendigo Sombrio",
+    "localizedDescription": "Gera um familiar que segue Isaac e pega Corações Vermelhos para ele. A cada 1½ Coração Vermelho coletado, ele dá um Coração de Alma, uma Aranha hostil, uma Aranha Azul aliada, ou uma carta, runa ou pílula aleatória."
+  },
+  {
+    "id": 81,
+    "localizedName": "Gato Morto",
+    "localizedDescription": "Deixa Isaac com só 1 recipiente de Coração Vermelho, mas dá 9 vidas extras. Ao morrer, Isaac renasce com 1 recipiente de Coração Vermelho."
+  },
+  {
+    "id": 530,
+    "localizedName": "Lista da Morte",
+    "localizedDescription": "Dá um coletável ou aumento de atributo se todos os inimigos da sala forem mortos na ordem em que são marcados."
+  },
+  {
+    "id": 113,
+    "localizedName": "Bebê Demônio",
+    "localizedDescription": "Gera um familiar que segue Isaac e atira sozinho nos inimigos ao alcance."
+  },
+  {
+    "id": 469,
+    "localizedName": "Depressão",
+    "localizedDescription": "Gera um familiar que deixa um rastro de poça que causa 6 de dano por segundo aos inimigos. Tem chance de lançar raios de luz nos inimigos que tocam a nuvem."
+  },
+  {
+    "id": 10101,
+    "localizedName": "Lâmpada Fraca",
+    "localizedDescription": "Aumenta todos os atributos enquanto o item ativo de Isaac estiver totalmente descarregado."
+  },
+  {
+    "id": 57,
+    "localizedName": "Admiração Distante",
+    "localizedDescription": "Gera uma mosca de ataque que orbita mais longe que Halo of Flies, mas mais perto que Forever Alone, causando 75 de dano por segundo."
+  },
+  {
+    "id": 547,
+    "localizedName": "Papéis do Divórcio",
+    "localizedDescription": "Dá um Coração de Osso, +0,7 de cadência de tiro e gera um Papel Misterioso."
+  },
+  {
+    "id": 10124,
+    "localizedName": "Calço de Porta",
+    "localizedDescription": "A última porta por onde Isaac passou fica aberta, permitindo sair da sala mesmo com inimigos dentro."
+  },
+  {
+    "id": 265,
+    "localizedName": "Bebê Seco",
+    "localizedDescription": "Gera um familiar que segue Isaac e bloqueia projéteis inimigos. Ao bloquear um tiro, tem chance de ativar o efeito de O Necronomicon."
+  },
+  {
+    "id": 10109,
+    "localizedName": "Fita Adesiva",
+    "localizedDescription": "Prende os familiares de Isaac na mesma posição em relação a ele."
+  },
+  {
+    "id": 10079,
+    "localizedName": "Endless Nameless",
+    "localizedDescription": "25% de chance de duplicar qualquer pílula, carta ou runa que Isaac usar."
+  },
+  {
+    "id": 10103,
+    "localizedName": "Igualdade!",
+    "localizedDescription": "Transforma os coletáveis em versões duplas enquanto Isaac tiver a mesma quantidade de moedas, bombas e chaves."
+  },
+  {
+    "id": 10075,
+    "localizedName": "Erro",
+    "localizedDescription": "Dá o efeito de um trinket aleatório em cada sala."
+  },
+  {
+    "id": 10060,
+    "localizedName": "Pé de Pássaro da Eva",
+    "localizedDescription": "5% de chance de gerar um familiar Pássaro Morto na sala atual sempre que um inimigo morre."
+  },
+  {
+    "id": 10125,
+    "localizedName": "Extensão Elétrica",
+    "localizedDescription": "Raios de eletricidade amarela passam entre Isaac e seus familiares, ferindo os inimigos no caminho."
+  },
+  {
+    "id": 10069,
+    "localizedName": "Polaroid Desbotada",
+    "localizedDescription": "De vez em quando Isaac se camufla no chão, confundindo por um instante todos os inimigos da sala."
+  },
+  {
+    "id": 404,
+    "localizedName": "Bebê Peidão",
+    "localizedDescription": "Gera um familiar que segue Isaac e bloqueia tiros inimigos. Se um tiro acerta ele, há chance de soltar um pum que enfeitiça, envenena ou empurra os inimigos por perto."
+  },
+  {
+    "id": 517,
+    "localizedName": "Bombas Rápidas",
+    "localizedDescription": "Dá 7 bombas e permite colocar bombas em sequência rápida."
+  },
+  {
+    "id": 361,
+    "localizedName": "Recompensa do Destino",
+    "localizedDescription": "Um familiar de cabeça azul que segue Isaac e atira lágrimas copiando o dano e os efeitos de lágrima dele."
+  },
+  {
+    "id": 10123,
+    "localizedName": "Pena de Filigrana",
+    "localizedDescription": "Anjos derrotados soltam itens da Sala do Anjo em vez de pedaços de chave."
+  },
+  {
+    "id": 10128,
+    "localizedName": "Osso de Dedo",
+    "localizedDescription": "Ao sofrer dano, há chance de ganhar um Coração de Osso."
+  },
+  {
+    "id": 467,
+    "localizedName": "Dedo!",
+    "localizedDescription": "Gera um familiar dedo que aponta para os inimigos, causando dano que vai aumentando."
+  },
+  {
+    "id": 10029,
+    "localizedName": "Cabeça de Peixe",
+    "localizedDescription": "Gera uma Mosca Azul toda vez que Isaac sofre dano."
+  },
+  {
+    "id": 10094,
+    "localizedName": "Rabo de Peixe",
+    "localizedDescription": "Itens e trinkets que geram Moscas Azuis ou gafanhotos geram o dobro."
+  },
+  {
+    "id": 10051,
+    "localizedName": "Moeda Achatada",
+    "localizedDescription": "Ao pegar uma moeda, há chance de cair uma chave."
+  },
+  {
+    "id": 540,
+    "localizedName": "Pedra Chata",
+    "localizedDescription": "As lágrimas quicam no chão, criando respingos. Cada respingo causa 25% do dano da lágrima a todos os inimigos numa área pequena."
+  },
+  {
+    "id": 10012,
+    "localizedName": "Verme Achatado",
+    "localizedDescription": "As lágrimas de Isaac ficam alongadas e empurram os inimigos para trás."
+  },
+  {
+    "id": 128,
+    "localizedName": "Forever Alone",
+    "localizedDescription": "Gera uma mosca de ataque que orbita bem longe de Isaac, causando 30 de dano por segundo."
+  },
+  {
+    "id": 10102,
+    "localizedName": "Carta Fragmentada",
+    "localizedDescription": "Faz aparecerem duas Salas Secretas em cada andar."
+  },
+  {
+    "id": 364,
+    "localizedName": "Friend Zone",
+    "localizedDescription": "Gera uma mosca de ataque branca que orbita entre Admiração Distante e Forever Alone, causando 45 de dano por segundo."
+  },
+  {
+    "id": 405,
+    "localizedName": "GB Bug",
+    "localizedDescription": "Gera um familiar que quica na diagonal pela sala, aplica um efeito de status aleatório nos inimigos que acerta e pode sortear de novo os coletáveis por onde passa.\nGera um familiar que segue Isaac. Apertar duas vezes o botão de tiro lança ele para frente, sorteando de novo o primeiro monstro ou coletável que acertar. Reaparece ao limpar a sala."
+  },
+  {
+    "id": 318,
+    "localizedName": "Gêmeos",
+    "localizedDescription": "Gera um familiar siamês que persegue os inimigos perto de Isaac, causando cerca de 8 de dano por segundo."
+  },
+  {
+    "id": 163,
+    "localizedName": "Bebê Fantasma",
+    "localizedDescription": "Gera um familiar que segue Isaac e atira lágrimas espectrais."
+  },
+  {
+    "id": 10037,
+    "localizedName": "Casco de Bode",
+    "localizedDescription": "Aumenta a velocidade em 0,15."
+  },
+  {
+    "id": 10082,
+    "localizedName": "Ferradura Dourada",
+    "localizedDescription": "+15% de chance de a Sala do Tesouro ter dois itens. Só dá para pegar um."
+  },
+  {
+    "id": 112,
+    "localizedName": "Anjo da Guarda",
+    "localizedDescription": "Gera um familiar orbital que bloqueia tiros inimigos, causa 105 de dano por segundo e acelera todos os familiares orbitais."
+  },
+  {
+    "id": 206,
+    "localizedName": "Guilhotina",
+    "localizedDescription": "A cabeça de Isaac sai do corpo e flutua em volta dele como orbital. Dá +1 de dano e -1 no atraso entre lágrimas."
+  },
+  {
+    "id": 187,
+    "localizedName": "Bola de Pelo do Guppy",
+    "localizedDescription": "Gera um familiar que segue Isaac de longe, bloqueia tiros e pode ser girado como um mangual para ferir inimigos. Cresce ao matar inimigos."
+  },
+  {
+    "id": 531,
+    "localizedName": "Hemolácria",
+    "localizedDescription": "As lágrimas passam a ser disparadas em arco. Ao bater no chão, num obstáculo ou num inimigo, explodem em várias lágrimas menores para todos os lados. Aumenta o atraso entre lágrimas."
+  },
+  {
+    "id": 10120,
+    "localizedName": "Grampo de Cabelo",
+    "localizedDescription": "Recarrega totalmente o item ativo ao entrar numa luta de chefe."
+  },
+  {
+    "id": 543,
+    "localizedName": "Solo Sagrado",
+    "localizedDescription": "Gera um familiar cocô branco, que vira um cocô branco no chão quando Isaac leva dano. O cocô branco tem uma aura que corta pela metade o atraso entre lágrimas e bloqueia tiros inimigos."
+  },
+  {
+    "id": 10,
+    "localizedName": "Halo de Moscas",
+    "localizedDescription": "Gera duas Moscas Bonitas que bloqueiam tiros inimigos e causam dano às moscas que encostam nelas."
+  },
+  {
+    "id": 167,
+    "localizedName": "Bebê Arlequim",
+    "localizedDescription": "Gera um familiar que segue Isaac e atira duas lágrimas de uma vez, em V."
+  },
+  {
+    "id": 269,
+    "localizedName": "Bebê Sem Cabeça",
+    "localizedDescription": "Gera um familiar que segue Isaac deixando uma poça de sangue no chão."
+  },
+  {
+    "id": 178,
+    "localizedName": "Água Benta",
+    "localizedDescription": "Gera um familiar garrafa que quebra quando Isaac leva dano, deixando uma poça azul. A garrafa volta ao entrar em outra sala.\nUm familiar garrafa que voa para frente quando Isaac atira. Quebra ao acertar um inimigo, deixando uma poça azul que petrifica. A garrafa volta depois de alguns segundos."
+  },
+  {
+    "id": 10026,
+    "localizedName": "Verme Gancho",
+    "localizedDescription": "As lágrimas andam em zigue-zague de ângulos retos. +10 de alcance (o alcance efetivo fica quase igual)."
+  },
+  {
+    "id": 203,
+    "localizedName": "Pacote Humilde",
+    "localizedDescription": "Troca todos os corações vermelhos, moedas, chaves e bombas comuns por versões duplas, que valem o dobro.\nCorações vermelhos, moedas, chaves e bombas comuns têm chance de virar versões duplas, que valem o dobro."
+  },
+  {
+    "id": 470,
+    "localizedName": "Hushy",
+    "localizedDescription": "Gera um familiar Hush que quica na diagonal pela sala e causa dano ao encostar. Para de se mover enquanto Isaac atira."
+  },
+  {
+    "id": 360,
+    "localizedName": "Íncubo",
+    "localizedDescription": "Gera um familiar demoníaco que atira lágrimas iguais às de Isaac em dano, cadência e efeitos."
+  },
+  {
+    "id": 10046,
+    "localizedName": "Garfo do Isaac",
+    "localizedDescription": "Ao limpar uma sala, Isaac tem chance de recuperar meio Coração Vermelho."
+  },
+  {
+    "id": 10054,
+    "localizedName": "Cabeça do Isaac",
+    "localizedDescription": "Gera a cabeça decepada de Isaac como um familiar que atira lágrimas perfurantes."
+  },
+  {
+    "id": 276,
+    "localizedName": "Coração do Isaac",
+    "localizedDescription": "Isaac fica imune a dano, e um familiar coração passa a segui-lo. Se o coração for atingido, Isaac leva o dano. O coração carrega enquanto Isaac atira e, ao soltar, dispara 8 tiros de sangue, empurra os inimigos e deixa uma poça."
+  },
+  {
+    "id": 548,
+    "localizedName": "Maxilar",
+    "localizedDescription": "Gera um familiar que voa pela sala enquanto Isaac atira, causando 7 de dano por contato aos inimigos e buscando coletáveis."
+  },
+  {
+    "id": 10056,
+    "localizedName": "Língua de Judas",
+    "localizedDescription": "Itens da Sala do Diabo custam só 1 coração. Trocas por Coração de Alma continuam custando 3."
+  },
+  {
+    "id": 266,
+    "localizedName": "Saco Suculento",
+    "localizedDescription": "Gera um familiar que segue Isaac deixando um rastro de gosma que deixa lento, e gera 1 ou 2 Aranhas Azuis depois de cada sala."
+  },
+  {
+    "id": 520,
+    "localizedName": "Cabos de Chupeta",
+    "localizedDescription": "Dá uma carga ao item ativo a cada 15 inimigos mortos."
+  },
+  {
+    "id": 10085,
+    "localizedName": "Carma",
+    "localizedDescription": "Doar para a Máquina de Doação tem chance de curar um Coração Vermelho inteiro ou gerar um mendigo, e aumenta a chance de a doação dar sorte."
+  },
+  {
+    "id": 388,
+    "localizedName": "Mendigo das Chaves",
+    "localizedDescription": "Gera um familiar que segue Isaac e pega Chaves para ele, devolvendo Baús aleatórios em troca."
+  },
+  {
+    "id": 238,
+    "localizedName": "Pedaço de Chave 1",
+    "localizedDescription": "Junto com o Pedaço de Chave 2, abre o portão dourado na sala inicial do Baú (The Chest) e do Quarto Escuro para enfrentar o Mega Satan."
+  },
+  {
+    "id": 239,
+    "localizedName": "Pedaço de Chave 2",
+    "localizedDescription": "Junto com o Pedaço de Chave 1, abre o portão dourado na sala inicial do Baú (The Chest) e do Quarto Escuro para enfrentar o Mega Satan."
+  },
+  {
+    "id": 472,
+    "localizedName": "Bebê Rei",
+    "localizedDescription": "Gera um familiar que segue Isaac e faz os outros familiares seguirem ele. Enquanto Isaac atira, os outros familiares param."
+  },
+  {
+    "id": 532,
+    "localizedName": "Lacrifagia",
+    "localizedDescription": "As lágrimas de Isaac vão desacelerando. Ao parar ou bater num obstáculo, explodem em 8 lágrimas para todos os lados. Atirar numa lágrima parada alimenta ela e aumenta o dano."
+  },
+  {
+    "id": 10066,
+    "localizedName": "Verme Preguiçoso",
+    "localizedDescription": "Aumenta o alcance em 4 e reduz a velocidade do tiro em 0,4."
+  },
+  {
+    "id": 270,
+    "localizedName": "Sanguessuga",
+    "localizedDescription": "Gera um familiar sanguessuga que persegue inimigos, causando cerca de 3 de dano por segundo. Cura meio Coração Vermelho sempre que mata um inimigo."
+  },
+  {
+    "id": 525,
+    "localizedName": "Lepra",
+    "localizedDescription": "Ao sofrer dano, ganha uma parte do corpo como orbital, que bloqueia tiros inimigos e causa 7 de dano por toque. Os orbitais quebram se levarem dano demais de inimigos ou tiros."
+  },
+  {
+    "id": 10032,
+    "localizedName": "Cogumelo da Liberdade",
+    "localizedDescription": "Ao entrar numa sala, há chance de ativar o efeito de Mini Mush, Cogumelo Estranho (Grande), Cogumelo Estranho (Fino) ou A Bússola naquela sala."
+  },
+  {
+    "id": 275,
+    "localizedName": "Lil Brimstone",
+    "localizedDescription": "Dá um familiar que carrega um laser fino de Brimstone enquanto Isaac atira."
+  },
+  {
+    "id": 362,
+    "localizedName": "Lil Chest",
+    "localizedDescription": "Gera um familiar baú que solta um coletável aleatório (25% de chance) ou um trinket (10% de chance) ao limpar uma sala."
+  },
+  {
+    "id": 519,
+    "localizedName": "Lil Delirium",
+    "localizedDescription": "Dá um familiar que vira outro familiar aleatório a cada 10 segundos."
+  },
+  {
+    "id": 384,
+    "localizedName": "Lil Gurdy",
+    "localizedDescription": "Um familiar Gurdy Jr. que carrega enquanto Isaac atira e, ao soltar, quica pela sala causando dano por contato conforme a velocidade."
+  },
+  {
+    "id": 277,
+    "localizedName": "Lil Haunt",
+    "localizedDescription": "Gera um familiar que persegue os inimigos, causando 4 de dano por segundo e assustando-os."
+  },
+  {
+    "id": 10086,
+    "localizedName": "Lil Larva",
+    "localizedDescription": "Gera uma Mosca Azul de cada monte de cocô que Isaac destrói."
+  },
+  {
+    "id": 435,
+    "localizedName": "Lil Loki",
+    "localizedDescription": "Gera um familiar Loki que segue Isaac e atira 4 lágrimas em cruz."
+  },
+  {
+    "id": 471,
+    "localizedName": "Lil Monstro",
+    "localizedDescription": "Gera um familiar que dispara rajadas de lágrimas. Precisa carregar antes de atirar."
+  },
+  {
+    "id": 537,
+    "localizedName": "Lil Spewer",
+    "localizedDescription": "Solta uma pílula aleatória e gera um familiar que carrega e cospe poças. Usar pílulas muda o tipo de poça."
+  },
+  {
+    "id": 96,
+    "localizedName": "Pequeno C.H.A.D.",
+    "localizedDescription": "Gera um familiar que solta meio Coração Vermelho a cada 3 salas."
+  },
+  {
+    "id": 88,
+    "localizedName": "Pequeno Chubby",
+    "localizedDescription": "Gera um familiar que avança para frente e causa dano a todos os inimigos no caminho."
+  },
+  {
+    "id": 99,
+    "localizedName": "Pequeno Gish",
+    "localizedDescription": "Gera um familiar que segue Isaac e atira lágrimas que deixam os inimigos lentos."
+  },
+  {
+    "id": 100,
+    "localizedName": "Pequeno Steven",
+    "localizedDescription": "Gera um familiar que segue Isaac e atira lágrimas teleguiadas."
+  },
+  {
+    "id": 10117,
+    "localizedName": "Gafanhoto da Conquista",
+    "localizedDescription": "Ao entrar numa sala com inimigos, gera de 2 a 5 Gafanhotos Brancos que atacam os inimigos."
+  },
+  {
+    "id": 10116,
+    "localizedName": "Gafanhoto da Morte",
+    "localizedDescription": "Ao entrar numa sala com inimigos, gera um Gafanhoto Preto que causa muito dano."
+  },
+  {
+    "id": 10115,
+    "localizedName": "Gafanhoto da Fome",
+    "localizedDescription": "Ao entrar numa sala com inimigos, gera um Gafanhoto Amarelo que fere e deixa os inimigos lentos."
+  },
+  {
+    "id": 10114,
+    "localizedName": "Gafanhoto da Peste",
+    "localizedDescription": "Ao entrar numa sala com inimigos, gera um Gafanhoto Verde que fere e envenena os inimigos."
+  },
+  {
+    "id": 10113,
+    "localizedName": "Gafanhoto da Guerra",
+    "localizedDescription": "Ao entrar numa sala com inimigos, gera um Gafanhoto Vermelho que explode ao acertar um inimigo."
+  },
+  {
+    "id": 10106,
+    "localizedName": "Rolha Perdida",
+    "localizedDescription": "Aumenta o tamanho de todas as poças criadas por Isaac."
+  },
+  {
+    "id": 365,
+    "localizedName": "Mosca Perdida",
+    "localizedDescription": "Gera uma mosca familiar que anda em linha reta e fica rodeando a primeira parede ou obstáculo que acerta, causando 105 de dano por segundo ao encostar."
+  },
+  {
+    "id": 10070,
+    "localizedName": "Piolho",
+    "localizedDescription": "De vez em quando gera uma Aranha Azul."
+  },
+  {
+    "id": 10015,
+    "localizedName": "Pedra da Sorte",
+    "localizedDescription": "Pedras e suas variações soltam 1 moeda ao serem destruídas."
+  },
+  {
+    "id": 10042,
+    "localizedName": "Dedo da Sorte",
+    "localizedDescription": "+1 de Sorte. Adiciona chance de cair um coletável extra ao abrir um baú, destruir uma máquina ou explodir uma pedra marcada."
+  },
+  {
+    "id": 10055,
+    "localizedName": "Fé da Maggy",
+    "localizedDescription": "Dá um Coração Eterno no começo de cada andar."
+  },
+  {
+    "id": 538,
+    "localizedName": "Bolinhas de Gude",
+    "localizedDescription": "Gera 3 trinkets aleatórios. Ao levar dano, 5% de chance de engolir o trinket que está segurando, ganhando o efeito dele para sempre."
+  },
+  {
+    "id": 541,
+    "localizedName": "Tutano",
+    "localizedDescription": "Dá um Coração de Osso e gera três corações vermelhos no chão."
+  },
+  {
+    "id": 10041,
+    "localizedName": "Palito de Fósforo",
+    "localizedDescription": "Aumenta a chance de cair bomba ao limpar uma sala, e de encontrar bombas ao abrir um baú."
+  },
+  {
+    "id": 10091,
+    "localizedName": "Mecônio",
+    "localizedDescription": "Cocô preto pode soltar Corações Negros ao ser destruído. Cocôs têm chance de virar cocô preto."
+  },
+  {
+    "id": 456,
+    "localizedName": "Lanchinho da Meia-Noite",
+    "localizedDescription": "Dá um recipiente de Coração Vermelho inteiro e cura 1 coração a mais."
+  },
+  {
+    "id": 436,
+    "localizedName": "Leite!",
+    "localizedDescription": "Gera um familiar copo que derrama no chão quando Isaac leva dano. Depois que o leite derrama, o atraso entre lágrimas de Isaac diminui em 2 na sala atual."
+  },
+  {
+    "id": 10023,
+    "localizedName": "Cartaz de Desaparecido",
+    "localizedDescription": "Se Isaac morrer numa Sala de Sacrifício, uma peça de quebra-cabeça aparece no testamento dele.\nMorrer na Sala de Sacrifício segurando ele desbloqueia O Perdido. Se O Perdido já estiver desbloqueado, revive Isaac como O Perdido ao morrer e some."
+  },
+  {
+    "id": 10087,
+    "localizedName": "Medalhão da Mamãe",
+    "localizedDescription": "Dá meio Coração Vermelho cada vez que uma chave é usada. Transforma meios corações vermelhos do chão em corações inteiros."
+  },
+  {
+    "id": 10038,
+    "localizedName": "Pérola da Mamãe",
+    "localizedDescription": "Dá mais 10% de chance de qualquer coração comum que cair virar Coração de Alma."
+  },
+  {
+    "id": 508,
+    "localizedName": "Navalha da Mamãe",
+    "localizedDescription": "Gera uma navalha orbital que causa dano por contato e faz os inimigos sangrarem, perdendo vida aos poucos."
+  },
+  {
+    "id": 552,
+    "localizedName": "Pá da Mamãe",
+    "localizedDescription": "Ao usar, abre um alçapão para o próximo andar. Desbloqueia O Esquecido quando usada no monte de terra que aparece no Quarto Escuro."
+  },
+  {
+    "id": 10016,
+    "localizedName": "Unha do Pé da Mamãe",
+    "localizedDescription": "Uma vez por minuto, o pé da Mamãe pisa em algum lugar aleatório da sala."
+  },
+  {
+    "id": 322,
+    "localizedName": "Bebê Mongo",
+    "localizedDescription": "Gera um familiar que copia as lágrimas dos outros familiares de Isaac."
+  },
+  {
+    "id": 10020,
+    "localizedName": "Pata de Macaco",
+    "localizedDescription": "Se o personagem ficar com meio coração depois de levar dano, cai um Coração Negro. Funciona até três vezes; depois o trinket some."
+  },
+  {
+    "id": 523,
+    "localizedName": "Caixa de Mudança",
+    "localizedDescription": "Se a caixa estiver vazia, guarda todos os itens e coletáveis da sala. Se estiver cheia, coloca na sala atual tudo o que foi guardado."
+  },
+  {
+    "id": 527,
+    "localizedName": "Mr. ME!",
+    "localizedDescription": "Invoca um fantasma controlável que faz coisas diferentes dependendo do alvo escolhido."
+  },
+  {
+    "id": 431,
+    "localizedName": "Bebê Multidimensional",
+    "localizedDescription": "Gera um familiar que repete os movimentos de Isaac com 2,5 segundos de atraso. Lágrimas que passam pelo bebê se duplicam e ficam mais rápidas."
+  },
+  {
+    "id": 10025,
+    "localizedName": "Doce Misterioso",
+    "localizedDescription": "Isaac solta pum ou faz cocô em intervalos aleatórios. Levar dano também pode ativar o efeito."
+  },
+  {
+    "id": 10021,
+    "localizedName": "Papel Misterioso",
+    "localizedDescription": "Tem chance de copiar o efeito de Uma Página Perdida, A Polaroid, O Negativo ou Cartaz de Desaparecido."
+  },
+  {
+    "id": 539,
+    "localizedName": "Ovo Misterioso",
+    "localizedDescription": "Gera um familiar ovo que racha e vira um monstro aliado aleatório quando Isaac leva dano. O ovo volta ao entrar em outra sala."
+  },
+  {
+    "id": 515,
+    "localizedName": "Presente Misterioso",
+    "localizedDescription": "Ao usar, gera um item aleatório da pool da sala atual, com chance de vir A Lump of Coal ou The Poop no lugar."
+  },
+  {
+    "id": 271,
+    "localizedName": "Saco Misterioso",
+    "localizedDescription": "Gera um familiar que solta um Coração, moeda, bomba ou chave a cada 5 ou 6 salas."
+  },
+  {
+    "id": 10088,
+    "localizedName": "NÃO!",
+    "localizedDescription": "Impede que itens ativos apareçam, sempre que possível."
+  },
+  {
+    "id": 10098,
+    "localizedName": "Meleca",
+    "localizedDescription": "Chance de disparar uma meleca teleguiada que gruda nos inimigos e causa dano ao longo do tempo."
+  },
+  {
+    "id": 426,
+    "localizedName": "Fã Obcecado",
+    "localizedDescription": "Gera um familiar que repete os movimentos de Isaac com 3 segundos de atraso e causa dano por contato aos inimigos."
+  },
+  {
+    "id": 121,
+    "localizedName": "Cogumelo Estranho (Grande)",
+    "localizedDescription": "Dá um recipiente de coração vazio, +0,3 de dano, +0,25 de alcance, +0,5 de altura da lágrima e -0,1 de velocidade."
+  },
+  {
+    "id": 120,
+    "localizedName": "Cogumelo Estranho (Fino)",
+    "localizedDescription": "+1,7 de cadência de tiro, +0,3 de velocidade e reduz um pouco o dano."
+  },
+  {
+    "id": 10096,
+    "localizedName": "Verme Ouroboros",
+    "localizedDescription": "As lágrimas andam numa espiral grande e ficam espectrais, com pequena chance de serem teleguiadas."
+  },
+  {
+    "id": 430,
+    "localizedName": "Papai Mosca",
+    "localizedDescription": "Gera um familiar que repete os movimentos de Isaac com 3 segundos de atraso, atirando nos inimigos por perto."
+  },
+  {
+    "id": 10019,
+    "localizedName": "Clipe de Papel",
+    "localizedDescription": "Baús trancados podem ser abertos sem gastar chave."
+  },
+  {
+    "id": 10112,
+    "localizedName": "Pagar para Ganhar",
+    "localizedDescription": "Sempre aparece uma caixa de reposição nas Salas do Tesouro."
+  },
+  {
+    "id": 10002,
+    "localizedName": "Cocô Petrificado",
+    "localizedDescription": "Aumenta muito a chance de cair coletável ao destruir cocô."
+  },
+  {
+    "id": 10030,
+    "localizedName": "Olhinho Rosa",
+    "localizedDescription": "Adiciona 10% de chance de atirar uma lágrima venenosa, que causa dano ao longo do tempo."
+  },
+  {
+    "id": 544,
+    "localizedName": "Costela Pontuda",
+    "localizedDescription": "Gera um familiar de osso que vai e volta na frente de Isaac, causando dano igual ao de Isaac."
+  },
+  {
+    "id": 10076,
+    "localizedName": "Ficha de Pôquer",
+    "localizedDescription": "Baús têm 50% de chance de dar coletáveis extras e 50% de chance de não dar nada ou soltar inimigos."
+  },
+  {
+    "id": 529,
+    "localizedName": "Pop!",
+    "localizedDescription": "Troca as lágrimas de Isaac por olhos que quicam uns nos outros. Eles não têm limite de alcance: somem quando param ou ao acertar um inimigo ou obstáculo."
+  },
+  {
+    "id": 10009,
+    "localizedName": "Verme Pulsante",
+    "localizedDescription": "As lágrimas pulsam de tamanho enquanto andam."
+  },
+  {
+    "id": 281,
+    "localizedName": "Saco de Pancada",
+    "localizedDescription": "Gera um familiar Mulligan que anda aleatoriamente. Os inimigos atacam o Mulligan se ele estiver mais perto."
+  },
+  {
+    "id": 10005,
+    "localizedName": "Coração Roxo",
+    "localizedDescription": "Aumenta a chance de encontrar inimigos e chefes campeões."
+  },
+  {
+    "id": 10031,
+    "localizedName": "Tachinha",
+    "localizedDescription": "Adiciona 10% de chance de atirar uma lágrima perfurante e espectral."
+  },
+  {
+    "id": 174,
+    "localizedName": "Bebê Arco-Íris",
+    "localizedDescription": "Gera um familiar que segue Isaac e atira lágrimas com efeitos aleatórios."
+  },
+  {
+    "id": 10064,
+    "localizedName": "Verme Arco-Íris",
+    "localizedDescription": "As lágrimas de Isaac ganham um efeito de verme que muda a cada 3 segundos."
+  },
+  {
+    "id": 10040,
+    "localizedName": "Remendo Vermelho",
+    "localizedDescription": "Ao sofrer dano, há chance de o dano aumentar em 1,8 na sala atual."
+  },
+  {
+    "id": 10084,
+    "localizedName": "Costela da Ganância",
+    "localizedDescription": "Impede que Greed e Super Greed apareçam em lojas e Salas Secretas, e aumenta a chance de cair moeda ao limpar salas."
+  },
+  {
+    "id": 10011,
+    "localizedName": "Verme Anel",
+    "localizedDescription": "Isaac atira em espiral rápida. Também dá lágrimas espectrais."
+  },
+  {
+    "id": 95,
+    "localizedName": "Robo-Bebê",
+    "localizedDescription": "Gera um familiar que dispara lasers de Tecnologia."
+  },
+  {
+    "id": 267,
+    "localizedName": "Robo-Bebê 2.0",
+    "localizedDescription": "Gera um familiar que dispara lasers em qualquer inimigo na linha de visão e se move conforme a direção em que Isaac atira."
+  },
+  {
+    "id": 10007,
+    "localizedName": "Conta de Rosário",
+    "localizedDescription": "Aumenta a chance de aparecerem Salas do Anjo e de encontrar A Bíblia na Biblioteca e na Loja."
+  },
+  {
+    "id": 268,
+    "localizedName": "Bebê Podre",
+    "localizedDescription": "Gera um familiar que solta uma Mosca Azul quando Isaac atira. Só pode ter uma mosca por vez."
+  },
+  {
+    "id": 10126,
+    "localizedName": "Moeda Podre",
+    "localizedDescription": "Gera uma Mosca Azul toda vez que uma moeda é coletada."
+  },
+  {
+    "id": 389,
+    "localizedName": "Bolsa de Runas",
+    "localizedDescription": "Gera um familiar que solta uma runa aleatória a cada 5 ou 6 salas."
+  },
+  {
+    "id": 10036,
+    "localizedName": "Chave Enferrujada",
+    "localizedDescription": "Aumenta a chance de cair chave ao limpar uma sala, e de encontrar chaves ao abrir um baú."
+  },
+  {
+    "id": 94,
+    "localizedName": "Saco de Moedas",
+    "localizedDescription": "Gera um familiar que solta uma moeda a cada 2 salas."
+  },
+  {
+    "id": 500,
+    "localizedName": "Saco de Sacos",
+    "localizedDescription": "Gera um familiar que solta um saco a cada 5 ou 6 salas limpas."
+  },
+  {
+    "id": 536,
+    "localizedName": "Altar de Sacrifício",
+    "localizedDescription": "Sacrifica até 2 familiares e gera um item da pool da Sala do Diabo para cada um. Transforma todas as aranhas e moscas aliadas em moedas."
+  },
+  {
+    "id": 172,
+    "localizedName": "Adaga de Sacrifício",
+    "localizedDescription": "Gera uma adaga familiar orbital que causa 225 de dano por segundo e bloqueia tiros inimigos."
+  },
+  {
+    "id": 10044,
+    "localizedName": "Tampa de Segurança",
+    "localizedDescription": "Aumenta a chance de cair pílula ao limpar uma sala, e de encontrar pílula ao abrir um baú."
+  },
+  {
+    "id": 10063,
+    "localizedName": "Tesoura sem Ponta",
+    "localizedDescription": "Bombas-armadilha viram bombas coletáveis antes de explodir. Mega bombas-armadilha viram 1+1 bombas grátis."
+  },
+  {
+    "id": 321,
+    "localizedName": "Correntes de Sansão",
+    "localizedDescription": "Prende uma bola de ferro com corrente em Isaac, que ele arrasta atrás de si; ela fere inimigos, bloqueia tiros e destrói a maioria dos obstáculos."
+  },
+  {
+    "id": 10058,
+    "localizedName": "Cadeado de Sansão",
+    "localizedDescription": "Chance de 1/15 de aumentar o dano em 0,5 na sala atual cada vez que um inimigo morre."
+  },
+  {
+    "id": 534,
+    "localizedName": "Mochila Escolar",
+    "localizedDescription": "Permite que Isaac carregue dois itens ativos."
+  },
+  {
+    "id": 10078,
+    "localizedName": "Ponteiro dos Segundos",
+    "localizedDescription": "Aumenta o tempo que os efeitos de status ficam nos inimigos."
+  },
+  {
+    "id": 390,
+    "localizedName": "Serafim",
+    "localizedDescription": "Gera um familiar anjo que segue Isaac e atira lágrimas teleguiadas que causam 10 de dano, com 75% da velocidade de tiro."
+  },
+  {
+    "id": 468,
+    "localizedName": "Sombra",
+    "localizedDescription": "Gera um familiar sombra que repete os movimentos de Isaac com 1 segundo de atraso e causa dano por contato. Depois de causar dano suficiente, é absorvida por Isaac e gera Chargers aliados."
+  },
+  {
+    "id": 10062,
+    "localizedName": "Pedra Brilhante",
+    "localizedDescription": "Pedras marcadas e pedras com passagem secreta piscam em branco ao entrar na sala e depois a cada 10 segundos."
+  },
+  {
+    "id": 10110,
+    "localizedName": "Dólar de Prata",
+    "localizedDescription": "Lojas passam a aparecer no Capítulo 4."
+  },
+  {
+    "id": 280,
+    "localizedName": "Sissy Longlegs",
+    "localizedDescription": "Gera um familiar que anda aleatoriamente e de vez em quando gera Aranhas Azuis."
+  },
+  {
+    "id": 67,
+    "localizedName": "Irmã Maggy",
+    "localizedDescription": "Gera um familiar que segue Isaac atirando lágrimas normais."
+  },
+  {
+    "id": 542,
+    "localizedName": "Costela Deslocada",
+    "localizedDescription": "Gera um familiar de osso que gira em volta de Isaac e rebate tiros inimigos."
+  },
+  {
+    "id": 264,
+    "localizedName": "Mosca Esperta",
+    "localizedDescription": "Gera um familiar orbital que bloqueia tiros inimigos. Quando Isaac leva dano, ele persegue os inimigos pelo resto da sala, causando 22,5 de dano por segundo."
+  },
+  {
+    "id": 403,
+    "localizedName": "Spider Mod",
+    "localizedDescription": "Mostra o dano das lágrimas de Isaac e barras de vida dos inimigos. Gera um familiar que anda pela sala e aplica efeitos de status aleatórios nos inimigos que toca. Pode gerar uma Pilha Pequena ou Aranha Azul ao limpar uma sala."
+  },
+  {
+    "id": 516,
+    "localizedName": "Regador",
+    "localizedDescription": "Ao usar, gera um regador que gira e atira lágrimas."
+  },
+  {
+    "id": 10119,
+    "localizedName": "Célula-Tronco",
+    "localizedDescription": "Cura meio coração ao descer para o próximo andar.\nAo descer para o próximo andar, cura os Corações Vermelhos até 50% do máximo. Se a vida já estiver em 50% ou mais, cura meio Coração Vermelho."
+  },
+  {
+    "id": 10013,
+    "localizedName": "Crédito na Loja",
+    "localizedDescription": "A próxima compra na loja sai de graça. O trinket some depois da compra."
+  },
+  {
+    "id": 10083,
+    "localizedName": "Chave da Loja",
+    "localizedDescription": "Lojas podem ser abertas sem gastar chave."
+  },
+  {
+    "id": 10074,
+    "localizedName": "Detector de Vigas",
+    "localizedDescription": "Aumenta a chance de encontrar uma Passagem Secreta (Crawl Space)."
+  },
+  {
+    "id": 417,
+    "localizedName": "Súcubo",
+    "localizedDescription": "Gera um familiar voador que quica pela sala com uma aura escura, causando dano rápido aos inimigos dentro dela. Dentro da aura, o dano das lágrimas de Isaac é multiplicado por 1,5."
+  },
+  {
+    "id": 10099,
+    "localizedName": "Bola Pula-Pula",
+    "localizedDescription": "As lágrimas têm chance de quicar em inimigos e obstáculos."
+  },
+  {
+    "id": 10068,
+    "localizedName": "Super Ímã",
+    "localizedDescription": "Puxa inimigos e coletáveis em direção a Isaac."
+  },
+  {
+    "id": 10001,
+    "localizedName": "Moeda Engolida",
+    "localizedDescription": "Ao sofrer dano, Isaac solta uma moeda."
+  },
+  {
+    "id": 363,
+    "localizedName": "Protetor Juramentado",
+    "localizedDescription": "Gera um familiar orbital que causa 105 de dano por segundo e atrai e bloqueia tiros inimigos. Depois de bloquear 10 tiros numa sala, solta um Coração Eterno."
+  },
+  {
+    "id": 10065,
+    "localizedName": "Tênia",
+    "localizedDescription": "Dobra o alcance de Isaac e corta pela metade a altura das lágrimas."
+  },
+  {
+    "id": 524,
+    "localizedName": "Tecnologia Zero",
+    "localizedDescription": "Liga as lágrimas de Isaac com eletricidade, que fere os inimigos no meio."
+  },
+  {
+    "id": 522,
+    "localizedName": "Telecinese",
+    "localizedDescription": "Ao usar, por dois segundos, os tiros inimigos que chegam perto de Isaac ficam parados no ar. Quando o efeito acaba, eles são disparados de volta como lágrimas."
+  },
+  {
+    "id": 10061,
+    "localizedName": "A Mão Esquerda",
+    "localizedDescription": "Troca todos os tipos de baú por baús vermelhos."
+  },
+  {
+    "id": 155,
+    "localizedName": "The Peeper",
+    "localizedDescription": "Gera um familiar que flutua devagar pela sala em zigue-zague, ferindo os inimigos por onde passa."
+  },
+  {
+    "id": 98,
+    "localizedName": "A Relíquia",
+    "localizedDescription": "Gera um familiar cruz que solta um Coração de Alma a cada 5 ou 6 salas."
+  },
+  {
+    "id": 10053,
+    "localizedName": "Carrapato",
+    "localizedDescription": "Drena 15% da vida de inimigos com mais de 60 de vida. Recupera um Coração Vermelho ao entrar numa sala de chefe ainda não vencida. Não dá para largar nem trocar por outro trinket."
+  },
+  {
+    "id": 474,
+    "localizedName": "Amígdala",
+    "localizedDescription": "Dá um familiar que bloqueia tiros inimigos."
+  },
+  {
+    "id": 10097,
+    "localizedName": "Amígdala (Trinket)",
+    "localizedDescription": "Ao levar dano, há pequena chance de uma amígdala arrancada virar familiar e seguir Isaac, bloqueando tiros inimigos."
+  },
+  {
+    "id": 533,
+    "localizedName": "Trisagion",
+    "localizedDescription": "Reduz o dano. As lágrimas viram rajadas de luz branca perfurantes que podem acertar o mesmo inimigo várias vezes."
+  },
+  {
+    "id": 10033,
+    "localizedName": "Cordão Umbilical",
+    "localizedDescription": "Quando Isaac fica com só meio Coração Vermelho, gera um familiar Pequeno Steven na sala atual. Ao levar dano, tem alta chance de gerar um familiar Gêmeos na sala atual."
+  },
+  {
+    "id": 10093,
+    "localizedName": "Fralda Usada",
+    "localizedDescription": "Dá o efeito de Skatole em algumas salas."
+  },
+  {
+    "id": 10100,
+    "localizedName": "Lâmpada Vibrante",
+    "localizedDescription": "Aumenta todos os atributos enquanto o item ativo de Isaac estiver totalmente carregado."
+  },
+  {
+    "id": 10108,
+    "localizedName": "Noz",
+    "localizedDescription": "Levar dano de explosões acaba destruindo o trinket e gerando vários coletáveis."
+  },
+  {
+    "id": 10072,
+    "localizedName": "Bateria de Relógio",
+    "localizedDescription": "Aumenta a chance de aparecerem pilhas. Tem chance de dar uma carga extra ao item ativo ao limpar uma sala."
+  },
+  {
+    "id": 10027,
+    "localizedName": "Verme Chicote",
+    "localizedDescription": "Aumenta a velocidade do tiro em 0,5, aumentando o alcance efetivo."
+  },
+  {
+    "id": 10010,
+    "localizedName": "Verme Ondulante",
+    "localizedDescription": "Os tiros de Isaac andam em onda. +0,4 de cadência de tiro."
+  },
+  {
+    "id": 10104,
+    "localizedName": "Osso da Sorte",
+    "localizedDescription": "Ao levar dano, há pequena chance de o trinket se destruir e gerar um item aleatório."
+  },
+  {
+    "id": 10121,
+    "localizedName": "Cruz de Madeira",
+    "localizedDescription": "Dá um escudo que anula o primeiro dano sofrido, uma vez por andar."
+  },
+  {
+    "id": 492,
+    "localizedName": "YO LISTEN!",
+    "localizedDescription": "+1 de sorte. Gera uma fada familiar que aponta Salas Secretas, entradas de Passagens Secretas e pedras marcadas."
+  },
+  {
+    "id": 20048,
+    "localizedName": "Carta ?",
+    "localizedDescription": "Ao usar, copia o efeito do item ativo que Isaac está segurando."
+  },
+  {
+    "id": 20001,
+    "localizedName": "0 - O Louco",
+    "localizedDescription": "Teleporta Isaac de volta para a sala inicial do andar."
+  },
+  {
+    "id": 20023,
+    "localizedName": "2 de Paus",
+    "localizedDescription": "Dobra suas bombas. Se não tiver nenhuma, dá 2."
+  },
+  {
+    "id": 20024,
+    "localizedName": "2 de Ouros",
+    "localizedDescription": "Dobra suas moedas. Se não tiver nenhuma, dá 2."
+  },
+  {
+    "id": 20026,
+    "localizedName": "2 de Copas",
+    "localizedDescription": "Dobra os Corações Vermelhos atuais de Isaac. Não afeta Corações Eternos, de Alma ou Negros, e não cria recipientes novos: só enche os vazios."
+  },
+  {
+    "id": 20025,
+    "localizedName": "2 de Espadas",
+    "localizedDescription": "Dobra suas chaves. Se não tiver nenhuma, dá 2."
+  },
+  {
+    "id": 20045,
+    "localizedName": "Uma Carta Contra a Humanidade",
+    "localizedDescription": "Enche a sala inteira de cocô. Não é instantâneo, e a sala não fica cheia se você sair antes de terminar."
+  },
+  {
+    "id": 20027,
+    "localizedName": "Ás de Paus",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em Bombas."
+  },
+  {
+    "id": 20028,
+    "localizedName": "Ás de Ouros",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em Moedas."
+  },
+  {
+    "id": 20030,
+    "localizedName": "Ás de Copas",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em corações aleatórios."
+  },
+  {
+    "id": 20029,
+    "localizedName": "Ás de Espadas",
+    "localizedDescription": "Transforma todos os coletáveis, baús e inimigos (exceto chefes) da sala em Chaves."
+  },
+  {
+    "id": 20053,
+    "localizedName": "Recordação Ancestral",
+    "localizedDescription": "Gera 3 cartas aleatórias."
+  },
+  {
+    "id": 20041,
+    "localizedName": "Runa Negra",
+    "localizedDescription": "Causa 40 de dano a todos os inimigos da sala. Consome os coletáveis da sala e os transforma em Moscas e Aranhas Azuis, e consome os itens de pedestal transformando-os em aumentos de atributo aleatórios. Não afeta itens da Loja."
+  },
+  {
+    "id": 20040,
+    "localizedName": "Runa em Branco",
+    "localizedDescription": "Ativa o efeito de uma runa aleatória, menos a Runa Negra. Tem 25% de chance de gerar outra Runa em Branco ao ser usada."
+  },
+  {
+    "id": 20042,
+    "localizedName": "Carta do Caos",
+    "localizedDescription": "Arremessa a carta, que mata tudo o que estiver no caminho. Também abre portas normais."
+  },
+  {
+    "id": 20043,
+    "localizedName": "Cartão de Crédito",
+    "localizedDescription": "Transforma todos os itens da Loja ou da Sala do Diabo em itens grátis, que dá para pegar sem pagar."
+  },
+  {
+    "id": 20049,
+    "localizedName": "Fragmento de Dado",
+    "localizedDescription": "Ao usar, ativa os efeitos de O D6 e do D20 ao mesmo tempo."
+  },
+  {
+    "id": 20050,
+    "localizedName": "Contato de Emergência",
+    "localizedDescription": "Ao usar, duas Mãos da Mamãe descem e agarram dois inimigos aleatórios."
+  },
+  {
+    "id": 20054,
+    "localizedName": "Caminhada no Tempo",
+    "localizedDescription": "Na sala atual, os inimigos ficam mais lentos, Isaac fica mais rápido e a velocidade do tiro diminui."
+  },
+  {
+    "id": 20047,
+    "localizedName": "Saída Livre da Prisão",
+    "localizedDescription": "Ao usar, abre todas as portas da sala atual, inclusive a porta dourada do Baú (The Chest) e do Quarto Escuro, como a Dad's Key."
+  },
+  {
+    "id": 20051,
+    "localizedName": "Carta Sagrada",
+    "localizedDescription": "Dá o efeito do Holy Mantle: um escudo que bloqueia o próximo dano (dependendo da versão, dura só a sala atual ou até levar dano)."
+  },
+  {
+    "id": 20052,
+    "localizedName": "Crescimento Enorme",
+    "localizedDescription": "Deixa Isaac gigante na sala atual, aumentando o alcance e o dano."
+  },
+  {
+    "id": 20002,
+    "localizedName": "I - O Mago",
+    "localizedDescription": "Dá lágrimas teleguiadas e +3 de alcance na sala atual (mesmo efeito de Telepathy for Dummies)."
+  },
+  {
+    "id": 20003,
+    "localizedName": "II - A Sacerdotisa",
+    "localizedDescription": "A perna da Mamãe desce e pisa causando 300 de dano, sempre no inimigo com mais vida. Se usada numa sala vazia ou na luta contra a Mamãe, pisa em Isaac."
+  },
+  {
+    "id": 20004,
+    "localizedName": "III - A Imperatriz",
+    "localizedDescription": "Ativa o efeito de Whore of Babylon (+1,5 de dano, +0,3 de velocidade) na sala atual, sem precisar estar com um coração vermelho ou menos."
+  },
+  {
+    "id": 20005,
+    "localizedName": "IV - O Imperador",
+    "localizedDescription": "Teleporta Isaac para a Sala do Chefe do andar. Em Home, vira um teleporte aleatório."
+  },
+  {
+    "id": 20010,
+    "localizedName": "IX - O Eremita",
+    "localizedDescription": "Teleporta Isaac para a Loja. Sem Loja no andar, vira um teleporte aleatório. Se a Loja ainda não foi aberta, destranca a porta sem gastar chave (saindo pela entrada principal)."
+  },
+  {
+    "id": 20031,
+    "localizedName": "Coringa",
+    "localizedDescription": "Teleporta Isaac para a Sala do Diabo ou a Sala do Anjo."
+  },
+  {
+    "id": 20044,
+    "localizedName": "Carta de Regras",
+    "localizedDescription": "Mostra uma frase enigmática na tela, como uma Cartomante. Muitas vezes são dicas sobre chefes, áreas bônus etc."
+  },
+  {
+    "id": 20039,
+    "localizedName": "Runa Algiz",
+    "localizedDescription": "Dá um escudo temporário de invencibilidade (30 segundos; 20 segundos em versões mais novas)."
+  },
+  {
+    "id": 20036,
+    "localizedName": "Runa Ansuz",
+    "localizedDescription": "Revela o mapa inteiro, incluindo a Sala Secreta e a Super Secreta. Não remove a Curse of the Lost."
+  },
+  {
+    "id": 20038,
+    "localizedName": "Runa Berkano",
+    "localizedDescription": "Invoca 3 Moscas Azuis e 3 Aranhas Azuis aliadas."
+  },
+  {
+    "id": 20035,
+    "localizedName": "Runa Dagaz",
+    "localizedDescription": "Remove as maldições do andar atual e dá um Coração de Alma. Não remove a Curse of the Labyrinth."
+  },
+  {
+    "id": 20034,
+    "localizedName": "Runa Ehwaz",
+    "localizedDescription": "Abre um alçapão para o próximo andar. Tem cerca de 8% (1/12) de chance de abrir a entrada de uma Passagem Secreta no lugar."
+  },
+  {
+    "id": 20032,
+    "localizedName": "Runa Hagalaz",
+    "localizedDescription": "Destrói todos os objetos quebráveis da sala. Dependendo da versão do jogo, também quebra os Blocos de Chave."
+  },
+  {
+    "id": 20033,
+    "localizedName": "Runa Jera",
+    "localizedDescription": "Clona todos os coletáveis e baús da sala (inclusive os da Loja, e os clones saem de graça). O baú clonado tem o mesmo tipo de conteúdo do original. Não clona outras runas Jera nem trinkets."
+  },
+  {
+    "id": 20037,
+    "localizedName": "Runa Perthro",
+    "localizedDescription": "Sorteia de novo todos os itens de pedestal da sala (mesmo efeito de O D6)."
+  },
+  {
+    "id": 20046,
+    "localizedName": "Rei Suicida",
+    "localizedDescription": "Mata Isaac e gera um monte de coletáveis, itens e/ou baús na mesma sala."
+  },
+  {
+    "id": 20006,
+    "localizedName": "V - O Hierofante",
+    "localizedDescription": "Gera 2 Corações de Alma."
+  },
+  {
+    "id": 20007,
+    "localizedName": "VI - Os Enamorados",
+    "localizedDescription": "Gera 2 Corações Vermelhos. Se usada numa Sala Super Secreta que tenha Corações Negros ou Eternos, gera esses corações no lugar."
+  },
+  {
+    "id": 20008,
+    "localizedName": "VII - O Carro",
+    "localizedDescription": "Dá a invencibilidade temporária de My Little Unicorn."
+  },
+  {
+    "id": 20009,
+    "localizedName": "VIII - A Justiça",
+    "localizedDescription": "Gera um de cada consumível: um Coração Vermelho, uma Chave, uma Bomba e uma Moeda. O coração pode vir como meio coração ou coração duplo."
+  },
+  {
+    "id": 20011,
+    "localizedName": "X - A Roda da Fortuna",
+    "localizedDescription": "Gera uma máquina de fliperama (Caça-Níquel ou Máquina da Sorte)."
+  },
+  {
+    "id": 20012,
+    "localizedName": "XI - A Força",
+    "localizedDescription": "Dá os efeitos de Magic Mushroom (sem curar) por uma sala. O recipiente de Coração Vermelho extra some ao sair da sala."
+  },
+  {
+    "id": 20013,
+    "localizedName": "XII - O Enforcado",
+    "localizedDescription": "Tira o corpo de Isaac, deixando ele voar pela sala atual (mesmo efeito de Transcendence)."
+  },
+  {
+    "id": 20014,
+    "localizedName": "XIII - A Morte",
+    "localizedDescription": "Causa 40 de dano a todos os inimigos da sala (mesmo efeito de O Necronomicon)."
+  },
+  {
+    "id": 20015,
+    "localizedName": "XIV - A Temperança",
+    "localizedDescription": "Gera uma Máquina de Doação de Sangue.\nNo modo Greed, gera um Mendigo do Diabo."
+  },
+  {
+    "id": 20020,
+    "localizedName": "XIX - O Sol",
+    "localizedDescription": "Recupera toda a vida de Isaac, causa 100 de dano a todos os inimigos da sala e revela o mapa do andar, menos a Sala Super Secreta. Remove a Curse of Darkness do andar."
+  },
+  {
+    "id": 20016,
+    "localizedName": "XV - O Diabo",
+    "localizedDescription": "Dá +2 de dano temporário na sala atual (mesmo efeito de The Book of Belial)."
+  },
+  {
+    "id": 20017,
+    "localizedName": "XVI - A Torre",
+    "localizedDescription": "Gera 6 Bombas-Armadilha espalhadas pela sala (mesmo efeito de Anarchist Cookbook)."
+  },
+  {
+    "id": 20018,
+    "localizedName": "XVII - A Estrela",
+    "localizedDescription": "Teleporta Isaac para a Sala do Tesouro. Sem Sala do Tesouro, vira um teleporte aleatório; com Curse of the Labyrinth, escolhe uma delas ao acaso. Se a sala ainda não foi aberta, destranca a porta sem gastar chave (saindo pela entrada principal)."
+  },
+  {
+    "id": 20019,
+    "localizedName": "XVIII - A Lua",
+    "localizedDescription": "Teleporta Isaac para a Sala Secreta e abre uma parede aleatória lá dentro, para dar para sair mesmo sem bombas. Não funciona nos modos Greed e Greedier."
+  },
+  {
+    "id": 20021,
+    "localizedName": "XX - O Julgamento",
+    "localizedDescription": "Gera um Mendigo."
+  },
+  {
+    "id": 20022,
+    "localizedName": "XXI - O Mundo",
+    "localizedDescription": "Revela o andar inteiro, menos a Sala Super Secreta. Não funciona com Curse of the Lost ou Amnesia."
   }
 ]

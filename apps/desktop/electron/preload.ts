@@ -9,6 +9,7 @@ export interface OracleApi {
   removeItem(itemId: number): Promise<RunState>
   updateRun(update: RunUpdate): Promise<RunState>
   endRun(): Promise<void>
+  setPinned(pinned: boolean): Promise<boolean>
 }
 
 const oracleApi: OracleApi = {
@@ -19,6 +20,7 @@ const oracleApi: OracleApi = {
   removeItem: (itemId) => ipcRenderer.invoke('run:remove-item', itemId),
   updateRun: (update) => ipcRenderer.invoke('run:update', update),
   endRun: () => ipcRenderer.invoke('run:end'),
+  setPinned: (pinned) => ipcRenderer.invoke('window:set-pinned', pinned),
 }
 
 contextBridge.exposeInMainWorld('oracle', oracleApi)
